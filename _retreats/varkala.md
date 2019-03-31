@@ -6,6 +6,9 @@ dates:
     date: 15th-28th November, 2019
     description: 
 subtitle: 
+deposit: 100
+availablePlaces: 15
+remainingPlaces: 7
 prices:
     description: 2 weeks
     price: £950

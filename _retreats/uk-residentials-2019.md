@@ -3,15 +3,18 @@ img: /img/holidaybeach.jpg
 layout: retreat
 title: UK Residentials 2019
 dates:
-    date: 17th-21th June, 2019
+  - date: 17th-21th June, 2019
     description: Transformative Yoga Training    
-    date: 16 -20th September
+  - date: 16 -20th September
     description: Slow Flow Training
 subtitle: 
+deposit: 100
+totalPlaces: 15
+remainingPlaces: 8
 prices:
-    description: 2 weeks
+  - description: 2 weeks
     price: £950
-    description: 1 week
+  - description: 1 week
     price: £550
 ---
 

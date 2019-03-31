@@ -10,8 +10,63 @@ layout: page
         <div>
           <div class="block">
             <h1>{{ page.title }}</h1>
-            <div class="post-info-wrapper">
-              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+            <div class="post-info-wrapper row">
+
+              <dl class="col-sm-3">
+                {% for date in page.dates %}
+                <dt>
+                  {% if date.description %}
+                  {{ date.description }}
+                  {% else %}
+                  Date
+                  {% endif %}
+                </dt>
+                <dd>{{ date.date }}</dd>
+                {% endfor %}
+              </dl>
+
+              <dl class="col-sm-3">
+                {% for price in page.prices %}
+                <dt>
+                  {% if price.description %}
+                  {{ price.description }}
+                  {% else %}
+                  Price
+                  {% endif %}
+                </dt>
+                <dd>{{ price.price }}</dd>
+                {% endfor %}
+              </dl>
+
+              <div class="col-sm-6">
+                {% if page.remainingPlaces > 0 %}
+                <h3 class="mt-0">Reserve your place now with a £{{ page.deposit }}</h3>
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                  <input type="hidden" name="cmd" value="_xclick">
+                  <input type="hidden" name="business" value="accounts@freelanceswitch.com">
+                  <input type="hidden" name="item_name" value="Donation">
+                  <input type="hidden" name="item_number" value="1">
+                  <input type="hidden" name="amount" value="{{ page.deposit }}">
+                  <input type="hidden" name="no_shipping" value="0">
+                  <input type="hidden" name="no_note" value="1">
+                  <input type="hidden" name="currency_code" value="USD">
+                  <input type="hidden" name="lc" value="AU">
+                  <input type="hidden" name="bn" value="PP-BuyNowBF">
+                  <input type="image" src="https://www.paypal.com/en_AU/i/btn/btn_buynow_LG.gif" border="0" name="submit"
+                    alt="PayPal - The safer, easier way to pay online.">
+                </form>
+                {% else if page.totalPlaces > 0 %}
+                <h3>Sorry, there are no places left.</h3>
+                <p>Feel free to get in touch to for information on upcoming retreats.</p>
+                {% endif %}
+
+                {% assign theashold = page.totalPlaces | divided_by: 2 %}
+
+                {% if page.remainingPlaces > 0 and theashold >= page.remainingPlaces %}
+                <p class="label label-danger">Hurry, only {{ page.remainingPlaces }} remaining.</p>
+                {% endif %}
+              </div>
+
             </div>
             <hr />
             <p>{{ content }}</p>

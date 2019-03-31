@@ -3,11 +3,14 @@ img: /img/holidaybeach.jpg
 layout: retreat
 title: Nepal Yoga Mini Vipassana + Mindful Adventure
 dates:
-    date: 17-30th October, 2019
+  - date: 17-30th October, 2019
     description: 
 subtitle: 
+deposit: 100
+availablePlaces: 15
+remainingPlaces: 7
 prices:
-    description: 2 weeks
+  - description: 2 weeks
     price: £420/€550/$500
 ---
 

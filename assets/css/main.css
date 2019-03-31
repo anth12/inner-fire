@@ -59,6 +59,15 @@ a:active {
 #documents .container {
   padding: 2.5em 0; }
 
+.mt-0 {
+  margin-top: 0 !important; }
+
+.mt-5 {
+  margin-top: 5 !important; }
+
+.mt-10 {
+  margin-top: 10 !important; }
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased; }
@@ -427,9 +436,6 @@ footer {
       color: #555; }
   #testimonial .testimonial-carousel {
     text-align: center;
-    width: 75%;
-    border: 1px solid #DEDEDE;
-    padding: 24px;
     margin: 0 auto; }
     #testimonial .testimonial-carousel img {
       padding-bottom: 38px; }

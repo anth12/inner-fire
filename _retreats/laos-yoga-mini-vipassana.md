@@ -3,13 +3,16 @@ img: /img/holidaybeach.jpg
 layout: retreat
 title: Laos Yoga Mini Vipassana + Mindful Adventure
 dates:
-    date: 15th-28th November, 2019
+  - date: 15th-28th November, 2019
     description: 
 subtitle: 
+deposit: 100
+availablePlaces: 15
+remainingPlaces: 7
 prices:
-    description: 2 weeks
+  - description: 2 weeks
     price: £500/€600/$700
-    description: Optional educational project
+  - description: Optional educational project
     price: £200
 ---
 
