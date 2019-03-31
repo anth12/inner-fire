@@ -1,19 +1,13 @@
 platform:
   - icon: fa-facebook
-    link: 'http://facebook.com/'
+    link: 'http://facebook.com/InnerFireDeyna'
     name: Facebook
   - icon: fa-twitter
-    link: 'http://twitter.com/'
+    link: 'http://twitter.com/InnerFireDeyna'
     name: Twitter
-  - icon: fa-pinterest
-    link: 'http://pintrest.com/'
-    name: Pinterest
-  - icon: fa-dribbble
-    link: 'http://dribble.com/'
-    name: Dribbble
-  - icon: fa-behance
-    link: 'http://behance.com/'
-    name: Behance
+  - icon: fa-instagram
+    link: 'http://dribble.com/innerfiredeyna'
+    name: Instagra
   - icon: fa-linkedin
-    link: 'http://linkedin.com/'
+    link: 'http://linkedin.com/in/deyna-hirst-3b624370/'
     name: LinkedIn

@@ -17,8 +17,8 @@ keep_files:
 
 
 # Site settings
-title: Jekyll Starter
-subtitle: "A template to get started on"
+title: Nomadic Ashram
+subtitle: "How is your Inner Fire"
 url: "" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
@@ -35,6 +35,10 @@ markdown: kramdown
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
+
+collections:
+  retreats:
+    output: true
 
 # Category descriptions (for archive pages)
 descriptions:

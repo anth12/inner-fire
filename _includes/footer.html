@@ -1,3 +1,34 @@
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <hr />
+        <h2>Accreditations</h2>
+        <p>
+          I work in partnership with local teachers around the world to bring you the best of Yoga ancient wisdom and
+          contemporary scientific discovery, mixing serious study with light-hearted laughter. With 25 years of
+          eclectic Yoga wisdom with me, I also have formal diplomas in: General Hatha Yoga Dru Yoga Transformational
+          Yoga (Hatha Yoga Master) Nada Yoga (singing bowl vibrational healing) Ayurvedic Yoga Therapy Meditation
+          Teaching Thai Yoga Massage plus experience and training in Sivananda Yoga and Iyengar Yoga
+        </p>
+        <div class="block">
+          <div id="clients-logo" class="owl-carousel">
+            {% for image in site.static_files %}
+            {% if image.path contains 'img/clients' %}
+            <div class="clients-logo-img">
+              <a href="#">
+                <img src="{{ site.baseurl }}{{ image.path }}" class="img-responsive" />
+              </a>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- footer Start -->
 <footer>
   <div class="container">
@@ -6,12 +37,27 @@
         <div class="footer-manu">
           <ul>
             {% for item in site.data.menu.top %}
-              <li><a href="{{ site.baseurl }}{{item.path}}">{{item.text}}</a></li>
+            <li><a href="{{ site.baseurl }}{{item.path}}">{{item.text}}</a></li>
             {% endfor %}
           </ul>
         </div>
-        <p>Call us anytime at <strong>{{site.data.business.phone_primay}}</strong><br>
-        Or vist us at <a href="http://maps.google.com/?q={{site.data.business.address_full | url_encode}}">{{site.data.business.address_full}}</a></p>
+
+        <p>T: <a href="tel:{{site.data.business.phone_primay}}">
+            <strong>{{site.data.business.phone_primay}}</strong>
+          </a>
+          E: <a href="mailto:{{site.data.business.email_primary}}">
+            <strong>{{site.data.business.email_primary}}</strong></a></p>
+
+        <ul class="list-inline">
+          {% for item in site.data.social_media.platform %}
+          <li>
+            <a href="{{item.link}}" target="blank" title="{{item.name}}"><i class="fa {{item.icon}}"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+
+        <p class="pull-right">Website by <a title="The Pixel Forge" href="http://thepixelforge.co.uk" target="_blank"><strong>The
+              Pixel Forge</strong></a></p>
       </div>
     </div>
   </div>

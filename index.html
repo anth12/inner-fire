@@ -2,12 +2,10 @@
 layout: page
 title: Home
 permalink: /
-custom_head_owl: true
-custom_head_counterup: true
 ---
 
 <!-- Slider Start -->
-<section id="slider">
+<section id="slider" style="background-image: url({{ site.data.home.slider-image }})">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
@@ -38,16 +36,19 @@ custom_head_counterup: true
           <img src="{{ site.data.home.intro-img }}" alt="Img">
         </div>
       </div><!-- .col-md-5 close -->
+
     </div>
   </div>
 </section>
 
-<section id="feature">
+<section id="feature" style="background-image: url({{site.data.home.feature-img}})">
   <div class="row">
     <div class="content col-md-6 col-md-offset-6">
       <h2>{{ site.data.home.feature-title }}</h2>
-      <p>{{ site.data.home.feature-subtitle  | markdownify }}</p>
-      <a href="#" class="btn btn-view-works">Start Planning</a>
+      <p>{{ site.data.home.feature-subtitle | markdownify }}</p>
+      <a href="{{site.data.home.feature-link}}" class="btn btn-view-works">
+        {{site.data.home.feature-link-text}}
+      </a>
     </div>
   </div>
 </section>
@@ -59,76 +60,33 @@ custom_head_counterup: true
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
-        <h2>{{ site.data.home.testimonial-title }}</h2>
-        <p>{{ site.data.home.testimonial-subtitle }}</p>
+        <h2>{{ site.data.home.retreats-title }}</h2>
+        <p>{{ site.data.home.retreats-body | markdownify }}</p>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            <li>
-              <div class="block">
-                <i class="fa fa-home"></i>
-                <h4 class="counter">{{ site.data.home.hotels }}</h4>
-                <span>Hotels</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="fa fa-beer"></i>
-                <h4 class="counter">{{ site.data.home.resturants }}</h4>
-                <span>Resturants</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="fa fa-university"></i>
-                <h4 class="counter">{{ site.data.home.museums }}</h4>
-                <span>Museums</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="fa fa-plane"></i>
-                <h4><span class="counter">{{ site.data.home.minutes }}</span> Minutes</h4>
-                <span>Drive from the Airport</span>
-              </div>
-            </li>
 
-          </ul>
-        </div>
+      {% for retreat in site.retreats %}
+      <div class="col-md-4 col-sm-6">
+        <a href="{{ retreat.url | prepend: site.baseurl }}" class="bold">
+          <img src="{{ retreat.img }}" title="{{ retreat.title }}" class="img-responsive" />
+          {{ retreat.title }}
+        </a>
+        <p>
+          {{ retreat.content | strip_html | truncatewords: 20 }}
+        </p>
+        <a href="{{ retreat.url | prepend: site.baseurl }}" class="btn btn-primary">
+          Discover More
+        </a>
       </div>
-      <div class="col-md-6">
-        <div class="testimonial-carousel">
-          <div id="testimonial-slider" class="owl-carousel">
-            <div>
-              <p><i class="fa fa-quote-left" aria-hidden="true"></i> Shoutout to the {{site.data.business.name}} for
-                such a great demo. <i class="fa fa-quote-right" aria-hidden="true"></i></p>
-              <div class="user">
-                <img src="img/twitter-user-1.jpg" alt="Pepole">
-                <p><span>Bob Henson</span> via Twitter</p>
-              </div>
-            </div>
-            <div>
-              <p><i class="fa fa-quote-left" aria-hidden="true"></i> Static sites are security fortresses! <i class="fa fa-quote-right"
-                  aria-hidden="true"></i> </p>
-              <div class="user">
-                <img src="img/twitter-user-2.jpg" alt="Pepole">
-                <p><span>Clay Risro</span> via Twitter</p>
-              </div>
-            </div>
-            <div>
-              <p><i class="fa fa-quote-left" aria-hidden="true"></i> I love not having a CMS to have to update all the
-                time. <i class="fa fa-quote-right" aria-hidden="true"></i> </p>
-              <div class="user">
-                <img src="img/twitter-user-3.jpg" alt="Pepole">
-                <p><span>Rose Ray</span> via Twitter</p>
-              </div>
-            </div>
-          </div>
-        </div>
+
+      {% if forloop.index == 2 %}
+      <div class="col-md-4 col-sm-6">
+        {% include testimonial.html %}
       </div>
+      {% endif %}
+      {% endfor %}
+
     </div>
   </div>
 </section>
@@ -172,8 +130,8 @@ custom_head_counterup: true
   // Counter up
   if ($(".counter").length) {
     $('.counter').counterUp({
-        delay: 10,
-        time: 1000
+      delay: 10,
+      time: 1000
     });
   }
 </script>

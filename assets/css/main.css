@@ -1,3 +1,11 @@
+/*
+$brand-color-primary: darken(#428bca, 6.5%);
+$brand-color-secondary: #8dc63f;
+$brand-color-black: #414042;
+$brand-color-white: #FFF;
+$border-default-size: 5px;
+$brand-dark-background: rgba(25, 25, 25, 0.60);
+*/
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
@@ -86,7 +94,7 @@ code, pre {
 	Slider Start
 --*/
 #slider {
-  background: url("https://picsum.photos/1600/600?random") no-repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -102,7 +110,7 @@ code, pre {
     width: 100%;
     height: 100%;
     background: linear-gradient(to left, #8b86a3, #322e40);
-    opacity: 0.8; }
+    opacity: 0.7; }
   #slider .block {
     color: #E3E3E4; }
     #slider .block h1 {
@@ -125,7 +133,7 @@ code, pre {
   width: 100%;
   display: block;
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -256,15 +264,21 @@ header {
     border: 0px; }
   header .navbar-brand {
     padding-top: 5px; }
+    header .navbar-brand img {
+      max-height: 32px;
+      display: inline; }
   header .navbar-default {
     background: none;
     border: 0px; }
     header .navbar-default .navbar-nav {
       padding-top: 10px; }
       header .navbar-default .navbar-nav li a {
-        color: #333333;
+        color: #4b1d2e;
         padding: 10px 26px;
         font-size: 15px; }
+        header .navbar-default .navbar-nav li a.active, header .navbar-default .navbar-nav li a.active:hover {
+          background: #dfae46;
+          color: #4b1d2e; }
 
 font header .navbar-default .navbar-nav li a:hover {
   color: #000; }

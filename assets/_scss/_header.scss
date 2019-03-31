@@ -29,6 +29,11 @@ header {
   }
   .navbar-brand {
     padding-top: 5px;
+
+    img {
+      max-height: 32px;
+      display: inline;
+    }
   }
   .navbar-default {
     background: none;
@@ -36,9 +41,15 @@ header {
     .navbar-nav {
       padding-top: 10px;
       li a {
-        color: #333333;
+        color: $brand-color-secondary;
         padding: 10px 26px;
         font-size: 15px;
+
+        &.active,
+        &.active:hover{
+          background: $brand-color-primary;
+          color: $brand-color-secondary;
+        }
       }
     }
   }

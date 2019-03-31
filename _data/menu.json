@@ -1,34 +1,32 @@
 {
-  "top": [{
+  "top": [
+    {
       "text": "Home",
       "path": "/"
     },
     {
-      "text": "Directory",
-      "path": "/directory/"
+      "text": "Teacher Training",
+      "path": "/teacher-training/"
+    },
+    {
+      "text": "One to One",
+      "path": "/one-to-one/"
+    },
+    {
+      "text": "Multiversity of Yoga",
+      "path": "/multiversity-of-yoga/"
     },
     {
       "text": "Gallery",
       "path": "/gallery/"
     },
     {
-      "text": "News",
-      "path": "/news/"
-    },
-    {
       "text": "Contact",
       "path": "/contact/"
-    },
-    {
-      "text": "Data",
-      "path": "/data/"
-    },
-    {
-      "text": "Documents",
-      "path": "/docs/"
     }
   ],
-  "left": [{
+  "left": [
+    {
       "text": "Home",
       "path": "/"
     },

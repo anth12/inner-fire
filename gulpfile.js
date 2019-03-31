@@ -26,7 +26,7 @@ var messages = {
 /**
  * Build the Jekyll Site
  */
-gulp.task("jekyll-build", function(done) {
+gulp.task("jekyll-build", function (done) {
   browserSync.notify(messages.jekyllBuild);
   return cp.spawn(jekyll, ["build"], { stdio: "inherit" }).on("close", done);
 });
@@ -34,14 +34,14 @@ gulp.task("jekyll-build", function(done) {
 /**
  * Rebuild Jekyll & do page reload
  */
-gulp.task("jekyll-rebuild", ["jekyll-build"], function() {
+gulp.task("jekyll-rebuild", ["jekyll-build"], function () {
   browserSync.reload();
 });
 
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task("browser-sync", ["jekyll-build", "sass", "bundle-js"], function() {
+gulp.task("browser-sync", ["jekyll-build", "sass", "bundle-js"], function () {
   browserSync.init({
     server: {
       baseDir: "_site",
@@ -52,7 +52,7 @@ gulp.task("browser-sync", ["jekyll-build", "sass", "bundle-js"], function() {
 /**
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds). Also create minified versions for production use.
  */
-gulp.task("sass", function() {
+gulp.task("sass", function () {
   return gulp
     .src("assets/_scss/main.scss")
     .pipe(
@@ -83,7 +83,7 @@ gulp.task("sass", function() {
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
-gulp.task("watch", function() {
+gulp.task("watch", function () {
   gulp.watch("assets/_scss/*.scss", ["sass"]);
   gulp.watch(
     ["assets/js/**/*.js", "!assets/js/**/*.min.js", "!assets/js/bundle.js"],
@@ -95,6 +95,7 @@ gulp.task("watch", function() {
       "*.html",
       "_layouts/*.html",
       "_includes/*.html",
+      "_events/*",
       "_posts/*",
       "_data/*",
     ],
@@ -105,7 +106,7 @@ gulp.task("watch", function() {
 /**
  * Bundle js files together and then created minified versions and publish them to the correct locations.
  */
-gulp.task("bundle-js", function() {
+gulp.task("bundle-js", function () {
   return gulp
     .src(["assets/js/vendor/modernizr-custom.js", "assets/js/main.js"])
     .pipe(concat("bundle.js"))
@@ -122,7 +123,7 @@ gulp.task("bundle-js", function() {
 });
 
 // run "gulp images" to process images from assets/_src_img to /img folder to be used on the site
-gulp.task("images", function() {
+gulp.task("images", function () {
   gulp
     .src([
       "assets/_src_img/**/*.png",
