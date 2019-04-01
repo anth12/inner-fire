@@ -122,7 +122,7 @@ gulp.task("bundle-js", function () {
     .pipe(browserSync.stream());
 });
 
-// run "gulp images" to process images from assets/_src_img to /img folder to be used on the site
+// run "gulp images" to process images from assets/_src_img to /uploads folder to be used on the site
 gulp.task("images", function () {
   gulp
     .src([

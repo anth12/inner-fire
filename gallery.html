@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Our Work
+title: Photo Gallery
 permalink: /gallery/
-headerTitle: Photo Gallery
-headerSubCopy: Automatically generated from img/gallery folder.
+headerSubCopy:
 ---
 
 {% include global-header.html %}
@@ -16,7 +15,7 @@ headerSubCopy: Automatically generated from img/gallery folder.
         <div class="block">
           <div class="image-gallery">
             {% for image in site.static_files %}
-            {% if image.path contains 'img/gallery' %}
+            {% if image.path contains 'uploads/gallery' %}
             <div class="image-gallery-item">
               <a href="{{ site.baseurl }}{{ image.path }}">
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />

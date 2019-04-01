@@ -15,3 +15,15 @@
 @import "testimonials";
 @import "contact-form";
 @import "misc";
+
+.btn-primary{
+    background: $brand-color-secondary;
+
+    &:hover{
+        background: darken($brand-color-secondary, 5%);
+    }
+
+    &:focus{
+        background: darken($brand-color-secondary, 10%);
+    }
+}

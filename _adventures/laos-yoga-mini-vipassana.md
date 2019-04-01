@@ -1,11 +1,11 @@
 ---
-img: /img/holidaybeach.jpg
-layout: retreat
+img: /uploads/holidaybeach.jpg
+layout: adventure
 title: Laos Yoga Mini Vipassana + Mindful Adventure
 dates:
   - date: 15th-28th November, 2019
     description: 
-subtitle: 
+headerSubCopy: 
 deposit: 100
 availablePlaces: 15
 remainingPlaces: 7

@@ -1,11 +1,11 @@
 ---
-img: /img/holidaybeach.jpg
-layout: retreat
+img: /uploads/holidaybeach.jpg
+layout: adventure
 title: Nepal Yoga Mini Vipassana + Mindful Adventure
 dates:
   - date: 17-30th October, 2019
     description: 
-subtitle: 
+headerSubCopy: 
 deposit: 100
 availablePlaces: 15
 remainingPlaces: 7

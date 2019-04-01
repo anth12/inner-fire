@@ -17,8 +17,9 @@ keep_files:
 
 
 # Site settings
-title: Nomadic Ashram
+title: The Nomadic Ashram
 subtitle: "How is your Inner Fire"
+description: Hatha Yoga Master with 25 years of Yoga experience; diplomas in Dru Yoga, Transformational Yoga, Ayurvedic Yoga Therapy and Thai Yoga Massage
 url: "" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
@@ -37,13 +38,20 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 collections:
-  retreats:
+  adventures:
+    output: true
+  pages:
     output: true
 
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page-standard"
+  - scope:
+      path: ""
+      type: "adventures"
+    values:
+      layout: "adventure"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."

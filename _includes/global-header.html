@@ -1,10 +1,10 @@
 <!-- Global Header -->
-<section id="global-header" {% if page.headerImage %} style="background-image:url({{page.headerImage}});" {% endif %}>
+<section id="global-header" {% if page.img %} style="background-image:url({{page.img}});" {% endif %}>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>{{ page.headerTitle | upcase }}</h1>
+          <h1>{{ page.title | upcase }}</h1>
           <p>{{ page.headerSubCopy }}</p>
         </div>
       </div>

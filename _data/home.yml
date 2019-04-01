@@ -1,6 +1,6 @@
 title: Nomadic Ramshed
-subtitle: Hatha Yoga Master with 25 years of Yoga experience
-slider-image: "/img/home-slider.jpg"
+headerSubCopy: Hatha Yoga Master with 25 years of Yoga experience
+slider-image: "/uploads/home-slider.jpg"
 intro-title: Unified Teacher Training
 intro-subtitle: 
 intro-body: >-
@@ -8,19 +8,19 @@ intro-body: >-
   Accredited by Yoga Alliance Professionals yogaalliance.co.uk
   [Learn More](/teacher-training/)
 
-intro-img: /img/TeacherTraining.jpg
+intro-img: /uploads/TeacherTraining.jpg
 
-feature-img: /img/singbowl.jpg
+feature-img: /uploads/singbowl.jpg
 feature-title: One-to-one
 feature-subtitle: For individual, personal health and healing of your own unique body, mind and life challenges. This can be muscular analysis to highlight where you are holding tension, Chakra reading and healing, or looking at what is causing stress and anxiety in your mind and body.
 feature-link-text: Read More
 feature-link: /one-to-one/
 
-retreats-title: Idyllic Residentials
-retreats-body: >-
-  Along with local partners, I am planning lovely retreats and 
+adventures-title: Idyllic Residentials
+adventures-body: >-
+  Along with local partners, I am planning lovely adventures and 
   residentials in United Kingdom, India, Nepal and Laos.
-  [Learn More](/idyllic-retreats/)
+  [Learn More](/adventures/)
 
 services-title: Service Offered
 services-subtitle: There is a service.yml that Netlify CMS can edit to change the below

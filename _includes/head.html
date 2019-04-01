@@ -1,7 +1,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% assign metaDescription = site.description %}
+{% if page.metaDescription %}
+{% assign metaDescription = page.metaDescription %}
+{% endif %}
+
 <title>{{ page.title }} | {{ site.title }}</title>
-<meta name="description" content="">
+<meta name="description" content="{{  }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
@@ -14,10 +20,21 @@
 
 <meta property="og:image:width" content="1415">
 <meta property="og:image:height" content="741">
-<meta property="og:description" content="Hatha Yoga Master with 25 years of Yoga experience; diplomas in Dru Yoga, Transformational Yoga, Ayurvedic Yoga Therapy and Thai Yoga Massage">
-<meta property="og:title" content="Nomadic Ashram">
-<meta property="og:url" content="{{ site.baseurl }}">
+<meta property="og:description" content="{{ metaDescription }}">
+<meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+<meta property="og:url" content="{{ page.url }}">
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:image" content="{{ site.baseurl }}/assets/og-image.jpg">
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nytimesbits" />
+<meta name="twitter:creator" content="@nickbilton" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+<meta property="og:description" content="{{ metaDescription }}" />
+<meta property="og:image" content="{{ site.baseurl }}/assets/og-image.jpg" />
+
 
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />

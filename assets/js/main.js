@@ -22,4 +22,12 @@ $(document).ready(function () {
     });
   }
 
+
+  if ($('#booking-form').length > 0) {
+
+    // $('#booking-form').on('input', 'change', function () {
+    //   $('#booking-form').
+    // });
+
+  }
 });

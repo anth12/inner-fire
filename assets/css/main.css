@@ -68,6 +68,17 @@ a:active {
 .mt-10 {
   margin-top: 10 !important; }
 
+.row.equal-height {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+  .row.equal-height > [class*='col-'] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column; }
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased; }
@@ -213,7 +224,7 @@ code, pre {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("/img/call-to-action-bg.jpg") no-repeat;
+  background: url("/uploads/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -267,7 +278,8 @@ code, pre {
 
 header {
   background: #fff;
-  padding: 20px 0; }
+  padding: 20px 0;
+  border-bottom: 1px solid #655e7a; }
   header .navbar {
     margin-bottom: 0px;
     border: 0px; }
@@ -282,12 +294,12 @@ header {
     header .navbar-default .navbar-nav {
       padding-top: 10px; }
       header .navbar-default .navbar-nav li a {
-        color: #4b1d2e;
+        color: #655e7a;
         padding: 10px 26px;
         font-size: 15px; }
         header .navbar-default .navbar-nav li a.active, header .navbar-default .navbar-nav li a.active:hover {
           background: #dfae46;
-          color: #4b1d2e; }
+          color: #655e7a; }
 
 font header .navbar-default .navbar-nav li a:hover {
   color: #000; }
@@ -300,6 +312,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header {
   background: url("https://picsum.photos/1600/370?random") no-repeat;
   background-size: cover;
+  margin-top: 80px;
   padding-top: 150px;
   padding-bottom: 107px;
   position: relative; }
@@ -557,3 +570,10 @@ footer {
 #portfolio-work {
   overflow: hidden;
   padding: 80px 0; }
+
+.btn-primary {
+  background: #655e7a; }
+  .btn-primary:hover {
+    background: #59536c; }
+  .btn-primary:focus {
+    background: #4d485d; }

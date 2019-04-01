@@ -1,12 +1,10 @@
 ---
-layout: page
+img: /uploads/16.jpg
 title: Singing Bowl Healing and other One-to-one
 permalink: /one-to-one/
-headerTitle: Singing Bowl Healing and other One-to-one
 headerSubCopy: Expand your world with our unifed teacher training 200 to 500 hours
+metaDescription: Expand your world with our unifed teacher training 200 to 500 hours
 ---
-
-{% include global-header.html %}
 
 For individual, personal health and healing of your own unique body, mind and life challenges. This can be muscular
 analysis to highlight where you are holding tension, Chakra reading and healing, or looking at what is causing stress
