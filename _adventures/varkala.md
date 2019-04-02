@@ -3,16 +3,16 @@ img: /uploads/holidaybeach.jpg
 layout: adventure
 title: Varkala Yoga and Ayurveda De-tox and Revitalise
 dates:
-    date: 15th-28th November, 2019
+  - date: 15th-28th November, 2019
     description: 
 headerSubCopy: 
 deposit: 100
 availablePlaces: 15
 remainingPlaces: 7
 prices:
-    description: 2 weeks
+  - description: 2 weeks
     price: £950
-    description: 1 week
+  - description: 1 week
     price: £550
 ---
 

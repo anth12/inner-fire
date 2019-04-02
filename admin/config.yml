@@ -30,6 +30,34 @@ collections:
         fields:
           - {label: Price, name: price, widget: number}
           - {label: Description, name: description, widget: string}
+
+  - name: "pages" # Used in routes, e.g. /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "_pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      #- {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
+      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Permalink", name: "permalink", widget: "string", hint: "Page URL e.g. /page-name/ (with slash at the end)"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "headerSubCopy", name: "subtitle", widget: "string", required: false}
+      - {label: "metaDescription", name: "subtitle", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: dates
+        name: Dates
+        widget: list
+        fields:
+          - {label: Date, name: date, widget: date}
+          - {label: Description, name: description, widget: string}
+      - label: prices
+        name: Prices
+        widget: list
+        fields:
+          - {label: Price, name: price, widget: number}
+          - {label: Description, name: description, widget: string}
+
   - label: "Global"
     name: "global"
     files:
@@ -56,6 +84,28 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Image, name: img, widget: image}
               - {label: Link, name: link, widget: string}
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "_data/testimonials.yml"
+        fields:
+          - label: Testimonials
+            name: testimonials
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Location, name: location, widget: string}
+              - {label: Description, name: description, widget: string}
+              - {label: Image, name: img, widget: image}
+      - label: "Menu"
+        name: "menu"
+        file: "_data/menu.yml"
+        fields:
+          - label: Menu
+            name: menu
+            widget: list
+            fields:
+              - {label: Text, name: text, widget: string}
+              - {label: Url, name: url, widget: string}
       - label: "Social Media"
         name: "social"
         file: "_data/social_media.yml"
@@ -67,7 +117,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Icon, name: icon, widget: string}
               - {label: Link, name: link, widget: string}
-  - label: "Pages"
+  - label: "Home"
     name: "home"
     files:
       - label: "Home Page"
@@ -76,12 +126,12 @@ collections:
         fields:
           - {label: Title, name: title, widget: string, hint: "The Large Text at the top"}
           - { label: Subtitle, name: headerSubCopy, widget: string }
-          - { label: slider-image, name: slider-image, widget: string }
+          - { label: slider-image, name: slider-image, widget: image }
           - {label: Intro Title, name: intro-title, widget: string, hint: "The first chunk of content"}
           - {label: Intro Subtitle, name: intro-subtitle, widget: string, hint: "The first chunk of content"}
           - {label: Intro Body, name: intro-body, widget: markdown}
           - {label: Intro Image, name: intro-img, widget: image}
-          - {label: Feature Image, name: feature-img, widget: string}
+          - {label: Feature Image, name: feature-img, widget: image}
           - {label: Feature Title, name: feature-title, widget: string}
           - {label: Feature Subtitle, name: feature-subtitle, widget: string}
           - { label: Feature Link Text, name: feature-link-text, widget: string }
