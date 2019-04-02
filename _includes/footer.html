@@ -13,14 +13,12 @@
         </p>
         <div class="block">
           <div id="clients-logo" class="owl-carousel">
-            {% for image in site.static_files %}
-            {% if image.path contains 'img/clients' %}
+            {% for accreditation in site.data.accreditations.accreditations %}
             <div class="clients-logo-img">
-              <a href="#">
-                <img src="{{ site.baseurl }}{{ image.path }}" class="img-responsive" />
+              <a href="{{ accreditation.link }}" title="{{ accreditation.name }}" target="blank">
+                <img src="{{ accreditation.img }}" class="img-responsive" alt="{{ accreditation.name }}" />
               </a>
             </div>
-            {% endif %}
             {% endfor %}
           </div>
         </div>

@@ -220,6 +220,9 @@ code, pre {
     #intro .section-title p {
       padding-top: 20px; }
 
+.page-content {
+  margin-top: 40px; }
+
 /*--
 	call-to-action Start
 --*/
@@ -458,7 +461,8 @@ footer {
       padding-bottom: 20px; }
     #testimonial .testimonial-carousel .user img {
       padding-bottom: 0px;
-      border-radius: 500px; }
+      border-radius: 500px;
+      max-width: 80px; }
     #testimonial .testimonial-carousel .user p {
       padding-bottom: 0;
       font-size: 12px;

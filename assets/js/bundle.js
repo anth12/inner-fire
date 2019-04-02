@@ -13,15 +13,15 @@ $(document).ready(function () {
     $("#testimonial-slider").owlCarousel({
       paginationSpeed: 500,
       singleItem: true,
-      autoPlay: 3000,
+      autoPlay: 5000,
     });
   }
   if ($("#clients-logo").length) {
     $("#clients-logo").owlCarousel({
       autoPlay: 3000,
-      items: 5,
-      itemsDesktop: [1199, 5],
-      itemsDesktopSmall: [979, 5],
+      items: 4,
+      itemsDesktop: [1199, 4],
+      itemsDesktopSmall: [979, 4],
     });
   }
 
