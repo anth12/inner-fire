@@ -18,14 +18,14 @@ collections:
       - {label: "Total Places", name: "totalPlaces", widget: "number"}
       - {label: "Remaining Places", name: "remainingPlaces", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: dates
-        name: Dates
+      - label: Dates
+        name: dates
         widget: list
         fields:
           - {label: Date, name: date, widget: string}
           - {label: Description, name: description, widget: string}
-      - label: prices
-        name: Prices
+      - label: Prices
+        name: prices
         widget: list
         fields:
           - {label: Price, name: price, widget: string}
