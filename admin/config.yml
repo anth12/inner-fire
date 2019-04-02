@@ -56,7 +56,6 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Image, name: img, widget: image}
               - {label: Link, name: link, widget: string}
-      - label: "Services"
       - label: "Social Media"
         name: "social"
         file: "_data/social_media.yml"
@@ -68,17 +67,6 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Icon, name: icon, widget: string}
               - {label: Link, name: link, widget: string}
-      - label: "Services"
-        name: "services"
-        file: "_data/services.yml"
-        fields:
-          - label: services
-            name: services
-            widget: list
-            fields:
-              - {label: title, name: title, widget: string}
-              - {label: Icon, name: icon, widget: string}
-              - {label: body, name: body, widget: string}
   - label: "Pages"
     name: "home"
     files:
@@ -87,21 +75,19 @@ collections:
         file: "_data/home.yml"
         fields:
           - {label: Title, name: title, widget: string, hint: "The Large Text at the top"}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - { label: Subtitle, name: headerSubCopy, widget: string }
+          - { label: slider-image, name: slider-image, widget: string }
           - {label: Intro Title, name: intro-title, widget: string, hint: "The first chunk of content"}
           - {label: Intro Subtitle, name: intro-subtitle, widget: string, hint: "The first chunk of content"}
           - {label: Intro Body, name: intro-body, widget: markdown}
           - {label: Intro Image, name: intro-img, widget: image}
+          - {label: Feature Image, name: feature-img, widget: string}
           - {label: Feature Title, name: feature-title, widget: string}
           - {label: Feature Subtitle, name: feature-subtitle, widget: string}
-          - {label: Testimonial Title, name: testimonial-title, widget: string}
-          - {label: Testimonial Subtitle, name: testimonial-subtitle, widget: string}
-          - {label: Hotels, name: hotels, widget: number, hint: "This is the animated number that counts up"}
-          - {label: Resturants, name: resturants, widget: number, hint: "This is the animated number that counts up"}
-          - {label: Museums, name: museums, widget: number, hint: "This is the animated number that counts up"}
-          - {label: Minutes, name: minutes, widget: number, hint: "This is the animated number that counts up"}
-          - {label: Services Title, name: services-title, widget: string}
-          - {label: Services Subtitle, name: services-subtitle, widget: string, hint: "Services can be found in the Global area"}
+          - { label: Feature Link Text, name: feature-link-text, widget: string }
+          - { label: Feature Link, name: feature-link, widget: string }
+          - { label: Adventures Title, name: adventures-title, widget: string }
+          - { label: Adventures Body, name: adventures-body, widget: string }
       - label: "Documents"
         name: "documents"
         file: "_data/documents.yml"
