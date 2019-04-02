@@ -2,6 +2,8 @@
 
 This Jekyll Demo site is meant to showcase how a typical site can be created with Jekyll. It features a mix of developer friendly aspects such as galleries built from the file system, along with Client friendly features using Netlify CMS for basic editing that a client can login and update content via a web UI.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/572b0e12-d244-4a30-8433-38d35545f537/deploy-status)](https://app.netlify.com/sites/nomadic-ashram/deploys)
+
 **Live Demo** [https://jekyll-netlifycms.netlify.com/](https://jekyll-netlifycms.netlify.com/)
 
 # Features at a Glance

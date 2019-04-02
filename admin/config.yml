@@ -22,13 +22,13 @@ collections:
         name: Dates
         widget: list
         fields:
-          - {label: Date, name: date, widget: date}
+          - {label: Date, name: date, widget: string}
           - {label: Description, name: description, widget: string}
       - label: prices
         name: Prices
         widget: list
         fields:
-          - {label: Price, name: price, widget: number}
+          - {label: Price, name: price, widget: string}
           - {label: Description, name: description, widget: string}
 
   - name: "pages" # Used in routes, e.g. /admin/collections/blog
@@ -45,19 +45,6 @@ collections:
       - {label: "headerSubCopy", name: "subtitle", widget: "string", required: false}
       - {label: "metaDescription", name: "subtitle", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: dates
-        name: Dates
-        widget: list
-        fields:
-          - {label: Date, name: date, widget: date}
-          - {label: Description, name: description, widget: string}
-      - label: prices
-        name: Prices
-        widget: list
-        fields:
-          - {label: Price, name: price, widget: number}
-          - {label: Description, name: description, widget: string}
-
   - label: "Global"
     name: "global"
     files:
@@ -138,18 +125,3 @@ collections:
           - { label: Feature Link, name: feature-link, widget: string }
           - { label: Adventures Title, name: adventures-title, widget: string }
           - { label: Adventures Body, name: adventures-body, widget: string }
-      - label: "Documents"
-        name: "documents"
-        file: "_data/documents.yml"
-        fields:
-          - {label: intro, name: intro, widget: markdown}
-      - label: "Chart Data"
-        name: "chart"
-        file: "_data/chartdata.yml"
-        fields:
-          - label: Sales
-            name: sales
-            widget: list
-            fields:
-              - {label: Label, name: label, widget: number}
-              - {label: Value, name: value, widget: number}
