@@ -1,0 +1,13 @@
+menu:
+  - text: Home
+    url: /
+  - text: Global Adventures
+    url: /adventures/
+  - text: Teacher Training
+    url: /teacher-training/
+  - text: One to One
+    url: /one-to-one/
+  - text: Gallery
+    url: /gallery/
+  - text: Contact
+    url: /contact/

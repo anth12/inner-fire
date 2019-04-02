@@ -30,4 +30,11 @@ $(document).ready(function () {
     // });
 
   }
+
+  if ($('.image-gallery').length > 0) {
+    $('.image-gallery a').simpleLightbox({
+
+    });
+  }
+
 });

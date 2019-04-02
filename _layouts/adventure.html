@@ -2,6 +2,8 @@
 layout: page
 ---
 
+{% include global-header.html %}
+
 <div class="post">
   <!-- Wrapper Start -->
   <section>
@@ -9,7 +11,6 @@ layout: page
       <div class="row">
 
         <div class="col-12">
-          <h1>{{ page.title }}</h1>
           <div class="post-info-wrapper row">
 
             <dl class="col-sm-3">
@@ -89,7 +90,7 @@ layout: page
               <input type="hidden" name="currency_code" value="GBP">
               <input type="hidden" name="lc" value="AU">
               <input type="hidden" name="bn" value="PP-BuyNowBF">
-              <input type="hidden" name="return" value="{{ site.baseurl }}/adventure-reserved/">
+              <input type="hidden" name="return" value="/adventure-reserved/">
 
               <button type="submit" class="btn btn-primary btn-lg">
                 Continue
@@ -103,5 +104,5 @@ layout: page
   </section>
 </div>
 <p class="center-text" style="padding: 30px;">
-  <a href="{{ site.baseurl }}/adventures/">Discover more Adventures</a>
+  <a href="/adventures/">Discover more Adventures</a>
 </p>
