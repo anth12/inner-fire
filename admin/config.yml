@@ -4,17 +4,32 @@ backend:
 # This line should *not* be indented
 media_folder: "uploads" # Media files will be stored in the repo under images/uploads
 collections:
-  - name: "news" # Used in routes, e.g. /admin/collections/blog
-    label: "News" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
+  - name: "adventures" # Used in routes, e.g. /admin/collections/blog
+    label: "Adventures" # Used in the UI
+    folder: "_adventures" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
+      - {label: "Image", name: "img", widget: "image"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Deposit", name: "deposit", widget: "number"}
+      - {label: "Total Places", name: "totalPlaces", widget: "number"}
+      - {label: "Remaining Places", name: "remainingPlaces", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: dates
+        name: Dates
+        widget: list
+        fields:
+          - {label: Date, name: date, widget: date}
+          - {label: Description, name: description, widget: string}
+      - label: prices
+        name: Prices
+        widget: list
+        fields:
+          - {label: Price, name: price, widget: number}
+          - {label: Description, name: description, widget: string}
   - label: "Global"
     name: "global"
     files:
@@ -28,7 +43,6 @@ collections:
           - {label: address_city, name: address_city, widget: string, hint: "Tampa"}
           - {label: phone_primay, name: phone_primay, widget: string, hint: "(813) 123-4567"}
           - {label: phone_secondary, name: phone_secondary, widget: string, hint: "(813) 765-4321"}
-          - {label: fax, name: fax, widget: string, hint: "(813) 666-6666"}
           - {label: email_primary, name: email_primary, widget: string }
           - {label: google_maps_api_key, name: google_maps_api_key, widget: string, hint: "Used to display embeded maps"}
       - label: "Social Media"
