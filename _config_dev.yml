@@ -22,7 +22,7 @@ subtitle: "How is your Inner Fire"
 description: Hatha Yoga Master with 25 years of Yoga experience; diplomas in Dru Yoga, Transformational Yoga, Ayurvedic Yoga Therapy and Thai Yoga Massage
 url: "https://nomadic-ashram.netlify.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "http://localhost:3000"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 

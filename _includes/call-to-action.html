@@ -4,11 +4,10 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>Newsletter</h2>
-          <h3>Be the first to hear the latest news from the Nomadic Ashram.</h3>
+          <h2>{{ site.data.global.newsletter-title }}</h2>
+          <h3>{{ site.data.global.newsletter-subtitle }}</h3>
           <p>
-            Because my work changes with the seasons I invite you to sign up to a newsletter that keeps you informed of
-            the latest Nomadic Ashram happenings and offers including early bird reductions, priority access and more…
+            {{ site.data.global.newsletter-content }}
           </p>
 
           <form action="https://mailchimp.us15.list-manage.com/subscribe/post" method="POST" target="_blank">
@@ -18,7 +17,9 @@
             <input type="hidden" name="ht" value="7d74927662e43356c4a2b74ab148e00272eb04be:MTUwNzg5NjgwNC4yODYz">
             <input type="hidden" name="mc_signupsource" value="hosted">
 
-            <input class="form-control input-lg" name="MERGE0" type="email" placeholder="Email address" required="required">
+            <label class="hidden" for="email">Email Address</label>
+            <input class="form-control input-lg" name="MERGE0" id="email" type="email" placeholder="Email address"
+              required="required">
 
             <button class="btn btn-default btn-call-to-action" type="submit">Subscribe</button>
 

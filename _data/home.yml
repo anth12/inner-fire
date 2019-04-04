@@ -13,14 +13,11 @@ intro-img: /uploads/TeacherTraining.jpg
 feature-img: /uploads/singbowl.jpg
 feature-title: One-to-one
 feature-subtitle: For individual, personal health and healing of your own unique body, mind and life challenges. This can be muscular analysis to highlight where you are holding tension, Chakra reading and healing, or looking at what is causing stress and anxiety in your mind and body.
-feature-link-text: Read More
+feature-link-text: Read More about One to One
 feature-link: /one-to-one/
 
 adventures-title: Idyllic Residentials
 adventures-body: >-
   Along with local partners, I am planning lovely adventures and 
   residentials in United Kingdom, India, Nepal and Laos.
-  [Learn More](/adventures/)
-
-services-title: Service Offered
-services-subtitle: There is a service.yml that Netlify CMS can edit to change the below
+  [Mind your next Adventure!](/adventures/)

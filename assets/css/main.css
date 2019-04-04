@@ -31,7 +31,7 @@ a:active {
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666; }
+  color: #4c4d4e; }
 
 .italic {
   font-style: italic; }
@@ -171,7 +171,7 @@ code, pre {
     font-weight: 600;
     margin-bottom: 30px; }
   #feature p {
-    color: #8d8f92;
+    color: #4c4d4e;
     margin-bottom: 20px; }
   #feature .btn-view-works {
     background: #655E7A;
@@ -210,7 +210,7 @@ code, pre {
     line-height: 27px;
     margin: 0; }
   #intro .block p {
-    color: #7B7B7B;
+    color: #4c4d4e;
     padding-top: 20px; }
   #intro .block img {
     padding-left: 40px;

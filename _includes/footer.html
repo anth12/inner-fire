@@ -3,20 +3,17 @@
     <div class="row">
       <div class="col-md-12 col-lg-10 col-lg-offset-1">
         <hr />
-        <h2>Accreditations</h2>
+        <h2>{{ site.data.global.accreditations-title }}</h2>
         <p>
-          I work in partnership with local teachers around the world to bring you the best of Yoga ancient wisdom and
-          contemporary scientific discovery, mixing serious study with light-hearted laughter. With 25 years of
-          eclectic Yoga wisdom with me, I also have formal diplomas in: General Hatha Yoga Dru Yoga Transformational
-          Yoga (Hatha Yoga Master) Nada Yoga (singing bowl vibrational healing) Ayurvedic Yoga Therapy Meditation
-          Teaching Thai Yoga Massage plus experience and training in Sivananda Yoga and Iyengar Yoga
+          {{ site.data.global.accreditations-content }}
         </p>
         <div class="block">
           <div id="clients-logo" class="owl-carousel">
             {% for accreditation in site.data.accreditations.accreditations %}
             <div class="clients-logo-img">
               <a href="{{ accreditation.link }}" title="{{ accreditation.name }}" target="blank">
-                <img src="{{ accreditation.img }}" class="img-responsive" alt="{{ accreditation.name }}" />
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ accreditation.img }}"
+                  class="img-responsive" alt="{{ accreditation.name }}" />
               </a>
             </div>
             {% endfor %}
@@ -56,9 +53,22 @@
           {% endfor %}
         </ul>
 
-        <p class="pull-right">Website by <a title="The Pixel Forge" href="http://thepixelforge.co.uk" target="_blank"><strong>The
+        <p class="pull-right">Website by <a title="The Pixel Forge" href="http://thepixelforge.co.uk" target="_blank"
+            rel="noopener"><strong>The
               Pixel Forge</strong></a></p>
       </div>
     </div>
   </div>
 </footer>
+
+<script>
+  function init() {
+    var imgDefer = document.getElementsByTagName('img');
+    for (var i = 0; i < imgDefer.length; i++) {
+      if (imgDefer[i].getAttribute('data-src')) {
+        imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+      }
+    }
+  }
+  window.onload = init;
+</script>
