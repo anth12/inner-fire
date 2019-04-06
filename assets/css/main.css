@@ -315,6 +315,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header {
   background: url("https://picsum.photos/1600/370?random") no-repeat;
   background-size: cover;
+  background-position: center;
   margin-top: 80px;
   margin-bottom: 50px;
   padding-top: 150px;
