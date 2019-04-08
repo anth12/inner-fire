@@ -126,11 +126,11 @@ gulp.task("bundle-js", function () {
 gulp.task("images", function () {
   gulp
     .src([
-      "assets/_src_img/**/*.png",
-      "assets/_src_img/**/*.jpg",
-      "assets/_src_img/**/*.gif",
-      "assets/_src_img/**/*.jpeg",
-      "assets/_src_img/**/*.svg",
+      "uploads/**/*.png",
+      "uploads/**/*.jpg",
+      "uploads/**/*.gif",
+      "uploads/**/*.jpeg",
+      "uploads/**/*.svg",
     ])
     .pipe(
       imagemin({
@@ -140,7 +140,7 @@ gulp.task("images", function () {
         svgoPlugins: [{ removeViewBox: true }],
       })
     )
-    .pipe(gulp.dest("img"));
+    .pipe(gulp.dest("_site/uploads"));
 });
 
 /**

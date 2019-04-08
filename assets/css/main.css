@@ -68,17 +68,6 @@ a:active {
 .mt-10 {
   margin-top: 10 !important; }
 
-.row.equal-height {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap; }
-  .row.equal-height > [class*='col-'] {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-        flex-direction: column; }
-
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased; }
@@ -752,6 +741,17 @@ body.hidden-scroll {
     background: #59536c; }
   .btn-primary:focus {
     background: #4d485d; }
+  @media (min-width: 768px) {
+  .row.equal-height {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
+    .row.equal-height > [class*='col-'] {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+          flex-direction: column; } }
   @media (min-width: 35.5em) {
         .sl-wrapper .sl-navigation button {
           width: 44px; }
