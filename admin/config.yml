@@ -104,6 +104,15 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Icon, name: icon, widget: string}
               - {label: Link, name: link, widget: string}
+      - label: "Gallery"
+        name: "gallery"
+        file: "_data/gallery.yml"
+        fields:
+          - label: platform
+            name: platform
+            widget: list
+            fields:
+              - {label: Image, name: img, widget: image}
   - label: "Home"
     name: "home"
     files:

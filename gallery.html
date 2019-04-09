@@ -15,11 +15,10 @@ headerSubCopy:
       <div class="col-md-12">
         <div class="block">
           <div class="image-gallery">
-            {% for image in site.static_files %}
-            {% if image.path contains 'uploads/gallery' %}
+            {% for image in site.data.gallery.gallery %}
             <div class="image-gallery-item">
-              <a href="{{ image.path }}">
-                <img src="{{ image.path }}" alt="image" />
+              <a href="{{ image.img }}">
+                <img src="{{ image.img }}" alt="image" />
                 <div class="overly">
                   <div class="position-center">
                     <h2>Click To View</h2>
@@ -27,7 +26,6 @@ headerSubCopy:
                 </div>
               </a>
             </div>
-            {% endif %}
             {% endfor %}
           </div>
         </div>
