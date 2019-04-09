@@ -1,10 +1,5 @@
 $(document).ready(function () {
 
-
-  if ($('.dataTable').length) {
-    $('.dataTable').DataTable();
-  }
-
   // owlCarousel
   if ($("#testimonial-slider").length) {
     $("#testimonial-slider").owlCarousel({

@@ -110,7 +110,7 @@ gulp.task("watch", function () {
  */
 gulp.task("bundle-js", function () {
   return gulp
-    .src(["assets/js/vendor/modernizr-custom.js", "assets/js/vendor/simple-lightbox.js", "assets/js/main.js"])
+    .src(["assets/js/vendor/simple-lightbox.js", "assets/js/main.js"])
     .pipe(concat("bundle.js"))
     .pipe(gulp.dest("assets/js"))
     .pipe(

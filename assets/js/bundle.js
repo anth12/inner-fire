@@ -1,4 +1,3 @@
-
 /*!
 	By André Rinas, www.andrerinas.de
 	Documentation, www.simplelightbox.de
@@ -862,11 +861,6 @@ $.fn.simpleLightbox = function( options )
 })( jQuery, window, document );
 
 $(document).ready(function () {
-
-
-  if ($('.dataTable').length) {
-    $('.dataTable').DataTable();
-  }
 
   // owlCarousel
   if ($("#testimonial-slider").length) {

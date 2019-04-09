@@ -126,23 +126,3 @@ permalink: /
     </div>
   </div>
 </section> -->
-
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-
-  // Counter up
-  if ($(".counter").length) {
-    $('.counter').counterUp({
-      delay: 10,
-      time: 1000
-    });
-  }
-</script>
