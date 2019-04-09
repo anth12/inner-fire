@@ -9,7 +9,9 @@ var browserSync = require("browser-sync").create();
 var sass = require("gulp-sass");
 var prefix = require("gulp-autoprefixer");
 var cp = require("child_process");
-var imagemin = require("gulp-imagemin");
+var gulpImagemin = require("gulp-imagemin");
+const imagemin = require('imagemin');
+const imageminWebp = require('imagemin-webp');
 var concat = require("gulp-concat");
 var cleanCSS = require("gulp-clean-css");
 var rename = require("gulp-rename");
@@ -123,25 +125,29 @@ gulp.task("bundle-js", function () {
 });
 
 // run "gulp images" to process images from assets/_src_img to /uploads folder to be used on the site
-gulp.task("images", function () {
-  gulp
-    .src([
-      "uploads/**/*.png",
-      "uploads/**/*.jpg",
-      "uploads/**/*.gif",
-      "uploads/**/*.jpeg",
-      "uploads/**/*.svg",
-    ])
-    .pipe(
-      imagemin({
-        interlaced: true,
-        progressive: true,
-        optimizationLevel: 5,
-        svgoPlugins: [{ removeViewBox: true }],
-      })
-    )
-    .pipe(gulp.dest("_site/uploads"));
-});
+// gulp.task("images", function () {
+
+//   // return gulp
+//   //   .src(['uploads/**/*.{jpg,png,jpeg}'])
+//   //   .pipe(
+//   //     gulpImagemin({
+//   //       interlaced: true,
+//   //       progressive: true,
+//   //       optimizationLevel: 5,
+//   //       svgoPlugins: [{ removeViewBox: true }],
+//   //     })
+//   //   )
+//   //   .pipe(gulp.dest("uploads"));
+
+//   return imagemin(['uploads/**/*.{jpg,png,jpeg}'], 'uploads', {
+//     use: [
+//       imageminWebp({ quality: 75 })
+//     ]
+//   }).then(() => {
+//     console.log('Images optimized');
+//   });
+
+// });
 
 /**
  * Default task, running just `gulp` will compile the sass,

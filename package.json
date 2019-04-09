@@ -36,5 +36,8 @@
     "Netlify",
     "NetlifyCMS"
   ],
-  "homepage": "https://github.com/NickStees/jekyll-cms"
+  "homepage": "https://github.com/NickStees/jekyll-cms",
+  "dependencies": {
+    "imagemin-webp": "^5.0.0"
+  }
 }
