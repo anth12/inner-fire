@@ -1,4 +1,4 @@
-var VERSION = '4680736';
+var VERSION = '2940625';
 
 var filesToCache = [
   //'./sw.js'
