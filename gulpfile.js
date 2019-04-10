@@ -125,32 +125,34 @@ gulp.task("bundle-js", function () {
 });
 
 // run "gulp images" to process images from assets/_src_img to /uploads folder to be used on the site
-// gulp.task("images", function () {
+gulp.task("images", function () {
 
-//   // return gulp
-//   //   .src(['uploads/**/*.{jpg,png,jpeg}'])
-//   //   .pipe(
-//   //     gulpImagemin({
-//   //       interlaced: true,
-//   //       progressive: true,
-//   //       optimizationLevel: 5,
-//   //       svgoPlugins: [{ removeViewBox: true }],
-//   //     })
-//   //   )
-//   //   .pipe(gulp.dest("uploads"));
+  // return gulp
+  //   .src(['uploads/**/*.{jpg,png,jpeg}'])
+  //   .pipe(
+  //     gulpImagemin({
+  //       interlaced: true,
+  //       progressive: true,
+  //       optimizationLevel: 5,
+  //       svgoPlugins: [{ removeViewBox: true }],
+  //     })
+  //   )
+  //   .pipe(gulp.dest("uploads"));
 
-//   return imagemin(['uploads/**/*.{jpg,png,jpeg}'], 'uploads', {
-//     use: [
-//       imageminWebp({ quality: 75 })
-//     ]
-//   }).then(() => {
-//     console.log('Images optimized');
-//   });
+  return imagemin(['uploads/**/*.{jpg,png,jpeg}'], 'uploads', {
+    use: [
+      imageminWebp({ quality: 75 })
+    ]
+  }).then(() => {
+    console.log('Images optimized');
+  });
 
-// });
+});
 
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task("default", ["browser-sync", "watch"]);
+
+gulp.task("publish", ["images", "jekyll-build"]);

@@ -15,7 +15,7 @@
   publish = "_site/"
 
   # Default build command.
-  command = "jekyll build"
+  command = "gulp publish"
 
   # Directory with the lambda functions to deploy to AWS.
   # functions = "project/functions/"
