@@ -3,7 +3,7 @@
 // npm install gulp -D
 // npm install
 //
-
+var fs = require("fs");
 var gulp = require("gulp");
 var browserSync = require("browser-sync").create();
 var sass = require("gulp-sass");
@@ -149,10 +149,25 @@ gulp.task("images", function () {
 
 });
 
+gulp.task("assign-version", function () {
+  // var VERSION = '1';
+  var regex = /VERSION\s\=\s\'(\d+)\'/;
+  var content = fs.readFileSync("sw.js").toString();
+
+  var version = parseInt(content.match(regex)[1]);
+  var newVersion = parseInt(Math.random() * 9999999);
+  console.log(`Updading version number from ${version} to ${newVersion}`);
+
+  content = content.replace(regex, `VERSION = '${newVersion}'`);
+
+  fs.writeFileSync('sw.js', content);
+
+})
+
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task("default", ["browser-sync", "watch"]);
+gulp.task("default", ["browser-sync", "assign-version", "watch"]);
 
-gulp.task("publish", ["images", "jekyll-build"]);
+gulp.task("publish", ["images", "assign-version", "jekyll-build"]);

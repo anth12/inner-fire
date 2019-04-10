@@ -12,8 +12,11 @@
             {% for accreditation in site.data.accreditations.accreditations %}
             <div class="clients-logo-img">
               <a href="{{ accreditation.link }}" title="{{ accreditation.name }}" target="blank">
-                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ accreditation.img }}"
-                  class="img-responsive" alt="{{ accreditation.name }}" />
+                <picture>
+                  <source srcset="{{ accreditation.img | split: '.' | first }}.webp" type="image/webp">
+                  <source srcset="{{ accreditation.img }}" type="image/jpeg">
+                  <img src="{{ accreditation.img }}" alt="{{ accreditation.name }}" class="img-responsive">
+                </picture>
               </a>
             </div>
             {% endfor %}
@@ -98,10 +101,9 @@
 
 <script>
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js').then(function() {
-      
-    }).catch(function(e) {
-      
+    navigator.serviceWorker.register('/sw.js').then(function () {
+
+    }).catch(function (e) {
       throw e;
     });
   }
