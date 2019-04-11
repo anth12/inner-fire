@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <!-- Slider Start -->
-<section id="slider" style="background-image: url({{ site.data.home.slider-image }})">
+<section id="slider" style="background-image: url({{ site.data.home.slider-image | split: '.' | first }}.webp)">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
@@ -46,7 +46,7 @@ permalink: /
   </div>
 </section>
 
-<section id="feature" style="background-image: url({{site.data.home.feature-img}})">
+<section id="feature" style="background-image: url({{ site.data.home.feature-img | split: '.' | first }}.webp)">
   <div class="row">
     <div class="content col-md-6 col-md-offset-6">
       <h2>{{ site.data.home.feature-title }}</h2>

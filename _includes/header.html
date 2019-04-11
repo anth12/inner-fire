@@ -15,7 +15,11 @@
                 <span class="icon-bar"></span>
               </button>
               <a class="navbar-brand" href="/index.html" title="{{ site.title }}">
-                <img src="/uploads/logo.png" alt="{{ site.title }} Icon">
+                <picture>
+                  <source srcset="/uploads/logo.webp" type="image/webp">
+                  <source srcset="/uploads/logo.png" type="image/jpeg">
+                  <img src="/uploads/logo.png" alt="{{ site.title }} Icon" onerror="alert('a');">
+                </picture>
               </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
