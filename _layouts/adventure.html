@@ -67,7 +67,41 @@ layout: page
 
           <div class="block" id="booking-from">
             <h4>Reserve your place today</h4>
-            <form action="https://sandbox.paypal.com/cgi-bin/webscr" method="post">
+
+            <div id="paypal-button-container"></div>
+            <script src="https://www.paypal.com/sdk/js?client-id=Ac2DH01J6ZN88TpberNRVkfi4LpNJXXjFALIU6iv4ZNha2rwZE-we7lGBtocloPjwx-O0Yd9smMk9_Sh">
+            </script>
+            <script>
+              paypal.Buttons({
+                createOrder: function (data, actions) {
+                  // Set up the transaction
+                  return actions.order.create({
+                    purchase_units: [{
+                      amount: {
+                        value: '{{ page.deposit }}'
+                      }
+                    }]
+                  });
+                },
+                onApprove: function (data, actions) {
+                  // Capture the funds from the transaction
+                  return actions.order.capture().then(function (details) {
+                    // Show a success message to your buyer
+                    console.log(details);
+
+                    $('#paypal-button-container').hide().after(`
+                    <div class="panel panel-success p-10">
+                      <h1>Complete</h1>
+                      <h3>Reservation Number: ${details.id}</h3>
+                      {{ site.data.global.adventure-booked-content }}
+                    </div>
+                    `);
+                  });
+                }
+              }).render('#paypal-button-container');
+            </script>
+
+            <!-- <form action="https://sandbox.paypal.com/cgi-bin/webscr" method="post">
               <div class="form-group">
                 <label for="contact-name">Your Name</label>
                 <input type="hidden" name="on0" value="Name">
@@ -91,11 +125,12 @@ layout: page
               <input type="hidden" name="lc" value="AU">
               <input type="hidden" name="bn" value="PP-BuyNowBF">
               <input type="hidden" name="return" value="{{ site.url }}/adventure-reserved/">
+              <input type="hidden" name="cancel" value="{{ page.url | absolute_url }}">
 
               <button type="submit" class="btn btn-primary btn-lg">
                 Continue
               </button>
-            </form>
+            </form> -->
           </div>
 
         </div>
