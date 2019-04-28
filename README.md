@@ -6,18 +6,6 @@ This Jekyll Demo site is meant to showcase how a typical site can be created wit
 
 **Live Demo** [https://jekyll-netlifycms.netlify.com/](https://jekyll-netlifycms.netlify.com/)
 
-# Features at a Glance
-
-- **[Gulp.js](https://gulpjs.com/)** build allows for SASS/SCSS and JS/Babel processing.
-- **live reloading** local development with Browser Sync
-- Homepage markup freedom that lets developers go wild!
-- Use partials/includes for re-useable content such as headers, footer and calls to action (\_include/call-to-action.html) that is easy to maintain.
-- Dynamic page [content from .CSV files](https://jekyll-netlifycms.netlify.com/directory/) that is easy for clients to manage using Excel.
-- Image gallery built from images in the file system. Developers simply add an image to a folder and the gallery is updated.
-- **[Netlify CMS integration](https://www.netlifycms.org/)** allows editing page content as well as creating News.
-- Contact form uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to receive submissions which can be [piped to other services](https://www.netlify.com/docs/form-handling/#receiving-submissions)
-- Uses [Jekyll](https://jekyllrb.com/docs/datafiles/) `\_data` to output content like variables across multiple pages, making content easy to maintain.
-
 # Getting started
 
 This project requires first that [Jekyll be installed](https://jekyllrb.com/docs/installation/) along with the [Node.js](https://nodejs.org/en/download/). If its your first time run `gem install jekyll bundler` to install both Jekyll and Bundler locally.
