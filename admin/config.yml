@@ -93,6 +93,7 @@ collections:
             fields:
               - {label: Text, name: text, widget: string}
               - {label: Url, name: url, widget: string}
+              - {label: Low Priority, name: lowPriority, widget: boolean}
       - label: "Social Media"
         name: "social"
         file: "_data/social_media.yml"

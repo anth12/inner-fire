@@ -862,6 +862,11 @@ $.fn.simpleLightbox = function( options )
 
 $(document).ready(function () {
 
+  // Mobile menu
+  $('.navbar-toggle').on('click', function () {
+    $('.navbar-collapse').toggle('in');
+  });
+
   // owlCarousel
   if ($("#testimonial-slider").length) {
     $("#testimonial-slider").owlCarousel({

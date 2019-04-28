@@ -119,7 +119,7 @@ code, pre {
     width: 100%;
     height: 100%;
     background: linear-gradient(to left, #8b86a3, #322e40);
-    opacity: 0.7; }
+    opacity: 0.3; }
   #slider .block {
     color: #E3E3E4; }
     #slider .block h1 {
@@ -271,7 +271,9 @@ code, pre {
 header {
   background: #fff;
   padding: 20px 0;
-  border-bottom: 1px solid #655e7a; }
+  border-bottom: 1px solid #655e7a;
+  position: -webkit-sticky;
+  position: sticky; }
   header .navbar {
     margin-bottom: 0px;
     border: 0px; }
@@ -305,9 +307,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("https://picsum.photos/1600/370?random") no-repeat;
   background-size: cover;
   background-position: center;
-  margin-top: 80px;
   margin-bottom: 50px;
-  padding-top: 150px;
+  padding-top: 185px;
   padding-bottom: 107px;
   position: relative; }
   #global-header:before {
@@ -320,7 +321,7 @@ font header .navbar-default .navbar-nav li a:hover {
     width: 100%;
     height: 100%;
     background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-    opacity: 0.8; }
+    opacity: 0.3; }
   #global-header .block {
     color: #E3E3E4;
     margin: 0 auto;

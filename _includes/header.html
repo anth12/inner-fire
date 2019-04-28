@@ -1,5 +1,5 @@
 <!-- Header Start -->
-<header class="navbar-fixed-top">
+<header>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -18,7 +18,7 @@
                 <picture>
                   <source srcset="/uploads/logo.webp" type="image/webp">
                   <source srcset="/uploads/logo.png" type="image/jpeg">
-                  <img src="/uploads/logo.png" alt="{{ site.title }} Icon" onerror="alert('a');">
+                  <img src="/uploads/logo.png" alt="{{ site.title }} Icon">
                 </picture>
               </a>
             </div>
@@ -27,10 +27,14 @@
               <ul class="nav navbar-nav navbar-right">
 
                 {% for item in site.data.menu.menu %}
+                {% if item.lowPriority != true %}
                 {% if page.permalink == item.url %}
-                <li class="active"><a href="{{item.url}}" class="active">{{item.text}}</a></li>
+                <li class="active {% if item.lowPriority %}low-priority{% endif %}">
+                  <a href="{{item.url}}" class="active">{{item.text}}</a>
+                </li>
                 {% else %}
-                <li><a href="{{item.url}}">{{item.text}}</a></li>
+                <li class="{% if item.lowPriority %}low-priority{% endif %}"><a href="{{item.url}}">{{item.text}}</a></li>
+                {% endif %}
                 {% endif %}
                 {% endfor %}
 

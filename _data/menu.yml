@@ -5,9 +5,12 @@ menu:
     url: /adventures/
   - text: Teacher Training
     url: /teacher-training/
+  - text: Eclectic workshops
+    url: /eclectic-workshops/
   - text: One to One
     url: /one-to-one/
   - text: Gallery
     url: /gallery/
+    lowPriority: true
   - text: Contact
     url: /contact/
