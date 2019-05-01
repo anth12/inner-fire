@@ -109,8 +109,8 @@ collections:
         name: "gallery"
         file: "_data/gallery.yml"
         fields:
-          - label: platform
-            name: platform
+          - label: Gallery
+            name: gallery
             widget: list
             fields:
               - {label: Image, name: img, widget: image}
