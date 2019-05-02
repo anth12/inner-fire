@@ -16,7 +16,11 @@ img: /uploads/3.jpg
       <div class="col-md-6 col-sm-12">
         <div class="block">
           <h2>Contact Me</h2>
-          <form action="/thankyou/" netlify name="contact-form">
+          <form data-netlify="true" netlify netlify-honeypot="bot-field" name="contact-form">
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+            </p>
+
             <div class="form-group">
               <label for="contact-name">Your Name</label>
               <input type="text" class="form-control" id="contact-name" name="contact-name" placeholder="Name" required>
