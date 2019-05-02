@@ -143,8 +143,11 @@ gulp.task("images", function () {
     use: [
       imageminWebp({ quality: 75 })
     ]
-  }).then(() => {
+  }).then((images) => {
     console.log('Images optimized');
+    images.forEach(img => {
+      console.log(img.path);
+    })
   });
 
 });
