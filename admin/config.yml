@@ -39,7 +39,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       #- {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
       - {label: "Image", name: "img", widget: "image"}
-      - {label: "Permalink", name: "permalink", widget: "string", hint: "Page URL e.g. /page-name/ (with slash at the end)"}
+      - {label: "Url", name: "permalink", widget: "string", hint: "Page URL e.g. /page-name/ (with slash at the end)"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "headerSubCopy", name: "subtitle", widget: "string", required: false}
@@ -53,13 +53,13 @@ collections:
         file: "_data/business.yml"
         fields:
           - {label: name, name: name, widget: string}
-          - {label: address_full, name: address_full, widget: string, hint: "Example: 333 S. Franklin Street Tampa, FL 33602"}
-          - {label: address_street, name: address_street, widget: string, hint: "Example: 333 S. Franklin Street"}
-          - {label: address_city, name: address_city, widget: string, hint: "Tampa"}
-          - {label: phone_primay, name: phone_primay, widget: string, hint: "(813) 123-4567"}
-          - {label: phone_secondary, name: phone_secondary, widget: string, hint: "(813) 765-4321"}
+          - {label: address_full, name: address_full, widget: string, hint: "Example: 333 S. Franklin Street Tampa, FL 33602", required: false}
+          - {label: address_street, name: address_street, widget: string, hint: "Example: 333 S. Franklin Street", required: false}
+          - {label: address_city, name: address_city, widget: string, hint: "Tampa", required: false}
+          - {label: phone_primay, name: phone_primay, widget: string, hint: "(813) 123-4567", required: false}
+          - {label: phone_secondary, name: phone_secondary, widget: string, hint: "(813) 765-4321", required: false}
           - {label: email_primary, name: email_primary, widget: string }
-          - {label: google_maps_api_key, name: google_maps_api_key, widget: string, hint: "Used to display embeded maps"}
+          - {label: google_maps_api_key, name: google_maps_api_key, widget: string, hint: "Used to display embeded maps", required: false}
       - label: "Accreditations"
         name: "accreditations"
         file: "_data/accreditations.yml"
@@ -69,8 +69,8 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Image, name: img, widget: image}
-              - {label: Link, name: link, widget: string}
+              - {label: Image, name: img, widget: image, required: false}
+              - {label: Link, name: link, widget: string, required: false}
       - label: "Testimonials"
         name: "testimonials"
         file: "_data/testimonials.yml"
@@ -80,9 +80,9 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Location, name: location, widget: string}
+              - {label: Location, name: location, widget: string, required: false}
               - {label: Description, name: description, widget: string}
-              - {label: Image, name: img, widget: image}
+              # - {label: Image, name: img, widget: image, required: false}
       - label: "Menu"
         name: "menu"
         file: "_data/menu.yml"
@@ -93,7 +93,7 @@ collections:
             fields:
               - {label: Text, name: text, widget: string}
               - {label: Url, name: url, widget: string}
-              - {label: Low Priority, name: lowPriority, widget: boolean}
+              - {label: Low Priority, name: lowPriority, widget: boolean, required: false}
       - label: "Social Media"
         name: "social"
         file: "_data/social_media.yml"
@@ -130,8 +130,8 @@ collections:
           - {label: Intro Image, name: intro-img, widget: image}
           - {label: Feature Image, name: feature-img, widget: image}
           - {label: Feature Title, name: feature-title, widget: string}
-          - {label: Feature Subtitle, name: feature-subtitle, widget: string}
+          - {label: Feature Subtitle, name: feature-subtitle, widget: text}
           - { label: Feature Link Text, name: feature-link-text, widget: string }
           - { label: Feature Link, name: feature-link, widget: string }
           - { label: Adventures Title, name: adventures-title, widget: string }
-          - { label: Adventures Body, name: adventures-body, widget: string }
+          - { label: Adventures Body, name: adventures-body, widget: markdown }

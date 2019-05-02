@@ -15,7 +15,7 @@ img: /uploads/3.jpg
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <h2>Contact our Friendly Staff Today</h2>
+          <h2>Contact Me</h2>
           <form action="/thankyou/" netlify name="contact-form">
             <div class="form-group">
               <label for="contact-name">Your Name</label>
@@ -46,7 +46,7 @@ img: /uploads/3.jpg
               <ul class="social-icons">
                 {% for item in site.data.social_media.platform %}
                 <li>
-                  <a href="{{item.link}}" target="blank" title="{{item.name}}"><i class="fa {{item.icon}}"></i></a>
+                  <a href="{{item.link}}" target="blank" title="{{item.name}}"><i class="fa fa-{{item.icon}}"></i></a>
                 </li>
                 {% endfor %}
               </ul>

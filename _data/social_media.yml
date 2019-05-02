@@ -1,13 +1,13 @@
 platform:
-  - icon: fa-facebook
+  - icon: facebook
     link: 'http://facebook.com/InnerFireDeyna'
     name: Facebook
-  - icon: fa-twitter
+  - icon: twitter
     link: 'http://twitter.com/InnerFireDeyna'
     name: Twitter
-  - icon: fa-instagram
+  - icon: instagram
     link: 'http://instagram.com/innerfiredeyna'
     name: Instagram
-  - icon: fa-linkedin
+  - icon: linkedin
     link: 'http://linkedin.com/in/deyna-hirst-3b624370/'
     name: LinkedIn
