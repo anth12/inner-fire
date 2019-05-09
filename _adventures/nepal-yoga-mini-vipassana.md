@@ -1,14 +1,13 @@
 ---
-img: /uploads/holidaybeach.jpg
 layout: adventure
+img: /uploads/holidaybeach.jpg
 title: Nepal Yoga Mini Vipassana + Mindful Adventure
-dates:
-  - date: 17-30th October, 2019
-    description: 
-headerSubCopy: 
 deposit: 100
-availablePlaces: 15
-remainingPlaces: 7
+totalPlaces: 10
+remainingPlaces: 8
+dates:
+  - date: '19-29th October, 2019'
+    description: Let the external peace radiate inwards
 prices:
   - description: 2 weeks
     price: £420/€550/$500
@@ -16,7 +15,7 @@ prices:
 
 Are you ready to connect with silence and explore your own inner universe in a tranquil outer environment?
 Join Gopal and his family on an organic farm in Koshi, Sunsari district in eastern Nepal
-from 17-30th October for 7 days of facilitated silence (Vipassana) and meditation:
+from 19-29th October for 7 days of facilitated silence (Vipassana) and meditation:
 sitting and moving + structured Yoga Asana (posture) and Pranayama (breath) work.
 Following this we will have 5 days of exploration in the national park there: walking,
 biking, hill walking, jungle treks and perhaps even with elephants.
