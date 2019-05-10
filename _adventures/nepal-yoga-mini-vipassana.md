@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/15.jpg
+img: /uploads/20181122_093209.jpg
 title: Nepal Yoga Mini Vipassana + Mindful Adventure
 deposit: 100
 totalPlaces: 10
