@@ -13,7 +13,7 @@ dates:
 prices:
   - description: Both residentials
     price: £700
-  - description: 1 week
+  - description: 1 residential
     price: £400
 ---
 Join us in Mabie Forest, Dumfries and Galloway for one or both 5 day residentials for professional
