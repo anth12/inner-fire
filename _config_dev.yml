@@ -43,6 +43,9 @@ collections:
   pages:
     output: true
 
+public_folder: /uploads
+media_folder: /uploads
+
 defaults:
   - scope:
       path: ""
