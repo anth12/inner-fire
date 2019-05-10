@@ -3,7 +3,7 @@ layout: adventure
 img: /uploads/holidaybeach.jpg
 title: Varkala Yoga and Ayurveda De-tox and Revitalise
 deposit: 100
-totalPlaces: 20
+totalPlaces: 12
 remainingPlaces: 7
 dates:
   - date: '1st-15th December, 2019'
