@@ -69,7 +69,7 @@ layout: page
             <h4>Reserve your place today</h4>
 
             <div id="paypal-button-container"></div>
-            <script src="https://www.paypal.com/sdk/js?client-id=Ac2DH01J6ZN88TpberNRVkfi4LpNJXXjFALIU6iv4ZNha2rwZE-we7lGBtocloPjwx-O0Yd9smMk9_Sh">
+            <script src="https://www.paypal.com/sdk/js?client-id=AYWIa6KjFRqF5-O3zegfdv8KF0EGuGemnONCztqGzQaWkW7KitkJwshiC5CX-6l_dJJl7zqq8CH1W4QD&currency=GBP">
             </script>
             <script>
               paypal.Buttons({
@@ -101,36 +101,6 @@ layout: page
               }).render('#paypal-button-container');
             </script>
 
-            <!-- <form action="https://sandbox.paypal.com/cgi-bin/webscr" method="post">
-              <div class="form-group">
-                <label for="contact-name">Your Name</label>
-                <input type="hidden" name="on0" value="Name">
-                <input type="text" class="form-control" id="contact-name" name="os0" maxlength="60" placeholder="Name"
-                  required>
-              </div>
-              <div class="form-group">
-                <input type="hidden" name="on1" value="Email">
-                <label for="contact-email">Your Email address</label>
-                <input type="email" class="form-control" id="contact-email" name="os1" placeholder="Email" required>
-              </div>
-
-              <input type="hidden" name="cmd" value="_xclick">
-              <input type="hidden" name="business" value="Anth12-facilitator@hotmail.co.uk">
-              <input type="hidden" name="item_name" value="{{ page.title }} Deposit">
-              <input type="hidden" name="item_number" value="1">
-              <input type="hidden" name="amount" value="{{ page.deposit }}">
-              <input type="hidden" name="no_shipping" value="0">
-              <input type="hidden" name="no_note" value="1">
-              <input type="hidden" name="currency_code" value="GBP">
-              <input type="hidden" name="lc" value="AU">
-              <input type="hidden" name="bn" value="PP-BuyNowBF">
-              <input type="hidden" name="return" value="{{ site.url }}/adventure-reserved/">
-              <input type="hidden" name="cancel" value="{{ page.url | absolute_url }}">
-
-              <button type="submit" class="btn btn-primary btn-lg">
-                Continue
-              </button>
-            </form> -->
           </div>
 
         </div>
