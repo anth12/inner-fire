@@ -1,14 +1,16 @@
 ---
-img: /uploads/holidaybeach.jpg
 layout: adventure
+img: /uploads/holidaybeach.jpg
 title: Varkala Yoga and Ayurveda De-tox and Revitalise
-dates:
-  - date: 15th-28th November, 2019
-    description: 
-headerSubCopy: 
 deposit: 100
-availablePlaces: 15
+totalPlaces: 20
 remainingPlaces: 7
+dates:
+  - date: '1st-15th December, 2019'
+    description: >-
+      Price includes en-suite indiivdual accommodation; most meals; Yoga
+      sessions; Ayurvedic treatment and herbal medicines during the retreat.
+      Excludes: flights, visas, transfers, vaccinations, excursions 
 prices:
   - description: 2 weeks
     price: £950
