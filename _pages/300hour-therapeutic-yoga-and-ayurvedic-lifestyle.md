@@ -1,7 +1,7 @@
 ---
 img: /uploads/3.jpg
 permalink: /therapeutic-yoga-and-ayurvedic-lifestyle/
-title: 300Hour Therapeutic Yoga and Ayurvedic Lifestyle
+title: 300Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
 Join us in near Varkala, Kerala, South India from 17th November—15th December, 2019. Over 4 weeks embrace a unique Pancha Kosha (5 bodies) / Pancha Karma (5 cleansings) training where you cleanse and de-tox your individual self; imbibe and share knowledge; find your own inner wisdom; learn to assist others. You can expect:
 
