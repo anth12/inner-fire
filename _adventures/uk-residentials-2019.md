@@ -1,33 +1,27 @@
 ---
-img: /uploads/holidaybeach.jpg
 layout: adventure
+img: /uploads/holidaybeach.jpg
 title: UK Residentials 2019
+deposit: 100
+totalPlaces: 10
+remainingPlaces: 8
 dates:
-  - date: 17th-21th June, 2019
-    description: Transformative Yoga Training    
+  - date: '17th-21th June, 2019'
+    description: Transformative Yoga Training
   - date: 16 -20th September
     description: Slow Flow Training
-headerSubCopy: 
-deposit: 100
-totalPlaces: 15
-remainingPlaces: 8
 prices:
-  - description: 2 weeks
-    price: £950
+  - description: Both residentials
+    price: £700
   - description: 1 week
-    price: £550
+    price: £400
 ---
-
 Join us in Mabie Forest, Dumfries and Galloway for one or both 5 day residentials for professional
 development or to deepen your personal Yoga journey:
 
-Transformative Yoga Training: 17th June - 21st June
-
-Unifying and integrating Yoga philosophy with Asana (posture work), focussing on Koshas and
+**Transformative Yoga Training: 17th June - 21st June**. Unifying and integrating Yoga philosophy with Asana (posture work), focussing on Koshas and
 Chakras. We will use Pranayama techniques, Mantra and Meditation to go on an internal adventure.
-Slow Flow Training: 16th-20th September
-
-We will learn Yin and Yang Asana flows incorporating the latest fascia research to explore movement,
+**Slow Flow Training: 16th-20th September**. We will learn Yin and Yang Asana flows incorporating the latest fascia research to explore movement,
 gaining flexibility and strength + a deeper understanding of inter-connection between all our
 anatomical and subtle systems.
 
