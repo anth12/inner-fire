@@ -36,3 +36,5 @@ Accreditation by 2 professional bodies: Yoga Alliance Professionals and Yoga All
 Investment: £2700, 3150euros or $3500 (includes sattvic food,  en-suite accommodation, training, treatments, certification) 
 
 Please email deyna@innerfire.org.uk to apply
+
+[TTC Terms and Conditions](file:///C:/Users/inner/Dropbox/Website%20pics/Terms%20and%20Conditions%20-%20TTC.pdf)
