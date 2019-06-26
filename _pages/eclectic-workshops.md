@@ -7,9 +7,9 @@ Eclectic Workshops run this summer from 10am-4pm in Kendal, South Lakeland with 
 
 **Sunday 2nd June: Yoga for Mindful Parenting** How do we parent mindfully in this modern world? Today we look at how to apply Yoga wisdom in your relationships with children. Although this is aimed at parents and teachers, older children are also welcome to come along. There will be opportunity for reflection, movement and discussion.
 
-**Saturday 6th July: A Taste of Ayurveda: Diet & Practice** Discover your Dosha (constitutional type) and how to balance your diet, Asana (posture) practice, Pranayama and Meditation to best support your ever-changing being.
+**Saturday 6th July: Meditation, Mantra and Mudra for Health & Well-being** Learn various ways of working with meditation techniques to help with stress, anxiety and over-whelm in this contemporary mayhem
 
-**Sunday 7th July: Meditation, Mantra and Mudra for Health & Well-being** Learn various ways of working with meditation techniques to help with stress, anxiety and over-whelm in this contemporary mayhem
+**Sunday 7th July: A Taste of Ayurveda: Diet & Practice** Discover your Dosha (constitutional type) and how to balance your diet, Asana (posture) practice, Pranayama and Meditation to best support your ever-changing being. 
 
 **Sunday 4th August: The Healing Power of Asana, Breath and Relaxation for Mind & Body** Slow Flow movement to open the physical body, focus on breath to connect mindfully with the Prana body, deep Yoga Nidra (relaxation) to calm mental and emotional body + consideration of our Wisdom body to heal and transform.
 
