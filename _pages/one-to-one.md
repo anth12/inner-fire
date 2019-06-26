@@ -1,14 +1,9 @@
 ---
 img: /uploads/16.jpg
-title: Singing Bowl Healing and other One-to-one
 permalink: /one-to-one/
-headerSubCopy: Expand your world with our unifed teacher training 200 to 500 hours
-metaDescription: Expand your world with our unifed teacher training 200 to 500 hours
+title: Singing Bowl Healing and other One-to-one
 ---
-
-For individual, personal health and healing of your own unique body, mind and life challenges. This can be muscular
-analysis to highlight where you are holding tension, Chakra reading and healing, or looking at what is causing stress
-and anxiety in your mind and body.
+For individual, personal health and healing of your own unique body, mind and life challenges. This can be muscular analysis to highlight where you are holding unnecessarily, counselling to discover what is causing stress and anxiety in your mind and body so you can move forward; relaxing vibrational therapy with singing bowls.
 
 New for 2018 Following my training in Nada Yoga with the amazing master pictured here, I am now able to offer singing
 bowl vibrational massage. This beautiful, uplifting therapy works from the inside out, literally recalibrating and
