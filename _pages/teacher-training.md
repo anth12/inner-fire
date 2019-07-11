@@ -38,5 +38,3 @@ Investment: £2700, 3150euros or $3500 (includes sattvic food,  en-suite accommo
 Please email deyna@innerfire.org.uk to apply
 
 [Terms and Conditions](https://www.dropbox.com/s/kynsgkztda09t2w/Terms%20and%20Conditions%20-%20TTC.pdf?dl=0)
-
-[therapeutic-yoga-ttc-syllabus.pdf](therapeutic-yoga-ttc-syllabus.pdf)
