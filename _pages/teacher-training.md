@@ -39,4 +39,4 @@ Please email deyna@innerfire.org.uk to apply
 
 [Terms and Conditions](https://www.dropbox.com/s/kynsgkztda09t2w/Terms%20and%20Conditions%20-%20TTC.pdf?dl=0)
 
-[Therapeutic Yoga TTC Syllabus](https://www.dropbox.com/h?preview=Therapeutic+Yoga+TTC+syllabus.pdf)
+[Therapeutic Yoga TTC Syllabus](https://www.dropbox.com/s/9umtlljou5ow9xy/Therapeutic%20Yoga%20TTC%20syllabus.pdf?dl=0)
