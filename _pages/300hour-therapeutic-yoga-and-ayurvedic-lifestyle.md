@@ -1,6 +1,6 @@
 ---
 img: /uploads/p1130580.jpg
-permalink: /therapeutic-yoga-and-ayurvedic-lifestyle/
+permalink: /teacher-training/
 title: 200/250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
 Join us in South Lakeland for this amazing training in Therapeutic Yoga and Ayurvedic Lifestyle. 
