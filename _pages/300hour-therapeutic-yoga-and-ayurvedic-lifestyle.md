@@ -55,6 +55,6 @@ Our syllabus includes:
 
 •	The latest in Biofield Studies and scientific research
 
+[TTC Syllabus ](https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0)
 
-
-Syllabus can be found here: <https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0>
+[Terms and Conditions](https://www.dropbox.com/s/kynsgkztda09t2w/Terms%20and%20Conditions%20-%20TTC.pdf?dl=0)
