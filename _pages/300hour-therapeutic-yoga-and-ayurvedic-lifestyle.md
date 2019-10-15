@@ -1,38 +1,60 @@
 ---
-img: /uploads/3.jpg
+img: /uploads/p1130580.jpg
 permalink: /therapeutic-yoga-and-ayurvedic-lifestyle/
-title: 300Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
+title: 200/250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
-Join us in Varkala, Kerala, South India from 17th November—15th December, 2019. Over 4 weeks embrace a unique Pancha Kosha (5 bodies) / Pancha Karma (5 cleansings) training where you cleanse and de-tox your individual self; imbibe and share knowledge; find your own inner wisdom; learn to assist others. This course is particularly suitable for those wishing to work with small groups, or one-to-one.
+Join us in South Lakeland for this amazing training in Therapeutic Yoga and Ayurvedic Lifestyle. 
+
+We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential to end our course and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
 
 You can expect:
 
-• Personal Pancha Karma Ayurvedic de-tox and treatment
+•	An experienced Yoga trainer with 25+years of study, training and practice in the UK, India and Thailand
 
-• Therapeutic Yoga training  (Discovering our 5 bodies using different Hatha styles) 
+•	Eclectic Hatha Yoga styles so you can develop your own
 
-• Ayurvedic holistic lifestyle training including diet and exercise programmes
+•	Ayurvedic holistic lifestyle training 
 
-• Patanjali’s eight limbs of Yoga + philosophical roots + introduction to our nine consciousnesses
+•	Accreditation by 2 professional bodies: Yoga Alliance Professionals and Yoga Alliance International
 
-• Experiential Anatomy and Physiology + Fascia + Subtle Anatomy
+•	Opportunity for further training in UK and India
 
-• Mantra, Mudra, Bandha, Chakras, Koshas
+•	Chance to visit an experienced Ayurvedic doctor in Kerala for your own Ayurvedic cleanse and treatment
 
-• Practical methodology, class structure and flows
+•	Invitation to join our philanthropic Yoga programme
 
-• Opportunity for further training
+Our syllabus includes:
 
-• Invitation to join our philanthropic Yoga programme 
+•	Patanjali’s eight limbs of Yoga
 
-• Times of silence for personal reflection 
+•	De-construction of Asana for maximum benefit
 
-• Optional excursions to elephant sanctuary, local temples, backwaters (for our odd day off :))
+•	Philosophical roots of Purusha, Prakriti and the Gunas
 
-Qualified, experienced trainers 
+•	Unveiling the Koshas and Chakras
 
-Accreditation by 2 professional bodies: Yoga Alliance Professionals and Yoga Alliance International
+•	Mantra, Mudra, Bandha
 
-Investment: £2700, 
+•	Introduction to our nine consciousnesses and dual aspect of being
 
-3150euros or $3500 (includes sattvic food,  en-suite accommodation, training, treatments, certification)
+•	Mindfulness, Heartfulness and Gutfulness awareness
+
+•	Experiential Anatomy and Physiology + Fascia + Subtle Anatomy
+
+•	Ways to structure a Yoga class through practical methodology, sequencing and flows
+
+•	Therapeutic Postures and Practices for common dis-orders
+
+•	Signposts to meditation and finding your own Enlightened Self
+
+•	Ayurvedic constitutions, elements, diet and lifestyle ideas
+
+•	How to do a one-to-one consultation
+
+•	Reference to Spiritual scriptures
+
+•	The latest in Biofield Studies and scientific research
+
+
+
+Syllabus can be found here: <https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0>
