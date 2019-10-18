@@ -1,11 +1,13 @@
 ---
 img: /uploads/p1130580.jpg
 permalink: /teacher-training/
-title: 200/250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
+title: 250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
 Join us in South Lakeland for this amazing training in Therapeutic Yoga and Ayurvedic Lifestyle. 
 
-We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential to end our course and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
+We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential (21st-25th) to end our course and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
+
+If you love the sound of this course but can only do weekends, please register your interest by emailing deyna@innerfire.org.uk
 
 You can expect:
 
