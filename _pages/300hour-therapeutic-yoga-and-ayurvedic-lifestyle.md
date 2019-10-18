@@ -59,4 +59,4 @@ Our syllabus includes:
 
 [TTC Syllabus ](https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0)
 
-[Terms and Conditions](https://www.dropbox.com/s/kynsgkztda09t2w/Terms%20and%20Conditions%20-%20TTC.pdf?dl=0)
+[Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
