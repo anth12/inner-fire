@@ -60,3 +60,5 @@ Our syllabus includes:
 [TTC Syllabus ](https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0)
 
 [Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
+
+[Apply for the course here](https://www.dropbox.com/s/o6vwtsbl9heelf2/Inner%20Fire%20TTC%20application%20form.pdf?dl=0)
