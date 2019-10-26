@@ -13,7 +13,7 @@ You can expect:
 
 •	An experienced Yoga trainer with 25+years of study, training and practice in the UK, India and Thailand
 
-•	Eclectic Hatha Yoga styles so you can develop your own
+•	Eclectic Hatha Yoga styles so you can develop your own path
 
 •	Ayurvedic holistic lifestyle training 
 
