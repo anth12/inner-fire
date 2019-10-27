@@ -5,7 +5,7 @@ title: 250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
 Join us in South Lakeland for this amazing training in Therapeutic Yoga and Ayurvedic Lifestyle. 
 
-We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential (21st-25th) to end our course and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
+We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential (21st-25th) to explore an Ayurvedic lifestyle and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
 
 If you love the sound of this course but can only do weekends, please register your interest by emailing deyna@innerfire.org.uk
 
@@ -56,6 +56,12 @@ Our syllabus includes:
 •	Reference to Spiritual scriptures
 
 •	The latest in Biofield Studies and scientific research
+
+Early bird cost until December 31st, 2019: £2500 (200 hours)
+
+Cost from January 2020: £2700 (200 hours)
+
++ residential cost for Ayurvedic Lifestyle (50 hours) of @£400 (venue in South Lakeland to be confirmed)
 
 [TTC Syllabus ](https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0)
 
