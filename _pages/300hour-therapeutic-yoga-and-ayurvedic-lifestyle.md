@@ -1,11 +1,11 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
-title: 250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
+title: 200Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
-Join us in South Lakeland for this amazing training in Therapeutic Yoga and Ayurvedic Lifestyle. 
+Join us in South Lakeland for this amazing training in Therapeutic Yoga.
 
-We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) between February and mid-July to thoroughly visit each Kosha and physiological system. After our summer break we return on 21st August for our final block and enjoy a September residential (21st-25th) to explore an Ayurvedic lifestyle and celebrate our journey together. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
+We will meet on Fridays in 5 week blocks (with a week off in between to assimilate knowledge) from February to  visit each Kosha and physiological system. This is not just a teacher training certification course but an opportunity to become a detective to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
 
 If you love the sound of this course but can only do weekends, please register your interest by emailing deyna@innerfire.org.uk
 
@@ -15,13 +15,11 @@ You can expect:
 
 •	Eclectic Hatha Yoga styles so you can develop your own path
 
-•	Ayurvedic holistic lifestyle training 
-
 •	Accreditation by 2 professional bodies: Yoga Alliance Professionals and Yoga Alliance International
 
 •	Opportunity for further training in UK and India
 
-•	Chance to visit an experienced Ayurvedic doctor in Kerala for your own Ayurvedic cleanse and treatment
+•	Chance to visit an experienced Ayurvedic doctor in Kerala for Ayurvedic cleanse and treatment
 
 •	Invitation to join our philanthropic Yoga programme
 
@@ -49,8 +47,6 @@ Our syllabus includes:
 
 •	Signposts to meditation and finding your own Enlightened Self
 
-•	Ayurvedic constitutions, elements, diet and lifestyle ideas
-
 •	How to do a one-to-one consultation
 
 •	Reference to Spiritual scriptures
@@ -60,8 +56,6 @@ Our syllabus includes:
 Early bird cost until December 31st, 2019: £2500 (200 hours)
 
 Cost from January 2020: £2700 (200 hours)
-
-+ residential cost for Ayurvedic Lifestyle (50 hours) of @£400 (venue in South Lakeland to be confirmed)
 
 [TTC Syllabus ](https://www.dropbox.com/s/zwgq17r56y5ya0h/Therapeutic%20Yoga%20TTC%20UK%20syllabus.pdf?dl=0)
 
