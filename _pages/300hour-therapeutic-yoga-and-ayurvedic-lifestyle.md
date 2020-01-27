@@ -1,5 +1,5 @@
 ---
-img: /uploads/p1130580.jpg
+img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
 title: 250Hour Therapeutic Yoga and Ayurvedic Lifestyle Teacher Training
 ---
