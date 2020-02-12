@@ -25,4 +25,4 @@ Yoga and Ayurveda share their roots in India and are inextricably linked to our 
 
 Saturday only: £60 ~ Both days: £100 
 
-**Bookings and enquiries: j.charnley@phonecoop.coop**
+**Bookings and enquiries:** joy@myphone.coop
