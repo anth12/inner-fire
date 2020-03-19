@@ -45,7 +45,7 @@ Our syllabus includes:
 
 •	Reference to Spiritual scripture
 
-[Therapeutic Yoga TTC Online Syllabus](https://www.dropbox.com/sh/1t2mtou0przsu6y/AAC-4tDaNatF46d9zBOoPr6ha?dl=0)
+[Therapeutic Yoga TTC Online Syllabus](https://www.dropbox.com/s/axm73cfo1tmrn4d/Therapeutic%20Yoga%20online%20TTC%20Syllabus.docx?dl=0)
 
 [Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
 
