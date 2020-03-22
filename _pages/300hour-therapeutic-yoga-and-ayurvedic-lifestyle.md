@@ -3,7 +3,7 @@ img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
 title: 200Hour Therapeutic Yoga Training
 ---
-Join us online during the Coronavirus forced isolation for this amazing training in Therapeutic Yoga.
+Join us online from 6th April for this amazing training in Therapeutic Yoga.
 
 You will do 6 hours of self study using modules from my comprehensive manual, videos from me of Asana structure + many other Yoga techniques, YouTube resource and online research. We will also meet 2 x 2hours per week on Zoom to visit and discuss each Kosha and physiological system together + do teaching practice online in break-out groups. When restrictions are lifted we will arrange 2 weekends or 1 week in the UK to do observations and assessments OR do these in India alongside an Ayurvedic Lifestyle module OR arrange with a local partner to undertake observation and assessments in your own country: options as the world allows and shifts.
 
