@@ -46,8 +46,13 @@ header {
       padding-top: 10px;
       li a {
         color: $brand-color-secondary;
-        padding: 10px 26px;
+        padding: 10px 10px;
         font-size: 15px;
+        border-bottom: 1px solid $brand-color-white;
+
+        &:hover{
+          border-bottom: 1px solid $brand-color-primary;
+        }
 
         &.active,
         &.active:hover{

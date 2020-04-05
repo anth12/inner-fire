@@ -42,6 +42,8 @@ collections:
     output: true
   pages:
     output: true
+  posts:
+    output: true
 
 defaults:
   - scope:
@@ -54,4 +56,9 @@ defaults:
       type: "adventures"
     values:
       layout: "adventure"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 

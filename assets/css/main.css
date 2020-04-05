@@ -292,8 +292,11 @@ header {
       padding-top: 10px; }
       header .navbar-default .navbar-nav li a {
         color: #655e7a;
-        padding: 10px 26px;
-        font-size: 15px; }
+        padding: 10px 10px;
+        font-size: 15px;
+        border-bottom: 1px solid #FFF; }
+        header .navbar-default .navbar-nav li a:hover {
+          border-bottom: 1px solid #dfae46; }
         header .navbar-default .navbar-nav li a.active, header .navbar-default .navbar-nav li a.active:hover {
           background: #dfae46;
           color: #655e7a; }

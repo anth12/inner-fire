@@ -4,6 +4,7 @@ backend:
 # This line should *not* be indented
 media_folder: "uploads" # Media files will be stored in the repo under images/uploads
 collections:
+  # Adventures
   - name: "adventures" # Used in routes, e.g. /admin/collections/blog
     label: "Adventures" # Used in the UI
     folder: "_adventures" # The path to the folder where the documents are stored
@@ -31,6 +32,7 @@ collections:
           - {label: Price, name: price, widget: string}
           - {label: Description, name: description, widget: string}
 
+  # Pages
   - name: "pages" # Used in routes, e.g. /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "_pages" # The path to the folder where the documents are stored
@@ -45,6 +47,8 @@ collections:
       - {label: "headerSubCopy", name: "subtitle", widget: "string", required: false}
       - {label: "metaDescription", name: "subtitle", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  
+  # Global
   - label: "Global"
     name: "global"
     files:
@@ -114,6 +118,8 @@ collections:
             widget: list
             fields:
               - {label: Image, name: img, widget: image}
+  
+  # Home
   - label: "Home"
     name: "home"
     files:
@@ -135,3 +141,29 @@ collections:
           - { label: Feature Link, name: feature-link, widget: string }
           - { label: Adventures Title, name: adventures-title, widget: string }
           - { label: Adventures Body, name: adventures-body, widget: markdown }
+
+  # Blog
+  - label: "Blog"
+    name: "blog"
+    files:
+      - label: "Blog Page"
+        name: "blog"
+        file: "_data/blog.yml"
+        fields:
+          - {label: Content, name: content, widget: markdown}
+
+  # POSTS
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}

@@ -42,6 +42,8 @@ collections:
     output: true
   pages:
     output: true
+  posts:
+    output: true
 
 public_folder: /uploads
 media_folder: /uploads
@@ -57,4 +59,9 @@ defaults:
       type: "adventures"
     values:
       layout: "adventure"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
