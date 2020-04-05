@@ -9,6 +9,7 @@ layout: page
       <div class="row">
         <div>
           <div class="block">
+            <h3><a href="/blog/">Blog</a></h3>
             <h1>{{ page.title }}</h1>
             <div class="post-info-wrapper">
               <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date |
@@ -23,10 +24,10 @@ layout: page
   </section>
 </div>
 <p class="center-text" style="padding: 30px;">
-  <a href="/news">Back to News</a>
+  <a href="/blog/">Back to Blog</a>
 </p>
 
-<nav aria-label="Adjacent Posts">
+<nav class="center-text" aria-label="Adjacent Posts">
   <ul>
     {% if page.previous.url %}
     <li>
