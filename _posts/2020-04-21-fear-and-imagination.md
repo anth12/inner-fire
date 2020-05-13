@@ -4,14 +4,7 @@ title: Fear and Imagination
 author: Deyna Devi
 img: /uploads/1.jpg
 date: 2020-04-21T11:32:51.000Z
-excerpt: >-
-  Is a blog self-indulgent rambling that nobody really reads? Probably!
-
-
-  But maybe, just maybe there will be a glimmer of recognition and empathy, a pearl of knowledge and wisdom that changes the trajectory of your life ….
-
-
-  So read on, on the off chance ….. I’ll always keep entries short and hopefully offer a union of meaning and understanding.
+excerpt: ""
 ---
 I’ve seen many articles now about mental health and some great ways to manage anxiety and stress. But there is little mention of what is actually happening …. So here is my offering for understanding.
 
