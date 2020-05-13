@@ -4,13 +4,13 @@ title: Fear and Imagination
 author: Deyna Devi
 img: /uploads/1.jpg
 date: 2020-04-21T11:32:51.000Z
-excerpt: ""
+excerpt: Is anxiety often based on fear + imagination?
 ---
 I’ve seen many articles now about mental health and some great ways to manage anxiety and stress. But there is little mention of what is actually happening …. So here is my offering for understanding.
 
 Be clear that anxiety is not pressure from the external environment that needs immediate action … it is a state that germinates and grows as a reaction within from some event or environment around us.
 
-Let’s think of anxiety as fear + imagination.
+What happens if we consider anxiety as fear + imagination.
 
 Fear is a natural human emotion and without acknowledgement it can build in the physical body as tight muscles and connective tissue (fascia fibres becoming dense), churning digestion (unsettled visceral fascia), racing heart and palpitations (agitated cardiac fascia), wired nervous system and racing hormones (chemical and electrical impulses disturbing the fascia). Yep, it’s all to do with disrupted or distorted fascia.
 
