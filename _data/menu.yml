@@ -15,3 +15,5 @@ menu:
     url: /gallery/
   - text: Contact
     url: /contact/
+  - text: Blog
+    url: /blog/
