@@ -3,8 +3,9 @@ layout: post
 title: A Spectrum of Meaning and Understanding
 author: Deyna Devi
 img: /uploads/newsletter.jpg
-date: 2020-05-14 13:50:10
-excerpt: ""
+date: 2020-05-14T13:50:10.000Z
+excerpt: If we spend our lives searching for meaning, do we miss the joy of
+  understanding?
 ---
 Subjective meaning embraces our likes and dislikes, thoughts, feelings, sensations, opinions, judgements – it is an essential part of our humanity living, and moving in the world as we do.
 
