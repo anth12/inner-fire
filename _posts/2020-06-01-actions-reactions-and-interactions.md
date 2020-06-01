@@ -3,7 +3,7 @@ layout: post
 title: Actions, Reactions and Interactions
 author: Deyna Devi
 img: /uploads/20181122_093209.jpg
-date: 2020-06-01 10:41:08
+date: 2020-06-01T10:41:08.000Z
 excerpt: Do you take time to truly interact, in addition to acting and reacting?
 ---
 As atoms cobbled together in human form we are always moving, always vibrating, always interacting internally: our physiological systems communicate with each other miraculously to keep us in homeostasis.
@@ -12,9 +12,10 @@ What happens with external relationships? It seems we mainly stay with action an
 \
 In this contemporary arena of screen messaging: WhatsApp, text, messenger we lose much intonation and expression, relying mainly on the visual word which is processed through our already conditioned brain. This can bring joy or pain according to our perceived meaning. But the interaction is with a screen and our own cognition, not another human being.\
 \
-How often do we truly interact? Interaction involves fully understanding the viewpoint or experience of the other person in terms of their actions and reactions. Interacting means walking a mile in someone else's footsteps, or trying on someone else's shoes so that we know their vibrations, their unique arrangement of atoms.\
+How often do we truly interact? Interaction involves fully understanding the viewpoint or experience of the other person in terms of their actions and reactions. Interacting means walking a mile in someone else's footsteps, or trying on someone else's shoes so that we know their vibrations, their unique arrangement of atoms. 
+
 \
-Mostly we are able to have some semblance of interaction by mixing with people of similar atomic structure ... but there is incredible joy and sense of achievement (subjectively 😉) to be gained from having the courage to step out of our blinkered zone, our bubble of meaning and explore another's world, discover aspects of another's psyche that may illuminate a hidden corner of our own .....\
+Mostly we are able to have some semblance of interaction by mixing with people of similar atomic structure. Sometimes a difficult interaction takes courage and inner fortitude; but there is incredible joy and sense of achievement (subjectively 😉) to be gained from stepping out of our blinkered zone, our bubble of meaning and explore another's world, discover aspects of another's psyche that may illuminate a hidden corner of our own .....\
 \
 It's a particularly useful idea in arguments, dissension and relationship breakdown. We can observe the actions and reactions of all parties ... we can make our subjective judgements and assumptions, ride waves of thoughts, feelings and emotions around the event, happening, or dialogue, express our annoyance, anger, frustration, fear, grief, or joy ... whatever is arising within us.\
 \
