@@ -11,26 +11,26 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
-      - {label: "Image", name: "img", widget: "image"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Deposit", name: "deposit", widget: "number"}
-      - {label: "Total Places", name: "totalPlaces", widget: "number"}
-      - {label: "Remaining Places", name: "remainingPlaces", widget: "number"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "adventure" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+      - { label: "Deposit", name: "deposit", widget: "number" }
+      - { label: "Total Places", name: "totalPlaces", widget: "number" }
+      - { label: "Remaining Places", name: "remainingPlaces", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - label: Dates
         name: dates
         widget: list
         fields:
-          - {label: Date, name: date, widget: string}
-          - {label: Description, name: description, widget: string}
+          - { label: Date, name: date, widget: string }
+          - { label: Description, name: description, widget: string }
       - label: Prices
         name: prices
         widget: list
         fields:
-          - {label: Price, name: price, widget: string}
-          - {label: Description, name: description, widget: string}
+          - { label: Price, name: price, widget: string }
+          - { label: Description, name: description, widget: string }
 
   # Pages
   - name: "pages" # Used in routes, e.g. /admin/collections/blog
@@ -40,13 +40,13 @@ collections:
     slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       #- {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
-      - {label: "Image", name: "img", widget: "image"}
-      - {label: "Url", name: "permalink", widget: "string", hint: "Page URL e.g. /page-name/ (with slash at the end)"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "headerSubCopy", name: "subtitle", widget: "string", required: false}
-      - {label: "metaDescription", name: "subtitle", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Url", name: "permalink", widget: "string", hint: "Page URL e.g. /page-name/ (with slash at the end)" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+      - { label: "Header Sub Copy", name: "headerSubCopy", widget: "string", required: false }
+      - { label: "Meta Description", name: "metaDescription", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
   
   # Global
   - label: "Global"
@@ -56,14 +56,14 @@ collections:
         name: "info"
         file: "_data/business.yml"
         fields:
-          - {label: name, name: name, widget: string}
-          - {label: address_full, name: address_full, widget: string, hint: "Example: 333 S. Franklin Street Tampa, FL 33602", required: false}
-          - {label: address_street, name: address_street, widget: string, hint: "Example: 333 S. Franklin Street", required: false}
-          - {label: address_city, name: address_city, widget: string, hint: "Tampa", required: false}
-          - {label: phone_primay, name: phone_primay, widget: string, hint: "(813) 123-4567", required: false}
-          - {label: phone_secondary, name: phone_secondary, widget: string, hint: "(813) 765-4321", required: false}
-          - {label: email_primary, name: email_primary, widget: string }
-          - {label: google_maps_api_key, name: google_maps_api_key, widget: string, hint: "Used to display embeded maps", required: false}
+          - { label: name, name: name, widget: string }
+          - { label: address_full, name: address_full, widget: string, hint: "Example: 333 S. Franklin Street Tampa, FL 33602", required: false }
+          - { label: address_street, name: address_street, widget: string, hint: "Example: 333 S. Franklin Street", required: false }
+          - { label: address_city, name: address_city, widget: string, hint: "Tampa", required: false }
+          - { label: phone_primay, name: phone_primay, widget: string, hint: "(813) 123-4567", required: false }
+          - { label: phone_secondary, name: phone_secondary, widget: string, hint: "(813) 765-4321", required: false }
+          - { label: email_primary, name: email_primary, widget: string  }
+          - { label: google_maps_api_key, name: google_maps_api_key, widget: string, hint: "Used to display embeded maps", required: false }
       - label: "Accreditations"
         name: "accreditations"
         file: "_data/accreditations.yml"
@@ -72,9 +72,9 @@ collections:
             name: accreditations
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Image, name: img, widget: image, required: false}
-              - {label: Link, name: link, widget: string, required: false}
+              - { label: Name, name: name, widget: string }
+              - { label: Image, name: img, widget: image, required: false }
+              - { label: Link, name: link, widget: string, required: false }
       - label: "Testimonials"
         name: "testimonials"
         file: "_data/testimonials.yml"
@@ -83,9 +83,9 @@ collections:
             name: testimonials
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Location, name: location, widget: string, required: false}
-              - {label: Description, name: description, widget: string}
+              - { label: Name, name: name, widget: string }
+              - { label: Location, name: location, widget: string, required: false }
+              - { label: Description, name: description, widget: string }
               # - {label: Image, name: img, widget: image, required: false}
       - label: "Menu"
         name: "menu"
@@ -95,9 +95,9 @@ collections:
             name: menu
             widget: list
             fields:
-              - {label: Text, name: text, widget: string}
-              - {label: Url, name: url, widget: string}
-              - {label: Low Priority, name: lowPriority, widget: boolean, required: false}
+              - { label: Text, name: text, widget: string }
+              - { label: Url, name: url, widget: string }
+              - { label: Low Priority, name: lowPriority, widget: boolean, required: false }
       - label: "Social Media"
         name: "social"
         file: "_data/social_media.yml"
@@ -106,9 +106,9 @@ collections:
             name: platform
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Icon, name: icon, widget: string}
-              - {label: Link, name: link, widget: string}
+              - { label: Name, name: name, widget: string }
+              - { label: Icon, name: icon, widget: string }
+              - { label: Link, name: link, widget: string }
       - label: "Gallery"
         name: "gallery"
         file: "_data/gallery.yml"
@@ -117,7 +117,7 @@ collections:
             name: gallery
             widget: list
             fields:
-              - {label: Image, name: img, widget: image}
+              - { label: Image, name: img, widget: image }
   
   # Home
   - label: "Home"
@@ -127,16 +127,16 @@ collections:
         name: "home"
         file: "_data/home.yml"
         fields:
-          - {label: Title, name: title, widget: string, hint: "The Large Text at the top"}
+          - { label: Title, name: title, widget: string, hint: "The Large Text at the top"}
           - { label: Subtitle, name: headerSubCopy, widget: string }
           - { label: slider-image, name: slider-image, widget: image }
-          - {label: Intro Title, name: intro-title, widget: string, hint: "The first chunk of content"}
-          - {label: Intro Subtitle, name: intro-subtitle, widget: string, hint: "The first chunk of content"}
-          - {label: Intro Body, name: intro-body, widget: markdown}
-          - {label: Intro Image, name: intro-img, widget: image}
-          - {label: Feature Image, name: feature-img, widget: image}
-          - {label: Feature Title, name: feature-title, widget: string}
-          - {label: Feature Subtitle, name: feature-subtitle, widget: text}
+          - { label: Intro Title, name: intro-title, widget: string, hint: "The first chunk of content"}
+          - { label: Intro Subtitle, name: intro-subtitle, widget: string, hint: "The first chunk of content"}
+          - { label: Intro Body, name: intro-body, widget: markdown}
+          - { label: Intro Image, name: intro-img, widget: image}
+          - { label: Feature Image, name: feature-img, widget: image}
+          - { label: Feature Title, name: feature-title, widget: string}
+          - { label: Feature Subtitle, name: feature-subtitle, widget: text}
           - { label: Feature Link Text, name: feature-link-text, widget: string }
           - { label: Feature Link, name: feature-link, widget: string }
           - { label: Adventures Title, name: adventures-title, widget: string }
@@ -150,7 +150,7 @@ collections:
         name: "blog"
         file: "_data/blog.yml"
         fields:
-          - {label: Content, name: content, widget: markdown}
+          - { label: Content, name: content, widget: markdown}
 
   # POSTS
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -160,10 +160,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Image", name: "img", widget: "image"}
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
+      - { label: "Excerpt", name: "excerpt", widget: "markdown", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
