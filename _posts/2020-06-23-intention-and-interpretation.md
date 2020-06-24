@@ -3,7 +3,7 @@ layout: post
 title: Intention and Interpretation
 author: Deyna Devi
 img: /uploads/20190210_071019.jpg
-date: 2020-06-23 15:59:54
+date: 2020-06-24 15:00:47
 excerpt: Words and actions can hurt people with or without intention because
   they are always subject to interpretation
 ---
