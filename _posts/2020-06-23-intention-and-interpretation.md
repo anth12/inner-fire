@@ -3,13 +3,11 @@ layout: post
 title: Intention and Interpretation
 author: Deyna Devi
 img: /uploads/20190210_071019.jpg
-date: 2020-06-24 15:00:47
+date: 2020-06-24T15:00:47.000Z
 excerpt: Words and actions can hurt people with or without intention because
   they are always subject to interpretation
 ---
 **Intention and Interpretation**
-
-
 
 It’s my belief that 99.9% of people never intentionally hurt any other person.\
 But we can be unintentionally thoughtless because we act and react from our own psyche and meaning that is often different from another’s perspective, sensitivities and vulnerabilities.
@@ -51,6 +49,6 @@ Such can be the delicate balance of human relationship without open, honest and 
 
 What if when our giving is unintentionally harmful to the receiver, we are interested and apologetic? The lost art of a heartful ‘SORRY’ which recognises another ego, as well as our own! What if we invite interaction to clarify the giving, content and receiving so that we move towards understanding, evolving and strengthening relationship?
 
-What if when receiving, we appreciate the intention and take time to be aware of our egoic reaction so we address any subjective problem with the content mindfully, recognising another’s ego as well as our own. What if we invite interaction to clarify the giving, content and receiving so that we move towards understanding, evolving and strengthening relationship?
+What if when receiving, we appreciate the intention and take time to be aware of our egoic reaction so we address any subjective problem with the content mindfully, recognising another’s ego as well as our own. What if we invite interaction to clarify the giving, content and receiving so that we move towards understanding, evolving and strengthening relationship? 
 
 Let’s keep celebrating meaning and understanding; and the joy of honest action, reaction and interaction 😊
