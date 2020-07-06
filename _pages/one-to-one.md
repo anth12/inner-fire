@@ -1,7 +1,7 @@
 ---
 img: /uploads/16.jpg
 permalink: /one-to-one/
-title: Singing Bowl Healing and other One-to-one
+title: Singing Bowl Healing and One-to-One Sessions
 ---
 I am qualified in therapeutic Yoga to help you manage or move on from stress and anxiety in your mind and body. This may include muscular analysis and movement to highlight where energy is not flowing; counselling to explore where or what is challenging you in life; breathwork to control emotional reactions; or simply deep relaxation through singing bowl vibrational therapy to calm your whole system. 
 
