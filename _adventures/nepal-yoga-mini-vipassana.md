@@ -2,7 +2,7 @@
 layout: adventure
 img: /uploads/5.jpg
 title: Zoom Pranayama Classes
-deposit: -2
+deposit: 0
 totalPlaces: 100
 remainingPlaces: 87
 dates:
