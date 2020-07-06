@@ -6,18 +6,19 @@ deposit: 100
 totalPlaces: 12
 remainingPlaces: 7
 dates:
-  - date: '1st-15th December, 2019'
-    description: >-
-      Price includes en-suite indiivdual accommodation; most meals; Yoga
+  - date: Winter 2020
+    description: "Price includes en-suite indiivdual accommodation; most meals; Yoga
       sessions; Ayurvedic treatment and herbal medicines during the retreat.
-      Excludes: flights, visas, transfers, vaccinations, excursions 
+      Excludes: flights, visas, transfers, vaccinations, excursions "
 prices:
   - description: 2 weeks
     price: £950
   - description: 1 week
     price: £550
 ---
-Into our 5th year this is an amazing opportunity to enjoy sun, sea and healing from the inside out with Yoga and Ayurveda.
+Looking uncertain for 2020 but please register interest as we will be returning to Varkala when possible and safe.
+
+Into our 6th year this is an amazing opportunity to enjoy sun, sea and healing from the inside out with Yoga and Ayurveda.
 
 This year, Doctor Innocent has built a new purpose-built Ayurveda centre at the beautiful beach of Odayam, 3km from the popular cliff resort of Varkala in Kerala, Southern India. The sandy beach is 200m from the centre and accessible without steps.
 
