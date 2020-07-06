@@ -1,39 +1,24 @@
 ---
 layout: adventure
 img: /uploads/9.jpg
-title: Laos Yoga Mini Vipassana + Mindful Adventure
-deposit: 100
-totalPlaces: 10
-remainingPlaces: 7
+title: Applied Yoga Philosophy
+subtitle: Ancient wisdom, modern ideas
+deposit: 35
+totalPlaces: 100
+remainingPlaces: 99
 dates:
-  - date: 9-19th January 2020
-    description: Do you aspire to inner peace?
+  - date: September 2020
+    description: Express interest now
 prices:
-  - description: 2 weeks
-    price: £500/€600/$700
+  - description: 5 modules
+    price: £35 per module
 ---
-
-Are you ready to connect with silence and explore your own
-inner universe in a peaceful outer environment
-Join us in the highlands of Laos from 9-19th January, 2020 for:
-Five days of silence + Five days of trekking + kayaking + cultural
-visit to village + waterfall
-50 hours professional development credit
-Option to extend your stay for 2 weeks (or more) to help build
-schools, teach English to children and learn about Lao culture
-
-To include:
-Time to explore Luang Prabang in Northern Laos
-Boat trip up the mighty Mekong River
-Trek to remote plateau location in the hills
-5 silent days with Yoga instruction, sitting, standing and walking meditation; movement as needed
-2 Vegetarian meals per day
-Village stay and cultural exchange
-Kayak down Mekong.
-Waterfall swimming on last day
-Cost: £500, 600euros or $700 to include accommodation, travel within 10 day
-package, most meals, local guide (excludes flights, visas, tips, insurance, vaccinations, optional
-excursions)
-
-Optional educational project: @£200 for 2 weeks (longer stays possible) arranged
-through our local partner in Vang Vieng, central Laos
+Starting in late September, this evolutionary course will be blocks of 5 x 2 hour classes (with a break!) via Zoom, Zoom recording or face-to-face class in Kendal (6 places only).\
+Join me if you would like to: understand your own physical and mental health and facilitate deep well-being; learn more about Sanskrit Yoga wisdom; do for Yoga teaching CPD (certificate available). This is a mainly theoretical course but interspersed with practical tips, techniques and resources for continued learning.\
+Module 1: Foundation principles and Sanskrit concepts for attaining Yoga\
+Module 2: Using Yama and Niyama of Patanjali to navigate contemporary living\
+Module 3: Recognising ease and dis-ease in our physiological systems\
+Module 3: Understanding our mind-brain organ in daily interactions\
+Module 4: Relating ancient science to modern interpretation\
+Module 5: Deep energetic wisdom of our ever-evolving embodied spirit\
+Each module: £35 (Concessions may be available) including access to presentation handouts and recordings. Join for one or all modules. Please contact me for a booking form.
