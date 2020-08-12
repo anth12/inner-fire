@@ -27,7 +27,7 @@ Threaded through the course will be:
 
   Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below.
 
-**Module 1: 27/28 February 2021**
+ **\    Module 1: 27/28 February 2021**
 
 \    Day 1: 
 
@@ -39,41 +39,58 @@ Threaded through the course will be:
 * Working with myo-fascia for deep physiological, prana and mental/emotional release
 
 
-  Module 2: 27/28 March 2021
+  **Module 2: 27/28 March 2021**
+
   Day 1:
-  •	Benefits of a fixed sequence 
-  •	Learning to teach a Sivananda-style Yoga class
+* Benefits of a fixed sequence 
+* Learning to teach a Sivananda-style Yoga class
+
   Day 2:
-  •	Inter-connectivity of Physiological Systems: Biological and Subtle Energy perspectives
-  •	The importance of Pranayama and Bandhas
-  Module 3: 24/25 April 2021
+* Inter-connectivity of Physiological Systems: Biological and Subtle Energy perspectives
+* The importance of Pranayama and Bandhas
+
+
+  **Module 3: 24/25 April 2021**
+
   Day 1: 
-  •	Benefits of using props for therapeutic release
-  •	Learning to teach an Iyengar-style class
+* Benefits of using props for therapeutic release
+* Learning to teach an Iyengar-style class
+
   Day 2: 
-  •	Modifying and adjusting Asana for all
-  •	The therapeutic value of Yoga Nidra 
-  Module 4: 22/23 May 2021
+* Modifying and adjusting Asana for all
+* The therapeutic value of Yoga Nidra 
+
+
+  **Module 4: 22/23 May 2021**
+
   Day 1: 
-  •	Benefits of a mindful, flowing sequence
-  •	Learning to teach a Dru-Style class
+* Benefits of a mindful, flowing sequence
+* Learning to teach a Dru-Style class
+
   Day 2:
-  •	The contribution of visualisation for our self and students
-  •	Chakra qualities for a helpful healing narrative
-  Module 5: 26/27 June 2021
+* The contribution of visualisation for our self and students
+* Chakra qualities for a helpful healing narrative
+
+
+  **Module 5: 26/27 June 2021**
+
   Day 1:
-  •	Benefits of integrating breath, mantra and asana
-  •	Learning to teach a Transformative-style class
+* Benefits of integrating breath, mantra and asana
+* Learning to teach a Transformative-style class
+
   Day 2:
-  •	Unifying elements, Chakras and Koshas
-  •	Learning to witness the dance of Para and Apara in each of us
-  Module 6: 24/25 July
+* Unifying elements, Chakras and Koshas
+* Learning to witness the dance of Para and Apara in each of us
+
+  **Module 6: 24/25 July**
+
   Day 1:
-  •	Connecting Yoga and Ayurveda
-  •	Stages of Dis-ease and balancing Doshas
+* Connecting Yoga and Ayurveda
+* Stages of Dis-ease and balancing Dosha
+
   Day 2:
-  •	Acknowledging genetics and epigenetics: ancient and contemporary science
-  •	Emerging science and spiritual unity: Spectrums, Spirals and Spheres
+* Acknowledging genetics and epigenetics: ancient and contemporary science
+* Emerging science and spiritual unity: Spectrums, Spirals and Spheres
 
 [Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
 
