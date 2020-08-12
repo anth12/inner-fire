@@ -1,39 +1,63 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
-title: 200Hour Therapeutic Yoga Training
+title: 100Hour Advanced Therapeutic Yoga Training
+subtitle: Evolutionary / Involutionary wisdom for personal and professional development
 ---
-This is not just a teacher training certification course but an opportunity to investigate your inner universe; imbibe and share knowledge; learn to assist others in groups and individual sessions; explore Yoga as an ancient healing science and philosophy of human evolution.
+100 hours certified, accredited course through Yoga Alliance Professionals
+For Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
+Threaded through the course will be:
+•	Different styles of Hatha Yoga and how they can benefit students of all capabilities
+•	Sanskrit concepts that invite deeper understanding of the human condition, our Yoga aspirations and perhaps those of our students
+•	Shatkriyas / Shatkarmas that help promote immune and circulatory health for protection against viruses
+•	Pranayama practice and theory to moves us toward balance and equanimity
+•	Mindful practices that help us attain the mindlessness of meditation
+12 places available via application
+6 weekends over 6 months: some or all of these modules may be through Zoom, depending on Covid-19 developments and trainer location.
+Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below.
 
-You can expect:
-
-* An experienced Yoga trainer with 25+years of study, training and practice in the UK, India and Thailand
-* Accreditation by Yoga Alliance Professionals 
-* Opportunity for further training in UK and India
-* Chance to visit an experienced Ayurvedic doctor in Kerala for Ayurvedic cleanse and treatment
-* Opportunity to do an Ayurvedic Lifestyle Module in southern India
-
-Our syllabus includes:
-
-* Patanjali’s eight limbs of Yoga
-* Construction of Asana for maximum benefit and eclectic Hatha Yoga styles
-* Philosophical roots of Purusha, Prakriti and the Gunas
-* Unveiling the Koshas and Chakras
-* Mantra, Mudra, Bandha
-* Introduction to our nine consciousnesses and dual aspect of being
-* Mindfulness, Heartfulness and Gutfulness awareness
-* Experiential Anatomy and Physiology + Fascia + Subtle Anatomy
-* Ways to structure a Yoga class through practical methodology, sequencing and flows
-* Therapeutic Postures and Practices for common dis-orders
-* Signposts to meditation and finding your own Enlightened Self
-* How to do a one-to-one consultation
-* Reference to Spiritual scripture
-
-Cost: £1000 / $1200 / 1100euros + any residential costs for assessments (I will keep these as low as possible but @£300 - £400)
-
-If you can help someone else, please offer a partial or full sponsorship in addition to your fee . If you have lost your job and need support, please ask and I'll do what I can. I will also offer instalment plans but please note these will be legally binding as per my terms and conditions.
-
-[Therapeutic Yoga TTC Online Syllabus](https://www.dropbox.com/s/axm73cfo1tmrn4d/Therapeutic%20Yoga%20online%20TTC%20Syllabus.docx?dl=0)
+Module 1: 27/28 February 2021
+Day 1: 
+•	Constructing Asana as a journey through the Koshas. 
+•	Understanding aspects of our physical and mental health
+Day 2: 
+•	Understanding the potential micro-toxic disruption of ‘traumatic’ events
+•	Working with myo-fascia for deep physiological, prana and mental/emotional release
+Module 2: 27/28 March 2021
+Day 1:
+•	Benefits of a fixed sequence 
+•	Learning to teach a Sivananda-style Yoga class
+Day 2:
+•	Inter-connectivity of Physiological Systems: Biological and Subtle Energy perspectives
+•	The importance of Pranayama and Bandhas
+Module 3: 24/25 April 2021
+Day 1: 
+•	Benefits of using props for therapeutic release
+•	Learning to teach an Iyengar-style class
+Day 2: 
+•	Modifying and adjusting Asana for all
+•	The therapeutic value of Yoga Nidra 
+Module 4: 22/23 May 2021
+Day 1: 
+•	Benefits of a mindful, flowing sequence
+•	Learning to teach a Dru-Style class
+Day 2:
+•	The contribution of visualisation for our self and students
+•	Chakra qualities for a helpful healing narrative
+Module 5: 26/27 June 2021
+Day 1:
+•	Benefits of integrating breath, mantra and asana
+•	Learning to teach a Transformative-style class
+Day 2:
+•	Unifying elements, Chakras and Koshas
+•	Learning to witness the dance of Para and Apara in each of us
+Module 6: 24/25 July
+Day 1:
+•	Connecting Yoga and Ayurveda
+•	Stages of Dis-ease and balancing Doshas
+Day 2:
+•	Acknowledging genetics and epigenetics: ancient and contemporary science
+•	Emerging science and spiritual unity: Spectrums, Spirals and Spheres
 
 [Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
 
