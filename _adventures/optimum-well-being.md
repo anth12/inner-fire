@@ -6,6 +6,12 @@ subtitle: A journey through our physiological systems
 deposit: 50
 totalPlaces: 100
 remainingPlaces: 97
+dates:
+  - date: Starts on Friday 8th January 2021
+    description: Book now for 20% discount
+prices:
+  - price: £240
+    description: 9 weeks to Optimum Well-Being
 ---
 How much do you really know about yourself?
 
