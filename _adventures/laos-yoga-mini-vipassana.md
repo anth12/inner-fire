@@ -6,7 +6,9 @@ subtitle: Ancient wisdom, modern ideas
 deposit: 30
 totalPlaces: 100
 remainingPlaces: 99
-dates: []
+dates:
+  - date: Starts on 9th October
+    description: Book before 31st August for 15% discount
 prices: []
 ---
 **Evolutionary Yoga Philosophy**Starting on 9th October, this 6 week evolutionary course will be sessions of 5 x 2 hour classes (with a break!) via Zoom, Zoom recording or face-to-face class in Kendal (6 places only).\
