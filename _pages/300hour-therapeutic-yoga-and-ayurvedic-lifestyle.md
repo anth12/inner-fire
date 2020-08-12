@@ -38,7 +38,6 @@ Threaded through the course will be:
 * Understanding the potential micro-toxic disruption of ‘traumatic’ events
 * Working with myo-fascia for deep physiological, prana and mental/emotional release
 
-
   **Module 2: 27/28 March 2021**
 
   Day 1:
@@ -48,7 +47,6 @@ Threaded through the course will be:
   Day 2:
 * Inter-connectivity of Physiological Systems: Biological and Subtle Energy perspectives
 * The importance of Pranayama and Bandhas
-
 
   **Module 3: 24/25 April 2021**
 
@@ -60,7 +58,6 @@ Threaded through the course will be:
 * Modifying and adjusting Asana for all
 * The therapeutic value of Yoga Nidra 
 
-
   **Module 4: 22/23 May 2021**
 
   Day 1: 
@@ -70,7 +67,6 @@ Threaded through the course will be:
   Day 2:
 * The contribution of visualisation for our self and students
 * Chakra qualities for a helpful healing narrative
-
 
   **Module 5: 26/27 June 2021**
 
