@@ -5,7 +5,9 @@ title: ScapaFest 2021
 deposit: 0
 totalPlaces: 500
 remainingPlaces: 238
-dates: []
+dates:
+  - date: 30th April-2nd May
+    description: Multi-day Yoga and Adventure Festival
 prices: []
 ---
 
