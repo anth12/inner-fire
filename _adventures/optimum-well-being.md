@@ -1,7 +1,7 @@
 ---
 layout: adventure
 img: /uploads/4.jpg
-title: Ultimate Physioloigcal Understanding
+title: Ultimate Physiological Understanding
 subtitle: A biological and subtle journey through our bodily systems
 deposit: 50
 totalPlaces: 100
