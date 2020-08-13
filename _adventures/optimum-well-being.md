@@ -1,8 +1,8 @@
 ---
 layout: adventure
 img: /uploads/4.jpg
-title: Optimum Well-being
-subtitle: A journey through our physiological systems
+title: Ultimate Physioloigcal Understanding
+subtitle: A biological and subtle journey through our bodily systems
 deposit: 50
 totalPlaces: 100
 remainingPlaces: 97
