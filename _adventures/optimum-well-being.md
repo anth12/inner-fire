@@ -1,8 +1,8 @@
 ---
 layout: adventure
 img: /uploads/4.jpg
-title: Ultimate Physiological Understanding
-subtitle: A biological and subtle journey through our bodily systems
+title: Understanding Biological and Subtle Physiology
+subtitle: The ultimate journey through our bodily systems
 deposit: 50
 totalPlaces: 100
 remainingPlaces: 97
