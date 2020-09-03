@@ -26,3 +26,9 @@ Yoga and Ayurveda share their roots in India and are inextricably linked to our 
 Saturday only: £60 ~ Both days: £100 
 
 **Bookings and enquiries:** joy@myphone.coop
+
+**2 Hour Autumn Zoom Workshops**
+
+**Essential Sanskrit Concepts 1**: Sanskrit is a truly spiritual language and imbibing some of its simple, but amazing concepts, can enrich our awareness of how we work as a human being. Join me to play with thie ancient wisdom and how it can help us in our lives today. Live on October 22nd from 2-4pm BST or via recording. Cost: £20
+
+**Enlightened Relationships**: Do your connections need a boost after lockdown? We'll look at some ideas to help understand and improve our daily interactions. Useful for partners, parent/children and friendships alike as well as for deeper awareness of how our own psyche functions. Live on November 12th from 2-4pm GMT or via recording. Cost £20
