@@ -1,7 +1,7 @@
 ---
 layout: adventure
 img: /uploads/5.jpg
-title: Zoom Pranayama Class
+title: Zoom Pranayama, Asana, Mantra morning
 deposit: 0
 totalPlaces: 100
 remainingPlaces: 87
