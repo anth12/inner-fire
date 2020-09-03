@@ -8,7 +8,7 @@ totalPlaces: 100
 remainingPlaces: 97
 dates:
   - date: Starts on Friday 8th January 2021
-    description: Book now for 20% discount
+    description: Book before 1st December 2020 for 20% discount
 prices:
   - price: £240
     description: 9 weeks to Optimum Well-Being
