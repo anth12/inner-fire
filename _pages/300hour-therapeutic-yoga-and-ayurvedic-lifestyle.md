@@ -8,9 +8,7 @@ subtitle: Evolutionary / Involutionary wisdom for personal and professional deve
 
 Location: Ruth's amazing new studio "The Yoga Rooms", Carlisle: [The Yoga Rooms](https://www.theyogaroomscarlisle.co.uk/)
 
-
 For Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
-
 
 Threaded through the course will be:
 
@@ -20,16 +18,13 @@ Threaded through the course will be:
 * Pranayama practice and theory to moves us toward balance and equanimity
 * Mindful practices that help us attain the mindlessness of meditation
 
+   12 places available via application
 
-  12 places available via application
+   6 weekends over 6 months: some or all of these modules may be through Zoom, depending on Covid-19 developments and trainer location.
 
+   Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below.
 
-  6 weekends over 6 months: some or all of these modules may be through Zoom, depending on Covid-19 developments and trainer location.
-
-
-  Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below.
-
- **\    Module 1: 27/28 February 2021**
+  **Module 1: 27/28 February 2021**
 
 \    Day 1: 
 
