@@ -87,4 +87,4 @@ Threaded through the course will be:
 
 [Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)
 
-[Apply for the course here](https://www.dropbox.com/s/o6vwtsbl9heelf2/Inner%20Fire%20TTC%20application%20form.pdf?dl=0)
+[Apply for the course here](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
