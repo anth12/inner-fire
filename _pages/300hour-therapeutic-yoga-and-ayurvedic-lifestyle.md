@@ -8,7 +8,7 @@ subtitle: Evolutionary / Involutionary wisdom for personal and professional deve
 
 Location: Ruth's amazing new studio "The Yoga Rooms", Carlisle: [The Yoga Rooms](https://www.theyogaroomscarlisle.co.uk/)
 
-For Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
+Mainly for Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
 
 Threaded through the course will be:
 
