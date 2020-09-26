@@ -1,7 +1,7 @@
 ---
 img: /uploads/p1120809.jpg
 permalink: innerfire.org.uk/TTC/
-title: Bespoke Therapeutic 200 hour TTC
+title: Bespoke Therapeutic Yoga 200 hour Teacher Training
 subtitle: Integrated, Experiential Traniing
 ---
 **Bespoke Therapeutic Yoga 200 hour Teacher Training**
