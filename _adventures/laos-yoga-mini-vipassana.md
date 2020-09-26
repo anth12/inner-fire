@@ -12,7 +12,7 @@ dates:
 prices:
   - price: "£30 "
     description: Per module
-  - price: £160
+  - price: £120
     description: For all 6 modules
 ---
 **Evolutionary Yoga Philosophy** Starting on 9th October, this 6 week evolutionary course will be sessions of 6 x 2 hour classes (with a break!) via Zoom, Zoom recording or face-to-face class in Kendal (6 places only).\
