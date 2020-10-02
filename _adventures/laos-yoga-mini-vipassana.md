@@ -8,7 +8,7 @@ totalPlaces: 100
 remainingPlaces: 99
 dates:
   - date: Starts on 9th October
-    description: Sign up to the newsletter for further 20% discount if 6 modules booked
+    description: Sign up with a friend and both get 50% discount on full course
 prices:
   - price: "£30 "
     description: Per module
