@@ -8,7 +8,7 @@ Advanced TTC: 100 hours certified, accredited course through Yoga Alliance Profe
 
 Location: Kendal, UK + Zoom
 
-Mainly for Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
+Mainly for Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300 hour certificate.
 
 Threaded through the course will be:
 
@@ -18,7 +18,7 @@ Threaded through the course will be:
 * Pranayama practice and theory to moves us toward balance and equanimity
 * Mindful practices that help us attain the mindlessness of meditation
 
-   12 places available via application
+   12 face-to-face places available via application. Also Zoom places potentially available 
 
    6 weekends over 6 months: some or all of these modules may be through Zoom, depending on Covid-19 developments and trainer location.
 
