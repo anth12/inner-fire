@@ -1,12 +1,12 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
-title: 100Hour Advanced Therapeutic Yoga Training
-subtitle: Evolutionary / Involutionary wisdom for personal and professional development
+title: Therapeutic Yoga Teacher Training
+subtitle: "Bespoke integrated training "
 ---
-100 hours certified, accredited course through Yoga Alliance Professionals. 
+Advanced TTC: 100 hours certified, accredited course through Yoga Alliance Professionals. 
 
-Location: Ruth's amazing new studio "The Yoga Rooms", Carlisle: [The Yoga Rooms](https://www.theyogaroomscarlisle.co.uk/)
+Location: Kendal, UK + Zoom
 
 Mainly for Yoga Teachers with 200 hour qualification who want to evolve their personal and professional practice, plus gain deeper knowledge of Yoga as a Science and Philosophy to help people know themselves. If you complete the course successfully, you will be awarded an Inner Fire 300hour certificate.
 
