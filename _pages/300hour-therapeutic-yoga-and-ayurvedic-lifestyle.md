@@ -46,8 +46,8 @@ Threaded through the course will be:
 
    Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below[](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
 
-  [Inner Fire Advanced TTC Syllabus](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)
+  [Advanced TTC Syllabus](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)
 
-[Terms and Conditions](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0) (All courses)
+[Terms and Conditions 2021](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0) (All courses)
 
 [Apply for the course here](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
