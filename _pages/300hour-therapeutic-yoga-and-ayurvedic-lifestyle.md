@@ -79,7 +79,7 @@ Threaded through the course will be:
 
   Day 1:
 * Connecting Yoga and Ayurveda
-* Stages of Dis-ease and balancing Dosha
+* Stages of Dis-ease and balancing Doshas
 
   Day 2:
 * Acknowledging genetics and epigenetics: ancient and contemporary science
