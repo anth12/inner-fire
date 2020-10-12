@@ -22,7 +22,7 @@ Do you want?
 
 \* Opportunity for further training in UK and India with an option to visit an amazing Ayurvedic doctor in Kerala for your own cleanse and treatment
 
-Check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
+Check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
 
 Grab one of the 6 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
