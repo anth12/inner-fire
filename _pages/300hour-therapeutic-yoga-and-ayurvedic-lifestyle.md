@@ -44,7 +44,7 @@ Threaded through the course will be:
 
    6 weekends over 6 months: some or all of these modules may be entirely through Zoom, depending on Covid-19 developments and trainer location.
 
-   Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below[](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
+  Cost: £1000 as early bird offer until 31st December, 2020. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below[](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
 
   [Advanced TTC Syllabus](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)
 
