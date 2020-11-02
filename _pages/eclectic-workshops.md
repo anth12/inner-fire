@@ -1,6 +1,6 @@
 ---
 img: /uploads/20200124_180404.jpg
-permalink: /eclectic-workshops/
+permalink: /zoom-classes/
 title: Zoom Classes
 ---
 Zoom classes are by donation (welcome and encouraged). Email to join us
