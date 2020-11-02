@@ -1,34 +1,14 @@
 ---
-img: /uploads/p1120809.jpg
+img: /uploads/20200124_180404.jpg
 permalink: /eclectic-workshops/
-title: Eclectic workshops
+title: Zoom Classes
 ---
-**Connecting Yoga And Ayurveda:** Join us on an experiential learning journey for personal and professional development either in person or via Zoom
+Zoom classes are by donation (welcome and encouraged). Email to join us
 
-3rd & 4th October 2020 10.00 - 16.30 at In the Moment (2nd Floor), 72 Berkeley Street, Glasgow G3 7DS
+**Wednesdays: Asana Class from 16:30-17:30GMT** 
 
-Yoga and Ayurveda share their roots in India and are inextricably linked to our vitality and well-being. We will look at:
+Stretch and flex to open your physical body, promote Prana flow, calm your mind and release emotional holding inviting interoception and peace within.
 
-· Gunas (Qualities of Nature) and Doshas (Constitutional Qualities)
+**Thursdays: Pranayama Class from 10-11GMT (+ optional Salute to Sun warm-up at 9:15 and Mantra Chanting at 11:15)**
 
-· Prakruti (Genetic Constitution) and Vikruti (Epigenetic Constitution)
-
-· Progress of Dis-ease and how to intervene
-
-· Sequences to pacify or activate our Doshas
-
-· Dietary considerations for optimum health
-
-· Helpful daily practices
-
-· Elemental mantras for inner and outer connection
-
-Saturday only: £60 ~ Both days: £100 
-
-**Bookings and enquiries:** joy@myphone.coop
-
-**2 Hour Autumn Zoom Workshops**
-
-**Essential Sanskrit Concepts 1**: Sanskrit is a truly spiritual language and imbibing some of its simple, but amazing concepts, can enrich our awareness of how we work as a human being. Join me to play with thie ancient wisdom and how it can help us in our lives today. Live on October 22nd from 2-4pm BST or via recording. Cost: £20
-
-**Enlightened Relationships**: Do your connections need a boost after lockdown? We'll look at some ideas to help understand and improve our daily interactions. Useful for partners, parent/children and friendships alike as well as for deeper awareness of how our own psyche functions. Live on November 12th from 2-4pm GMT or via recording. Cost £20
+Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world.
