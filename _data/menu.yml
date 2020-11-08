@@ -7,7 +7,7 @@ menu:
     url: /teacher-training/
   - text: Zoom Classes
     url: /zoom-classes/
-  - lowPriority: true
+  - lowPriority: false
     text: One to One
     url: /one-to-one/
   - lowPriority: true
