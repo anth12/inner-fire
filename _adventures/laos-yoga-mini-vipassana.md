@@ -24,12 +24,10 @@ Module 2, live on 16th October from 09:30-11:30BST: Using Yama and Niyama of Pat
 
 Module 3, live on 23rd October from 09:30-11:30BST: Recognising ease and dis-ease in our physiological systems
 
-Module 3, live on 30th October from 09:30-11:30GMT : Understanding our mind-brain organ in daily interactions
+Module 4, live on 30th October from 09:30-11:30GMT : Understanding our mind-brain organ in daily interactions
 
-Module 4, live on 6th November from 09:30-11:30GMT: Relating ancient science to modern interpretation
+Module 5, live on 6th November from 09:30-11:30GMT: Relating ancient science to modern interpretation of deep energetic wisdom in our ever-evolving embodied spirit
 
-Module 5, live on 13th November from 09:30-11:30GMT: Deep energetic wisdom of our ever-evolving embodied spirit
-
-Module 6, live on 20th November from 09:30-11:30GMT: Relating inner climate change to outer climate change
+Module 6, live on 13th November from 09:30-11:30GMT: Relating inner climate change to outer climate change
 
 Each module: £30 or full course: £160 (Concessions may be available) includes access to presentation handouts and recordings. Join for one or all modules.
