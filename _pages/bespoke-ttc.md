@@ -1,10 +1,10 @@
 ---
 img: /uploads/p1120809.jpg
 permalink: innerfire.org.uk/TTC/
-title: Bespoke Therapeutic Yoga 200 hour Teacher Training
+title: 200 hour Evolutionary Yoga Training
 subtitle: Integrated, Experiential Traniing
 ---
-**Bespoke Therapeutic Yoga 200 hour Training for all Educators:** in 2021 my training is geared to all those who are educating our next generation: teachers, parents and home schoolers. You may not necessarily aspire to run your own studio or make an exclusive living out of 'Yoga Teaching'. Your motivation may be more to guide and inspire, to gently and mindfully help to shift values, cultural and social expectation, to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
+**Evolutionary Yoga 200 hour Training for all Educators:** in 2021 my training is geared to all those who are educating our next generation: teachers, parents and home schoolers. You may not necessarily aspire to run your own studio or make an exclusive living out of 'Yoga Teaching'. Your motivation may be more to guide and inspire, to gently and mindfully help to shift values, cultural and social expectation, to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
 There will be time to chat to each other over residentials, enjoy different locations with their accompanying challenges and learning, perhaps even an opportunity to discuss how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
 
