@@ -1,14 +1,24 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
-title: Basic and Advanced Therapeutic Yoga Teacher Training
+title: Basic and Advanced Therapeutic Yoga Training
 subtitle: "Bespoke integrated training "
 ---
-**Bespoke Therapeutic Yoga 200 hour Teacher Training**
+**Bespoke Therapeutic Yoga 200 hour Training for all Educators**
 
-**in Kendal, Cumbria, UK over 10 weekends in 2021 and 2022 (arranged with participants).** 
+Over 4 blocks of 6 days: 
+
+**Block 1: Easter, 10-17th April 2021 in Kendal, Cumbria**
+
+**Block 2: Summer, 17th-23rd July 2021 - camping in the Lake District or Scotland (we'll decide on the first week)**
+
+**Block 3: October half-term, 23rd-28th October 2021 - a monastery in Majorca!**
+
+**Block 4: Christmas ... somewhere exotic!** 
 
 Do you want?
+
+\*To learn to guide people of all ages towards greater self-awareness and their own amazing enlightened self
 
 \* An authentic, experienced Yoga trainer with 25+ years of study, training and practice in the UK, India and Thailand
 
