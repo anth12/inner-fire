@@ -3,7 +3,7 @@ layout: adventure
 img: /uploads/4.jpg
 title: Understanding Biological and Subtle Physiology
 subtitle: The ultimate journey through our bodily systems
-deposit: 50
+deposit: 120
 totalPlaces: 100
 remainingPlaces: 97
 dates:
