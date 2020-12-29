@@ -42,8 +42,6 @@ If so, check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](htt
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
-
-
 **Advanced TTC: 100 hours certified, accredited course through Yoga Alliance Professionals.** 
 
 **Location: Kendal, UK + Zoom**
@@ -58,11 +56,11 @@ Threaded through the course will be:
 * Pranayama practice and theory to moves us toward balance and equanimity
 * Mindful practices that help us attain the mindlessness of meditation
 
-   12 face-to-face places available via application. Also Zoom places potentially available 
+  12 face-to-face places available via application. Also Zoom places potentially available 
 
-   6 weekends over 6 months: some or all of these modules may be entirely through Zoom, depending on Covid-19 developments and trainer location.
+  6 weekends over 6 months, starting from 27th February: some or all of these modules may be entirely through Zoom, depending on Covid-19 developments and trainer location (Check all dates by clicking on the syllabus below)
 
-  Cost: £1000 as early bird offer until 31st December, 2020. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below[](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
+  Cost: £1000. Instalment payments possible in accordance with terms and conditions. Please apply to deyna@innerfire.org.uk or use the link below[](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
 
   [Advanced TTC Syllabus](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)
 
