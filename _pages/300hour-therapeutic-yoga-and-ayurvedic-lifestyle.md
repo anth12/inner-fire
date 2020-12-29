@@ -2,9 +2,9 @@
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
 title: Basic and Advanced Therapeutic Yoga Training
-subtitle: "Bespoke integrated training "
+subtitle: "Integrated evolutionary training "
 ---
-**Bespoke Therapeutic Yoga 200 hour Training for all Educators:** in 2021 my training is geared to all those who are educating our next generation: teachers, parents and home schoolers. You may not necessarily aspire to run your own studio or make an exclusive living out of 'Yoga Teaching'. Your motivation may be more to guide and inspire, to gently and mindfully help to shift values, cultural and social expectation, to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
+**Evolutionary Yoga 200 hour Training for all Educators:** in 2021 my training is geared to all those who are educating our next generation: teachers, parents and home schoolers. You may not necessarily aspire to run your own studio or make an exclusive living out of 'Yoga Teaching'. Your motivation may be more to guide and inspire, to gently and mindfully help to shift values, cultural and social expectation, to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
 There will be time to chat to each other over residentials, enjoy different locations with their accompanying challenges and learning, perhaps even an opportunity to discuss how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
 
@@ -41,6 +41,8 @@ Do you want ...
 If so, check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
+
+
 
 **Advanced TTC: 100 hours certified, accredited course through Yoga Alliance Professionals.** 
 
