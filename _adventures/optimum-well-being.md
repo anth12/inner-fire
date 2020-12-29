@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/4.jpg
+img: /uploads/15.jpg
 title: Do you know yourself?
 subtitle: The ultimate journey through our biological and subtle physiology
 deposit: 120
