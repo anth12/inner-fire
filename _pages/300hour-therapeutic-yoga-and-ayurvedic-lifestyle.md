@@ -40,6 +40,8 @@ Do you want ...
 
 If so, check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
 
+Cost: £1900 for training and certification (residential costs extra)
+
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
 **Advanced TTC: 100 hours certified, accredited course through Yoga Alliance Professionals.** 
