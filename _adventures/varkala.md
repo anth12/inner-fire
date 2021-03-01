@@ -16,7 +16,7 @@ prices:
   - description: 1 week
     price: £550
 ---
-Looking uncertain for 2020 but please register interest as we will be returning to Varkala when possible and safe.
+Still looking uncertain for 2021 but please register interest as we will be returning to Varkala when possible and safe.
 
 Into our 6th year this is an amazing opportunity to enjoy sun, sea and healing from the inside out with Yoga and Ayurveda.
 
