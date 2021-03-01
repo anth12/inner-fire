@@ -4,21 +4,25 @@ permalink: innerfire.org.uk/TTC/
 title: 200 hour Evolutionary Yoga Training
 subtitle: Integrated, Experiential Traniing
 ---
-**Evolutionary Yoga 200 hour Training for all Educators:** in 2021 my training is geared to all those who are educating our next generation: teachers, parents, activists, charity / NGO workers and home schoolers. You may not necessarily aspire to run your own studio or make an exclusive living out of 'Yoga Teaching'. Your motivation may be more to guide and inspire, to gently and mindfully help to shift values, cultural and social expectation, to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
+**Evolutionary Yoga 200 hour Training for all Educators:** in 2021 training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others.
 
-There will be time to chat to each other over residentials, enjoy different locations with their accompanying challenges and learning, perhaps even an opportunity to discuss how you can implement and adapt Yoga wisdom to contemporary living, education and evolution in your work and relationships.
+You may not necessarily aspire to run your own studio or make an exclusive living out of teaching Yoga classes. Your motivation may be more to guide and inspire; to gently and mindfully help shift values, cultural and social expectation; to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
-Let's co-create not just a 'new normal' but an enlightened illuminated way forward as a species ....
+There will be time to chat to each other over weekends and residentials; enjoy different locations with their accompanying challenges and learning; an opportunity to consider how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
 
-The training will take place over 4 blocks of 6 days:
+Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days:
 
-**Block 1: Easter, 10-17th April 2021 in Kendal, Cumbria**
+**Block 1: Weekend 1: 17th/18th April 2021 in or near Kendal, Cumbria. Non- residential (Zoom if restrictions still in place)**
 
-**Block 2: Summer, 17th-23rd July 2021 - camping in the Lake District or Scotland (we’ll decide on the first week)**
+**Weekend 2: 15th/16th May in or near Kendal, Cumbria. Non-residential**
 
-**Block 3: October half-term, 23rd-28th October 2021 - a monastery in Majorca!**
+**Weekend 3: 12th/13th June in or near Kendal, Cumbria. Non-residential**
 
-**Block 4: Christmas … somewhere exotic! Or potentially Easter 2022 as an option ... we'll decide together!**
+**Block 2: Summer, 17th-22nd  July 2021 - camping in the Lake District on basic site with facilities**
+
+**Block 3: October half-term, 23rd-28th October 2021 – possibly a monastery in the hills of Majorca or we may change to 3 non-residential autumn weekends, depending on how covid restrictions unfold.**
+
+**Block 4: Christmas … somewhere exotic? Or potentially Easter 2022 as an option ... we’ll decide together**
 
 Do you want ...
 
