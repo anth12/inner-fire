@@ -9,9 +9,9 @@ Zoom classes are by donation (welcome and encouraged). Email to join us
 
 Stretch and flex to open your physical body, promote Prana flow, calm your mind and release emotional holding inviting interoception and peace within.
 
-**Thursdays: Pranayama Class from 10-11GMT**  
+**Thursdays: Pranayama Class from 10-11am GMT**  
 
-Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world.
+Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world. This class is also recorded if you wish to access it at another time.
 
 **Thursdays: Mantra Chanting from 11:15-11:45am GMT**
 
@@ -19,4 +19,4 @@ Finish off the morning with deep cellular activation and illumination through ma
 
 **Fridays: Slow Flow and Hold from 2-3pm GMT**
 
-Joint mobilisation, gentle fascia stretching and conscious breathing. A light-hearted class with a chance to connect with others as well as promoting your physical and mental well-being
+Joint mobilisation, gentle fascia stretching and conscious breathing. A light-hearted class with a chance to connect with others as well as promoting your physical and mental well-being.
