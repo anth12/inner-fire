@@ -10,8 +10,6 @@ dates:
   - date: Saturday 22nd May
     description: 9:30-14:30 (BST)
 prices:
-  - price: £0
-    description: Free for all
   - price: "35"
     description: Zoom Workshop
 ---
