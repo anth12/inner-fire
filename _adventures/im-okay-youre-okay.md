@@ -3,7 +3,7 @@ layout: adventure
 img: /uploads/1.jpg
 title: Addiction, Trauma and Well-being
 subtitle: When does a habit become unhealthy?
-deposit: 34
+deposit: 35
 totalPlaces: 100
 remainingPlaces: 98
 dates:
