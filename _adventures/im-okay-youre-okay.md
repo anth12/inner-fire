@@ -3,14 +3,14 @@ layout: adventure
 img: /uploads/1.jpg
 title: Addiction, Trauma and Well-being
 subtitle: When does a habit become unhealthy?
-deposit: 35
+deposit: 34
 totalPlaces: 100
 remainingPlaces: 98
 dates:
   - date: Saturday 22nd May
     description: 9:30-14:30 (BST)
 prices:
-  - price: "35"
+  - price: £35
     description: Zoom Workshop
 ---
 **Addiction, Trauma and Well-being**
