@@ -1,20 +1,36 @@
 ---
 layout: adventure
-img: /uploads/humantohuman.jpg
-title: I'm Okay, You're Okay
-subtitle: The Art of Connecting Human to Human
-deposit: 0
+img: /uploads/1.jpg
+title: Addiction, Trauma and Well-being
+subtitle: When does a habit become unhealthy?
+deposit: 35
 totalPlaces: 100
-remainingPlaces: 59
+remainingPlaces: 98
 dates:
-  - date: 13th March 2021
-    description: Sessions 1 and 2
-  - date: 14th March 2021
-    description: Sessions 3 and 4
+  - date: Saturday 22nd May
+    description: 9:30-14:30 (BST)
 prices:
   - price: £0
     description: Free for all
+  - price: "35"
+    description: Zoom Workshop
 ---
-**I'm Okay, You're Okay: The Art of Connecting Human to Human**\
-I'm running this training for the Occupational Therapy Society at the University of Cumbria on 13th and 14th March. They invite you to this Zoom training in health and wellbeing: understanding causes and physiological / psychological processes of dis-ease, the impact of trauma + how to build resilience and regain balance. It's free for everyone and will be particularly useful for health professionals, or anyone concerned about their own well-being.\
-Find out more and book [here](https://www.ucsu.me/groups/occupational-therapy-society-59b6/events/i-m-okay-you-re-okay-the-art-of-connecting-human-to-human-7aa7)
+**Addiction, Trauma and Well-being**
+
+Join me (Deyna Devi) on 22nd May from 9:30-14:30 (BST) for a Zoom workshop to explore our understanding of addiction related to trauma and how to cultivate well-being.
+
+You will learn about:  
+
+* meaning and understanding of addiction and trauma
+* actions, reactions and interactions related to emotional state
+* the influence of adverse childhood experience and emotional neglect
+* physiological relationships with traumatic experiences
+* conscious, subconscious and unconscious communication
+* spectrums, spirals and cycles of habit and addiction
+* simple techniques to help calm a stress response
+* being more comfortable with our triggers
+* a holistic picture of well-being
+* how language can change our world and relationships
+* the power of compassionate self-awareness and mindful observation
+
+  To book email: deyna@innerfire.org.uk
