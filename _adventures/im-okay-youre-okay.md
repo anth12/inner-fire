@@ -15,7 +15,7 @@ prices:
 ---
 **Addiction, Trauma and Well-being**
 
-Join me (Deyna Devi) on 22nd May from 9:30-14:30 (BST) for a Zoom workshop to explore our understanding of addiction related to trauma and how to cultivate well-being.
+Join me (Deyna Devi) on 22nd May from 9:30-14:30 (BST) for a Zoom workshop to explore our understanding of addiction related to trauma and how to cultivate well-being. Deposit of £35 is the total cost of the workshop.
 
 You will learn about:  
 
