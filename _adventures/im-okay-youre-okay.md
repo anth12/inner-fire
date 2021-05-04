@@ -5,7 +5,7 @@ title: Addiction, Trauma and Well-being
 subtitle: When does a habit become unhealthy?
 deposit: 35
 totalPlaces: 100
-remainingPlaces: 98
+remainingPlaces: 96
 dates:
   - date: Saturday 22nd May
     description: 9:30-14:30 (BST)
@@ -30,5 +30,3 @@ You will learn about:  
 * a holistic picture of well-being
 * how language can change our world and relationships
 * the power of compassionate self-awareness and mindful observation
-
-  To book email: deyna@innerfire.org.uk
