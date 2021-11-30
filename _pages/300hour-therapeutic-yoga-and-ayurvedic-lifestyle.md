@@ -60,6 +60,6 @@ Cost: £2300 for training and certification (residential costs extra). I offer a
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
-[Terms and Conditions 202](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)2 (All courses)
+[Terms and Conditions 202](https://www.dropbox.com/s/xvbdumyojhcmytw/Terms%20and%20Conditions%202020.pdf?dl=0)2 (All courses)
 
 [Apply for the course here](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
