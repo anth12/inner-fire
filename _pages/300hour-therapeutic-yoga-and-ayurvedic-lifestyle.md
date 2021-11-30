@@ -14,13 +14,17 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Block 1: Weekend 1: 26/27th March 2022 in or near Kendal, Cumbria. Non- residential.**
 
-**Weekend 2: 23rd/24th April in or near Kendal, Cumbria. Non-residential**
+**Weekend 2: 23rd/24th April 2022 in or near Kendal, Cumbria. Non-residential**
 
-**Weekend 3: 21st/22nd May in or near Kendal, Cumbria. Non-residential**
+**Weekend 3: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential**
 
-**Block 2: Summer, 16th-21st  July 2022 - camping in the Lake District on basic site with facilities**
+**Block 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities**
 
-**Block 3: October half-term, 23rd-28th October 2021 – possibly a monastery in the hills of Majorca or we may change to 3 non-residential autumn weekends, depending on how covid restrictions unfold.**
+**Block 3: Weekend 4: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential**
+
+**Weekend 5: 22nd/23rd October 2022 in or near Kendal, Cumbria (lead teacher via Zoom)**
+
+**Weekend 6: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom)**
 
 **Block 4: Christmas … somewhere exotic? Or potentially Easter 2022 as an option ... we’ll decide together**
 
