@@ -54,7 +54,7 @@ Do you want ...
 
 \* Opportunity for further training in UK and India with an option to visit an amazing Ayurvedic doctor in Kerala for your own cleanse and treatment?
 
-If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
+If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/v19cab91vz6qksc/Therapeutic%20Yoga%20TTC%20syllabus%202022.pdf?dl=0)
 
 Cost: £2300 for training and certification (residential costs extra). I offer an easy pay instalment programme to those who need it.
 
