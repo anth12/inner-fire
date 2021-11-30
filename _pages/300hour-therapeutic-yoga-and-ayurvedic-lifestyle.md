@@ -24,19 +24,27 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Weekend 5: 22nd/23rd October 2022 in or near Kendal, Cumbria (lead teacher via Zoom)**
 
-**Weekend 6: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom)**
+**Weekend 6: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom). Non-residential**
 
-**Block 4: Christmas … somewhere exotic? Or potentially Easter 2022 as an option ... we’ll decide together**
+**Over winter you will complete 3 individual therapeutic case studies or write a holistic education programme for your place of work.**
+
+**Block 4: Weekend 7: 25th/26th February 2023 in or near Kendal, Cumbria. Non-residential**
+
+**Weekend 8: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential**
+
+**Weekend 9: 22nd/23rd April 2023 in or near Kendal, Cumbria. Non-residential**
+
+**Assessments and Celebration weekend: 20th/21st May 2023. This will be either residential or non-residential according to preference.**
 
 Do you want ...
 
 \*To learn to guide people of all ages towards greater self-awareness and their own amazing enlightened self?
 
-\*Be able to integrate and teach or guide people from the first block?
+\*Be able to teach or guide people from the first block with student insurance?
 
 \* An authentic, experienced Yoga trainer with 25+ years of study, training and practice in the UK, India and Thailand?
 
-\* Eclectic Hatha Yoga Asana styles so you can develop your own unique guiding approach?
+\* Eclectic Hatha Yoga Asana styles so you can develop your own unique approach?
 
 \*Contemporary knowledge married with ancient wisdom>
 
