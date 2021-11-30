@@ -1,6 +1,6 @@
 ---
 img: /uploads/img-20171204-wa0011.jpg
-permalink: Holistic Well-being
+permalink: /one-to-one/
 title: Holistic Well-Being
 subtitle: Hedonic, Eudaimonic and Transcendental Well-being
 ---
