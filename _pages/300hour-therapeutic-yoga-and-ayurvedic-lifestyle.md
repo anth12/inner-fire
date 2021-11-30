@@ -1,10 +1,10 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /teacher-training/
-title: Basic and Advanced Therapeutic Yoga Training
-subtitle: "Integrated evolutionary training "
+title: Educative and Therapeutic Yoga Training
+subtitle: "Integrated training to enhance physical and mental health "
 ---
-**Evolutionary Yoga 200 hour Training for all Educators:** in 2021 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others.
+**Educative and Therapeutic Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others.
 
 You may not necessarily aspire to run your own studio or make an exclusive living out of teaching Yoga classes. Your motivation may be more to guide and inspire; to gently and mindfully help shift values, cultural and social expectation; to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
@@ -12,13 +12,13 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days:
 
-**Block 1: Weekend 1: 17th/18th April 2021 in or near Kendal, Cumbria. Non- residential (Zoom if restrictions still in place)**
+**Block 1: Weekend 1: 26/27th March 2022 in or near Kendal, Cumbria. Non- residential.**
 
-**Weekend 2: 15th/16th May in or near Kendal, Cumbria. Non-residential**
+**Weekend 2: 23rd/24th April in or near Kendal, Cumbria. Non-residential**
 
-**Weekend 3: 12th/13th June in or near Kendal, Cumbria. Non-residential**
+**Weekend 3: 21st/22nd May in or near Kendal, Cumbria. Non-residential**
 
-**Block 2: Summer, 17th-22nd  July 2021 - camping in the Lake District on basic site with facilities**
+**Block 2: Summer, 16th-21st  July 2022 - camping in the Lake District on basic site with facilities**
 
 **Block 3: October half-term, 23rd-28th October 2021 – possibly a monastery in the hills of Majorca or we may change to 3 non-residential autumn weekends, depending on how covid restrictions unfold.**
 
