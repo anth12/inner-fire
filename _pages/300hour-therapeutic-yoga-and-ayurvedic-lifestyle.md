@@ -10,7 +10,7 @@ You may not necessarily aspire to run your own studio or make an exclusive livin
 
 There will be time to chat to each other over weekends and residentials; enjoy different locations with their accompanying challenges and learning; an opportunity to consider how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
 
-Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days:
+Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days (plus 2 assessment days) as well as home study and assignments:
 
 **Block 1: Weekend 1: 26/27th March 2022 in or near Kendal, Cumbria. Non- residential.**
 
@@ -54,12 +54,12 @@ Do you want ...
 
 \* Opportunity for further training in UK and India with an option to visit an amazing Ayurvedic doctor in Kerala for your own cleanse and treatment?
 
-If so, check out the full syllabus here: [Inner Fire 200 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
+If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/kc3z3g457hrdl4t/Inner%20Fire%20TTC%20syllabus%202021.pdf?dl=0)
 
-Cost: £1900 for training and certification (residential costs extra)
+Cost: £2300 for training and certification (residential costs extra). I offer an easy pay instalment programme to those who need it.
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
-[Terms and Conditions 2021](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0) (All courses)
+[Terms and Conditions 202](https://www.dropbox.com/s/suqd05wv46wabiu/Inner%20Fire%20Advanced%20TTC%20syllabus.pdf?dl=0)2 (All courses)
 
 [Apply for the course here](https://www.dropbox.com/s/hflm7xgv8mcbcew/Inner%20Fire%20TTC%20application%20form%202021.pdf?dl=0)
