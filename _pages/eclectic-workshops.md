@@ -1,9 +1,13 @@
 ---
 img: /uploads/20200124_180404.jpg
 permalink: /zoom-classes/
-title: Zoom Classes
+title: Zoom Classes + YouTube access
 ---
-Zoom classes are by donation (welcome and encouraged). Email to join us
+Zoom classes are continuing in 2022. Email to join us for:
+
+**Tuesdays: Dru and Transformative Mix from10:30-11:30 GMT**
+
+An eclectic mix of Dru flowing Asana and Transformative Pranayama for a deep regenerative and revitalising practice.
 
 **Thursdays: Slow Flow Asana from 7:45-8:45am GMT**
 
