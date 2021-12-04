@@ -1,7 +1,7 @@
 menu:
   - text: Home
     url: /
-  - text: Global Adventures
+  - text: Adventures
     url: /adventures/
   - text: Teacher Training
     url: /teacher-training/
