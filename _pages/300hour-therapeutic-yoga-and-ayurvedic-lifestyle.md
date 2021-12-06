@@ -56,7 +56,7 @@ Do you want ...
 
 If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/v19cab91vz6qksc/Therapeutic%20Yoga%20TTC%20syllabus%202022.pdf?dl=0)
 
-Cost: £2300 for training and certification (residential costs extra). I offer an easy pay instalment programme to those who need it.
+Cost: £2300 for training and certification (residential costs extra). I also offer an easy pay instalment programme to those who need it, spread over the duration of the course (T&C apply).
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
