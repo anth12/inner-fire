@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/15.jpg
+img: /uploads/img_20180627_204824_735-3-.jpg
 title: Walks with a Twist
 deposit: 0
 totalPlaces: 12
