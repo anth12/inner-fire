@@ -3,7 +3,7 @@ layout: adventure
 img: /uploads/20181122_053827-2-.jpg
 title: Meditation Skills
 subtitle: Mindful living in 2022
-deposit: 0
+deposit: 35
 totalPlaces: 50
 remainingPlaces: 50
 dates:
