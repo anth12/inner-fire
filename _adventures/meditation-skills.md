@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/5.jpg
+img: /uploads/20181122_053827-2-.jpg
 title: Meditation Skills
 subtitle: Mindful living in 2022
 deposit: 0
