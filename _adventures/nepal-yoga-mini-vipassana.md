@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/5.jpg
+img: /uploads/20200124_180404.jpg
 title: Zoom Pranayama, Asana, Mantra morning
 deposit: 0
 totalPlaces: 100
