@@ -3,7 +3,7 @@ img: /uploads/20200124_180404.jpg
 permalink: /zoom-classes/
 title: Zoom Classes + YouTube access
 ---
-Zoom classes are continuing in 2022. £8 drop-in (live or recording) or pay a monthly subscription of £32 per class to access via YouTube channel at your leisure (I'm happy to discuss a discount if needed).
+Regular Zoom classes are continuing in 2022. £8 drop-in (live or recording) or pay a monthly subscription of £32 per class to access via YouTube channel at your leisure (I'm happy to discuss a discount if needed).
 
 Email to join us for:
 
