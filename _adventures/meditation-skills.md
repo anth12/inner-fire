@@ -25,4 +25,4 @@ Saturday 22nd January: Controlling Thought Patterns
 
 Saturday 29th January: Cultivating insight 
 
-Each session will run from 09:30-10:30 GMT with time for questions or discussion until 11:00 GMT. If these times don't suit you are also welcome to sign up and receive the recordings via email link or YouTube.
+Each session will run from 09:00-10:00 GMT with time for questions or discussion until 10:30 GMT. If these times don't suit you are also welcome to sign up and receive the recordings via email link or YouTube.
