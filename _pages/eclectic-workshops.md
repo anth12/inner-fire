@@ -7,7 +7,7 @@ Regular Zoom classes are continuing in 2022. £8 drop-in (live or recording) or 
 
 Email to join us for:
 
-**Tuesdays: Dru and Transformative Mix from10:30-11:30 GMT**
+**Tuesdays: Dru and Transformative Mix from10:00-11:00 GMT**
 
 An eclectic mix of Dru flowing Asana and Transformative Pranayama for a deep regenerative and revitalising practice.
 
