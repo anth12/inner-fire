@@ -12,23 +12,23 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days (plus 2 assessment days) as well as home study and assignments:
 
-**Block 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this)**
+**Block 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential**
 
-**Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential**
+**Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Block 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities**
+**Block 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential.**
 
-**Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential**
+**Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Block 3: 22nd/23rd October 2022 in or near Kendal, Cumbria (lead teacher via Zoom)**
+**Block 3: 23rd - 26th October 2022 in a Majorcan monastery (covid permitting). Residential**
 
-**Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom). Non-residential**
+**Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom). Non-residential or via Zoom**
 
 **Over winter you will complete 3 individual therapeutic case studies or write a holistic education programme for your place of work.**
 
-**Block 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential**
+**Block 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Weekend 4: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential**
+**Weekend 4: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
 Do you want ...
 
