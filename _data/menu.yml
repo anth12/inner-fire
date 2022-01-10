@@ -4,7 +4,7 @@ menu:
   - text: Adventures
     url: /adventures/
   - text: Teacher Training
-    url: /teacher-training/
+    url: /training/
   - text: Zoom Classes
     url: /zoom-classes/
   - lowPriority: false
