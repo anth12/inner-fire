@@ -1,6 +1,6 @@
 ---
 img: /uploads/20190210_071019.jpg
-permalink: /teacher-training/
+permalink: /training/
 title: Educative and Therapeutic Yoga Training
 subtitle: "Integrated training to enhance physical and mental health "
 ---
