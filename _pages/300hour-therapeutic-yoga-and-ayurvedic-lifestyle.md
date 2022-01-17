@@ -12,29 +12,29 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days (plus 2 assessment days) as well as home study and assignments:
 
-**Block 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential**
+**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential**
 
 **Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Block 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential.**
+**Residential 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential.**
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Block 3: 23rd - 26th October 2022 in a Majorcan monastery (covid permitting). Residential**
+**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential**
 
 **Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom). Non-residential or via Zoom**
 
 **Over winter you will complete 3 individual therapeutic case studies or write a holistic education programme for your place of work.**
 
-**Block 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
+**Weekend 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
-**Weekend 4: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
+**Weekend 5: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
 
 Do you want ...
 
 \*To learn to guide people of all ages towards greater self-awareness and their own amazing enlightened self?
 
-\*Be able to teach or guide people from the first block with student insurance?
+\*Be able to teach or guide people after the first residential and weekend with student insurance?
 
 \* An authentic, experienced Yoga trainer with 25+ years of study, training and practice in the UK, India and Thailand?
 
@@ -50,7 +50,7 @@ Do you want ...
 
 If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/v19cab91vz6qksc/Therapeutic%20Yoga%20TTC%20syllabus%202022.pdf?dl=0)
 
-Cost: £2300 for training and certification (residential costs extra). I also offer an easy pay instalment programme to those who need it, spread over the duration of the course (T&C apply).
+Cost: £2300 for all training and manual. I also offer an easy pay instalment programme to those who need it, spread over the duration of the course (T&C apply).
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
