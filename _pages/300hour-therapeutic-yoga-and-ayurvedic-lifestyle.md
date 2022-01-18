@@ -50,7 +50,7 @@ Do you want ...
 
 If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/v19cab91vz6qksc/Therapeutic%20Yoga%20TTC%20syllabus%202022.pdf?dl=0)
 
-Cost: Each residential and weekend is charged separately to allow for spreading the cost.
+Cost: Each residential and weekend is charged separately to allow for spreading the cost. Total cost: £2425
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
