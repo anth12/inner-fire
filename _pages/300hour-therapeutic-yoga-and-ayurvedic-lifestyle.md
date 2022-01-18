@@ -12,23 +12,21 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days (plus 2 assessment days) as well as home study and assignments:
 
-**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential**
+**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525**
 
-**Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
+**Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**Residential 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential.**
+**Residential 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential cost: £525**
 
-**Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom**
+**Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential**
+**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £595**
 
-**Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher via Zoom). Non-residential or via Zoom**
+**Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher may be via Zoom). Non-residential or via Zoom cost: £195**
 
 **Over winter you will complete 3 individual therapeutic case studies or write a holistic education programme for your place of work.**
 
-**Weekend 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
-
-**Weekend 5: 25th/26th March 2023 in or near Kendal, Cumbria. Non-residential or via Zoom**
+**Weekend 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
 Do you want ...
 
@@ -36,11 +34,13 @@ Do you want ...
 
 \*Be able to teach or guide people after the first residential and weekend with student insurance?
 
+\*Ongoing assessment and teaching practice rather than a final teaching observation
+
 \* An authentic, experienced Yoga trainer with 25+ years of study, training and practice in the UK, India and Thailand?
 
 \* Eclectic Hatha Yoga Asana styles so you can develop your own unique approach?
 
-\*Contemporary knowledge married with ancient wisdom>
+\*Contemporary knowledge married with ancient wisdom
 
 \* Accreditation by 2 supportive, professional bodies?
 
@@ -50,7 +50,7 @@ Do you want ...
 
 If so, check out the full syllabus here: [Inner Fire 250 hour TTC Syllabus](https://www.dropbox.com/s/v19cab91vz6qksc/Therapeutic%20Yoga%20TTC%20syllabus%202022.pdf?dl=0)
 
-Cost: £2300 for all training and manual. I also offer an easy pay instalment programme to those who need it, spread over the duration of the course (T&C apply).
+Cost: Each residential and weekend is charged separately to allow for spreading the cost.
 
 Grab one of the 12 places available FAST by emailing [deyna@innerfire.org.uk](mailto:deyna@innerfire.org.uk) to arrange a phone interview
 
