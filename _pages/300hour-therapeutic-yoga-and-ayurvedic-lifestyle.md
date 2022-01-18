@@ -1,7 +1,7 @@
 ---
 img: /uploads/20190210_071019.jpg
 permalink: /training/
-title: Educative and Therapeutic Yoga Training
+title: Educative and Evolutionary Yoga Training
 subtitle: "Integrated training to enhance physical and mental health "
 ---
 **Educative and Therapeutic Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others.
