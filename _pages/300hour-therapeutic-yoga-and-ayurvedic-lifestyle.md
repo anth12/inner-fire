@@ -8,7 +8,7 @@ subtitle: "Integrated training to enhance physical and mental health "
 
 You may not necessarily aspire to run your own studio or make an exclusive living out of teaching Yoga classes. Your motivation may be more to guide and inspire; to gently and mindfully help shift values, cultural and social expectation; to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
-There will be time to chat to each other over weekends and residentials; enjoy different locations with their accompanying challenges and learning; an opportunity to consider how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
+There will be time to chat to each other over weekends and residentials; enjoy different locations with their accompanying challenges and learning; an opportunity to consider how you can implement and adapt Yoga wisdom to contemporary living in your work and relationships.
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over a mix of residential and non-residential days (to allow for plenty of peer-to-peer support and teaching practice) as well as home study and assignments:
 
