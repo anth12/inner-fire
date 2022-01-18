@@ -10,7 +10,7 @@ You may not necessarily aspire to run your own studio or make an exclusive livin
 
 There will be time to chat to each other over weekends and residentials; enjoy different locations with their accompanying challenges and learning; an opportunity to consider how you can implement and adapt Yoga wisdom to contemporary living and evolution in your work and relationships.
 
-Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over 24 days (plus 2 assessment days) as well as home study and assignments:
+Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over a mix of residential and non-residential days (to allow for plenty of peer-to-peer support and teaching practice) as well as home study and assignments:
 
 **Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525**
 
