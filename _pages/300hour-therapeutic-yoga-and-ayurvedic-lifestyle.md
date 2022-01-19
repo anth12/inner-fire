@@ -24,7 +24,7 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher may be via Zoom). Non-residential or via Zoom cost: £195**
 
-**Over winter you will complete 3 individual therapeutic case studies or write a holistic education programme for your place of work.**
+**Over winter you will complete assignments and lesson plans, or write a holistic education programme for your place of work.**
 
 **Weekend 4: 24th-26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
