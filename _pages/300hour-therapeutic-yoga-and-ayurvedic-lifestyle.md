@@ -4,7 +4,7 @@ permalink: /training/
 title: Educative and Evolutionary Yoga Training
 subtitle: "Integrated training to enhance physical and mental health "
 ---
-**Educative and Therapeutic Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others. There are 3 residentials and 4 non-residential weekends in Kendal (Cumbria) or accessed via Zoom.
+**Educative and Evolutionary Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others. There are 3 residentials and 4 non-residential weekends in Kendal (Cumbria) or accessed via Zoom.
 
 You may not necessarily aspire to run your own studio or make an exclusive living out of teaching Yoga classes. Your motivation may be more for self-development; to guide and inspire others with yoga wisdom; to gently and mindfully help shift values, cultural and social expectation; to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
