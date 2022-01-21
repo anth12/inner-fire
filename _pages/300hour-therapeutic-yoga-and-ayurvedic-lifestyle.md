@@ -2,7 +2,7 @@
 img: /uploads/20190210_071019.jpg
 permalink: /training/
 title: Educative and Evolutionary Yoga Training
-subtitle: "Integrated training to enhance physical and mental health "
+subtitle: Be part of a new human paradigm
 ---
 **Educative and Evolutionary Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others. There are 3 residentials and 4 non-residential weekends in Kendal (Cumbria) or accessed via Zoom.
 
@@ -12,15 +12,15 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over a mix of residential and non-residential days (to allow for plenty of peer-to-peer support and teaching practice) as well as home study and assignments:
 
-**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525**
+**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525 Visit hall website [here](https://www.watermillockvillagehall.co.uk/)**
 
 **Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**Residential 2: Summer, 16th-20th  July 2022 - camping in the Lake District on basic site with facilities. Residential cost: £525**
+**2: Summer, 16th-20th  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/)**
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £595**
+**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £595. Visit website [here](https://www.lluc.net/en/)**
 
 **Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher may be via Zoom). Non-residential or via Zoom cost: £195**
 
