@@ -16,7 +16,7 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**2: Summer, 16th-20th  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/)**
+**2: Summer, 17th-21st  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/)**
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
