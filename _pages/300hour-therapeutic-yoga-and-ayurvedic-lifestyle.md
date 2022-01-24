@@ -12,11 +12,11 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over a mix of residential and non-residential days (to allow for plenty of peer-to-peer support and teaching practice) as well as home study and assignments:
 
-**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525 Visit hall website [here](https://www.watermillockvillagehall.co.uk/)**
+**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525 Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/da94ioyk75d06oh/Watermillock%20Residential.pdf?dl=0)**
 
 **Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**2: Summer, 17th-21st  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/)**
+**2: Summer, 17th-21st  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/oytydfsv3ny17j2/Howgills%20Residential.pdf?dl=0)**
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
