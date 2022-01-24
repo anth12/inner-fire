@@ -20,7 +20,7 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £595. Visit website [here](https://www.lluc.net/en/)**
+**Residential 3: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £495/£595. Visit website [here](https://www.lluc.net/en/)**
 
 **Weekend 3: 26th/27th November 2022 in or near Kendal, Cumbria (lead teacher may be via Zoom). Non-residential or via Zoom cost: £195**
 
