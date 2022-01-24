@@ -4,7 +4,7 @@ permalink: /training/
 title: Educative and Evolutionary Yoga Training
 subtitle: Be part of a new human paradigm
 ---
-**Educative and Evolutionary Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others. There are 3 residentials and 4 non-residential weekends in Kendal (Cumbria) or accessed via Zoom.
+**Educative and Evolutionary Yoga Training:** in 2022 my training will be geared to all those who are educating our next generation: teachers, parents, charity workers, environmentalists, home schoolers; social workers, occupational therapists, medical professionals, mental health therapists and others. There are 3 residentials and 4 non-residential weekends in Kendal (Cumbria) or accessed via Zoom. You can come along to one for your own interest and evolution, or join the whole course to become a 200hour certified teacher of Yoga.
 
 You may not necessarily aspire to run your own studio or make an exclusive living out of teaching Yoga classes. Your motivation may be more for self-development; to guide and inspire others with yoga wisdom; to gently and mindfully help shift values, cultural and social expectation; to promote physical and mental well-being for all as well as a deeper understanding of our human condition + the heritage and future of the planet we share.
 
@@ -12,11 +12,11 @@ There will be time to chat to each other over weekends and residentials; enjoy d
 
 Let's co-create not just a 'new normal' but an enlightened illuminated and evolutionary way forward as a species. The training will take place over a mix of residential and non-residential days (to allow for plenty of peer-to-peer support and teaching practice) as well as home study and assignments:
 
-**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £525 Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/da94ioyk75d06oh/Watermillock%20Residential.pdf?dl=0)**
+**Residential 1: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £395/£525 Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/da94ioyk75d06oh/Watermillock%20Residential.pdf?dl=0)**
 
 **Weekend 1: 21st/22nd May 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
-**2: Summer, 17th-21st  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/oytydfsv3ny17j2/Howgills%20Residential.pdf?dl=0)**
+**2: Summer, 17th-21st  July 2022 - camping near the Howgills on a basic site with facilities. Residential cost: £395/£525. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/oytydfsv3ny17j2/Howgills%20Residential.pdf?dl=0)**
 
 **Weekend 2: 24/25th September 2022 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
