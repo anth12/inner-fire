@@ -26,7 +26,7 @@ Let's co-create not just a 'new normal' but an enlightened illuminated and evolu
 
 **Over winter you will complete assignments and lesson plans, or write a holistic education programme for your place of work.**
 
-**Weekend 4: 24th/25th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
+**Weekend 4: 25th/26th February 2023 in or near Kendal, Cumbria. Non-residential or via Zoom cost: £195**
 
 Do you want ...
 
