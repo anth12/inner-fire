@@ -14,7 +14,7 @@ prices:
   - price: "220"
     description: See PDF for details
 ---
-**Spring: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £220 Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/da94ioyk75d06oh/Watermillock%20Residential.pdf?dl=0)**
+**Spring: Friday 1st April - Tuesday 5th April 2022 at Watermillock Village Hall, Lake District (You will be able to begin teaching as a student after this). Residential cost: £220 Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/iell197vkhwzoi0/Spectrums%20Spirals%20and%20Spheres.pdf?dl=0)**
 
 **Summer, 17th-21st  July 2022 - camping nestled beneath the Howgill Fells on a friendly site with modern facilities. Residential cost: £220. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential check this [PDF](https://www.dropbox.com/s/oytydfsv3ny17j2/Howgills%20Residential.pdf?dl=0)**
 
