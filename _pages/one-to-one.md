@@ -4,7 +4,9 @@ permalink: /one-to-one/
 title: Personalised Sessions
 subtitle: ""
 ---
-I am qualified in therapeutic Yoga to help you manage or move on from stress and anxiety in mind and body. This may be:
+I am qualified in therapeutic mind-body-breathe techniques to help you manage or move on from stress and anxiety in mind and body. This may be:
+
+**\*Walk, talk, stretch and breathe:** I plan a walk according to your current ability and we get out in nature to chat through any current life concerns and explore ways to enhance your well-being. Included is a write-up of the ides we have formulated.
 
 **\*Somatic Trauma Exploration**: this is deep, intense work to explore current discomfort or dis-ease and it's relation to a past 'traumatic' experience. Together we visit the memory to help release physical symptoms and move from the narrative of 'anxiety' to one of pressure, physiological holding and release.
 
@@ -14,6 +16,6 @@ I am qualified in therapeutic Yoga to help you manage or move on from stress and
 
 **\*Ayurvedic Yoga Therapy**: together we will look at your physical body and diet + breath and movement practice and develop a healthy lifestyle routine for you to follow.
 
-Individual sessions are great for many mental and physical conditions including stress, anxiety, muscular pain, cancer, MS and depression. Ideally you will come to my home in Kendal and we'll work for an hour but if necessary I can come to you, or we can work over Zoom.
+Individual sessions are great for many mental and physical conditions including stress, anxiety, muscular pain, cancer, MS and depression. Ideally you will come to my home in Kendal and we'll work for an hour but if necessary I can come to you, or we can work over Zoom, or in the outdoors. My standard fee is £45/hour but I am sometimes able to offer discounts according to circumstances.
 
 Contact me to discuss your personal needs on 01539241174 (+447588428764 for WhatsApp) or email for an appointment: deyna@innerfire.org.uk
