@@ -2,7 +2,7 @@
 layout: adventure
 img: /uploads/20181122_053827-2-.jpg
 title: Meditation Skills
-subtitle: Mindful living in 2022
+subtitle: Mindful Living Anytime, Anywhere
 deposit: 35
 totalPlaces: 50
 remainingPlaces: 50
