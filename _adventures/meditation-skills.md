@@ -25,4 +25,4 @@ Session 3: Controlling Thought Patterns
 
 Session 4: Cultivating insight 
 
-You can sign up anytime and you will receive the recordings via email link to my YouTube channel. If you have any questions during or after completing the course I am happy for you to email me, or we can arrange a face-to-face Zoom chat.
+You can sign up anytime and you will receive the recordings via email link to my YouTube channel. If you have any questions during or after completing the course I am happy for you to email me and at the end of the course we arrange a face-to-face live 30 minute  Zoom chat so we can discuss how you got on and what would benefit you for your continued progress.
