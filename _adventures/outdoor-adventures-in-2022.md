@@ -11,8 +11,10 @@ dates:
   - date: 17th-21st July
     description: Summer
 prices:
+  - price: "50"
+    description: 1st - 3rd April weekend
   - price: "220"
-    description: See PDF for details
+    description: 17th - 21st July
 ---
 **Spring: Friday 1st April - Sunday 3rd April 2022 at Watermillock Village Hall, close to Ullswater in the heart of the Lake District. Residential cost: £50 for camping, use of hall facilities and stretching classes. Visit hall website [here](https://www.watermillockvillagehall.co.uk/) or email me.**
 
