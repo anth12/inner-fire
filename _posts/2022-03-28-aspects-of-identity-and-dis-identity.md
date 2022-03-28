@@ -3,12 +3,12 @@ layout: post
 title: Aspects of Identity and Dis-identity
 author: Deyna Devi
 img: /uploads/16.jpg
-date: 2022-03-28 15:50:23
+date: 2022-03-28 16:27:01
 excerpt: Are you attached to a negative or positive idea of your identity?
 ---
 I hear a lot of talk about identity and people wanting to discover and explore who they are. Who is this 'I' that inhabits this physical form, breathes and lives, thinks and feels?
 
-So let's focus on this particular aspect by using 3 levels of identity:\
+So let's focus on this particular aspect by using 3 aspects of identity:\
 \
 Firstly there is a collective social concept of identity at a superficial level: these are the gross labels of mother, father, husband, wife partner, daughter, son, colleague, boss etc. With these we are able to place ourselves within a wider environment and it is a way of connecting to others and the world around us. We can quickly build attachment to these roles and limit our self to hedonic living without inquiry as we mechanically live a life of actions, reactions and interactions from these socially constricted constructs.\
 \
