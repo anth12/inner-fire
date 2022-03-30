@@ -4,7 +4,7 @@ title: Aspects of Identity and Dis-identity
 author: Deyna Devi
 img: /uploads/16.jpg
 date: 2022-03-28 16:27:01
-excerpt: Are you attached to a negative or positive idea of your identity?
+excerpt: Are you attached to an idea of your identity?
 ---
 I hear a lot of talk about identity and people wanting to discover and explore who they are. Who is this 'I' that inhabits this physical form, breathes and lives, thinks and feels?
 
