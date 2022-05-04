@@ -2,8 +2,8 @@
 layout: adventure
 img: /uploads/holidaybeach.jpg
 title: Odayam Yoga and Ayurveda De-tox and Revitalise
-deposit: 100
-totalPlaces: 9
+deposit: 200
+totalPlaces: 10
 remainingPlaces: 7
 dates:
   - date: 16 - 29th November 2022
