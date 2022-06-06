@@ -8,4 +8,4 @@ Do you attend a yoga class but feel there is more to it than stretching with the
 
 This is an exciting opportunity to look beyond the mat (while continuing to enjoy classes) and follow a pathway towards Yoga as a science and philosophy of human enlightenment.
 
-Find out more [here](https://www.dropbox.com/s/48cxoimwbb02lg1/Yoga%20Aspirant%20Initiative.pdf?dl=0)
+Find out more [here](https://www.dropbox.com/s/0krue311wh16uml/Yoga%20Aspirant%20Initiative%20Info.pdf?dl=0)
