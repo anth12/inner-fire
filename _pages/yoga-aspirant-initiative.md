@@ -1,6 +1,6 @@
 ---
 img: /uploads/2.jpg
-permalink: www.nomadicashram.yoga/yoga-aspirant-initiative/
+permalink: /yoga-aspirant-initiative/
 title: Yoga Aspirant Initiative
 subtitle: A Pathway to Enlightenment
 ---
