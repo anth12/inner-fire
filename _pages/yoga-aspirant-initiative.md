@@ -4,8 +4,10 @@ permalink: /yoga-aspirant-initiative/
 title: Yoga Aspirant Initiative
 subtitle: A Pathway to Enlightenment
 ---
-Do you attend a yoga class but feel there is more to it than stretching with the breath mindfully?
+Do you attend a yoga class but feel there is more to it than stretching with the breath mindfully? Or do you not attend classes but would like a way to support your mental and physical health within a community.
 
-This is an exciting opportunity to look beyond the mat (while continuing to enjoy classes) and follow a pathway towards Yoga as a science and philosophy of human enlightenment.
+Yoga in it's essence is one of the oldest physiological and psychological systems known to humankind and offers a complete way to optimum health. 
 
-Find out more [here](https://www.dropbox.com/s/0krue311wh16uml/Yoga%20Aspirant%20Initiative%20Info.pdf?dl=0)
+So, this is an exciting opportunity to look beyond the mat (while continuing to enjoy any classes you already do) and follow a structured path towards Yoga as a holistic way of living. It is a 1 year programme initially that is designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.
+
+Find out more [here](https://www.dropbox.com/s/ys51uly0iymhkkc/Yoga%20Aspirant%20Initiative%20info.pdf?dl=0)
