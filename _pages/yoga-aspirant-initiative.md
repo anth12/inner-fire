@@ -1,8 +1,8 @@
 ---
 img: /uploads/2.jpg
-permalink: /yoga-aspirant-initiative/
-title: Yoga Aspirant Initiative
-subtitle: A Pathway to Enlightenment
+permalink: /orange-initiative/
+title: The Healthy Orange Initiative
+subtitle: A Pathway to Health
 ---
 Do you attend a yoga class but feel there is more to it than stretching with the breath mindfully? Or do you not attend classes but would like a way to support your mental and physical health within a community.
 
