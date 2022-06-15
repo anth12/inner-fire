@@ -1,7 +1,7 @@
 ---
 img: /uploads/20201122_110558.jpg
 permalink: /orange-initiative/
-title: The Healthy Orange Initiative
+title: The Orange Initiative
 subtitle: A Pathway to Health
 ---
 Why call something the 'Healthy Orange Initiative'? 
