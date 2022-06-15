@@ -4,10 +4,10 @@ permalink: /orange-initiative/
 title: The Healthy Orange Initiative
 subtitle: A Pathway to Health
 ---
-Do you attend a yoga class but feel there is more to it than stretching with the breath mindfully? Or do you not attend classes but would like a way to support your mental and physical health within a community.
+Why call something the 'Healthy Orange Initiative'? 
 
-Yoga in it's essence is one of the oldest physiological and psychological systems known to humankind and offers a complete way to optimum health. 
+I chose this as an orange came to my mind when thinking about this initiative: we all have our outer layer that we show as we move though life and this can be different for everyone. Peel it back and we find different segments of being; we find pith that may taste unpleasant and we may want to remove; underneath we find a juicy vibrant colour of flesh and deliciousness (unless you don't like oranges ;)!). 
 
-So, this is an exciting opportunity to look beyond the mat (while continuing to enjoy any classes you already do) and follow a structured path towards Yoga as a holistic way of living. It is a 1 year programme initially that is designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.
+An orange seems a helpful metaphor to find our way to optimum health in all our segments of being. Initially it is a 1 year programme designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.
 
 Find out more [here](https://www.dropbox.com/s/ys51uly0iymhkkc/Yoga%20Aspirant%20Initiative%20info.pdf?dl=0)
