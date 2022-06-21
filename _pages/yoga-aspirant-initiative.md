@@ -10,4 +10,8 @@ I chose this as an orange came to my mind when thinking about this initiative: w
 
 An orange seems a helpful metaphor to find our way to optimum health in all our segments of being. Initially it is a 1 year programme designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.
 
-Find out more [here](https://www.dropbox.com/s/ys51uly0iymhkkc/Yoga%20Aspirant%20Initiative%20info.pdf?dl=0)
+You can choose to undertake the Orange Initiative for optimum health through the philosophical paths of yoga; or as recognised aspects of well-being. 
+
+Find out about the Orange Initiative through yoga paths [here](https://www.dropbox.com/s/4wxuu7irdxls946/The%20Orange%20Initiative%20Information.pdf?dl=0)
+
+Find out more about the Orange Initiative through aspects of well-being [here](https://www.dropbox.com/s/ct41ai1dbkebocn/The%20Orange%20Inititative.pdf?dl=0)
