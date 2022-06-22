@@ -19,3 +19,5 @@ menu:
     url: /contact/
   - text: Blog
     url: /blog/
+  - text: About me
+    url: /about/
