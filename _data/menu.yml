@@ -1,6 +1,8 @@
 menu:
   - text: Home
     url: /
+  - text: About me
+    url: /about/
   - text: Adventures
     url: /adventures/
   - text: The Orange Initiative
@@ -19,5 +21,3 @@ menu:
     url: /contact/
   - text: Blog
     url: /blog/
-  - text: About me
-    url: /about/
