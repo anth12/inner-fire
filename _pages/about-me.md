@@ -1,5 +1,5 @@
 ---
-img: /uploads/img_20180627_204824_735-2-.jpg
+img: /uploads/15.jpg
 permalink: /about/
 title: About me
 ---
