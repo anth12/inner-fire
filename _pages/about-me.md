@@ -1,6 +1,6 @@
 ---
 img: /uploads/img_20180627_204824_735-2-.jpg
-permalink: https://about/
+permalink: /about/
 title: About me
 ---
 Inner Fire is the trading name of Deyna Hirst, sometimes known by my Yoga name of Deyna Devi. 
