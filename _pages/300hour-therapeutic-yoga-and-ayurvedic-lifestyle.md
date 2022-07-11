@@ -8,4 +8,4 @@ subtitle: ""
 
 **Autumn: 23rd - 26th October 2022, hopefully in a Majorcan monastery (covid permitting). Residential cost excluding travel: £TBC. Visit website [here](https://www.lluc.net/en/)**
 
-[Terms and Conditions 2022 (All courses)](https://www.dropbox.com/s/1fyl2115oz1zsf1/Course%20Terms%20and%20Conditions%202022.pdf?dl=0)
+[Terms and Conditions 2022 (All courses)](https://www.dropbox.com/s/5povsu9ohdr6n95/Course%20Terms%20and%20Conditions%202022.pdf?dl=0)
