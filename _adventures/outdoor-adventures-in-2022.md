@@ -14,7 +14,7 @@ prices:
 ---
 **Asana, Adventure and Simplicity**
 
-**Summer, 17th-21st  July 2022 - camping nestled beneath the Howgill Fells on a friendly site with modern facilities. Residential cost: £220. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential check this [](https://www.dropbox.com/s/wgd0yaix7zw17w3/Asana%20Adventure%20and%20More.pdf?dl=0)[PDF](https://www.dropbox.com/s/upo4mw4kekkslkf/Asana%2C%20Adventure%20and%20more%20PDF.pdf?dl=0)**
+**Late Summer, 9-12th September - camping nestled beneath the Howgill Fells on a friendly site with modern facilities. Residential cost: £250. Visit campsite website [here](https://www.lowgreensidefarmcampsite.co.uk/) or for further information about the residential visit bookyogaretreats.com** 
 
 **Tranquillity, Movement and Wisdom**
 
