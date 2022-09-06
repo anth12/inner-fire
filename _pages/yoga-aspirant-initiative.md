@@ -4,7 +4,7 @@ permalink: /orange-initiative/
 title: The Orange Initiative
 subtitle: A Pathway to Optimum Health
 ---
-Why call something the 'Healthy Orange Initiative'? 
+Why call something the 'Orange Initiative'? 
 
 I chose this as an orange came to my mind when thinking about this initiative: we all have our outer layer that we show as we move though life and this can be different for everyone. Peel it back and we find different segments of being; we find pith that may taste unpleasant and we may want to remove; underneath we find a juicy vibrant colour of flesh and deliciousness (unless you don't like oranges ;)!). 
 
