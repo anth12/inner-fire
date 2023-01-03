@@ -1,7 +1,7 @@
 ---
 img: /uploads/20200124_180404.jpg
 permalink: /zoom-classes/
-title: Zoom Classes + YouTube access
+title: Zoom Classes
 ---
 Regular Zoom classes are continuing in 2023. I work on a monthly subscription basis according to your income and you will have access to all classes each week to offer you flexibility in your timetable.
 
