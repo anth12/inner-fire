@@ -7,22 +7,30 @@ Regular Zoom classes are continuing in 2022. £10 drop-in (live or recording) or
 
 Email to join us for:
 
-**Tuesdays: Dru and Transformative Mix from10:00-11:00 GMT**
+**Tuesdays:** 
+
+**Dru and Transformative Mix from10:00-11:00 GMT**
 
 An eclectic mix of Dru flowing Asana and Transformative Pranayama for a deep regenerative and revitalising practice.
 
-**Thursdays: Slow Flow Asana from 7:45-8:45am GMT**
+**Meditation Guidance from 11:30-12:00 GMT**
+
+A﻿ guided group meditation that refreshes and reignites different ways into your own meditation practice.
+
+**Yoga or Prana Nidra from 12:15-13:00 GMT**
+
+A﻿ weekly refresh through a deep hypnogogic relaxation 
+
+**Thursdays:** 
+
+**Slow Flow Asana from 07:45-08:45 GMT**
 
 Stretch and flex to open your physical body, promote Prana flow, calm your mind and release emotional holding inviting interoception and peace within.
 
-**Thursdays: Pranayama Class from 10-11am GMT**  
+**Pranayama (Conscious breathing) from 10:00-11:00 GMT**  
 
 Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world. This class is also recorded if you wish to access it at another time.
 
-**Thursdays: Mantra Chanting from 11:15-11:45am GMT**
+**Mantra Chanting from 11:15-11:45 GMT**
 
 Finish off the morning with deep cellular activation and illumination through mantra chanting (you can mute your mic!)
-
-**Fridays: Slow Flow and Hold from 2-3pm GMT**
-
-Joint mobilisation, gentle fascia stretching and conscious breathing. A light-hearted class with a chance to connect with others as well as promoting your physical and mental well-being.
