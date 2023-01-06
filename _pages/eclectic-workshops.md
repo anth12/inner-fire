@@ -3,7 +3,7 @@ img: /uploads/20200124_180404.jpg
 permalink: /zoom-classes/
 title: Zoom Classes
 ---
-Regular Zoom classes are continuing in 2023. I’d like to work on a monthly subscription basis according to your income and you having access to all classes each week to offer you flexibility in your timetable. But if this feels like too big a commitment (financially or socially), join me on a donations basis.
+Regular Zoom classes continue in 2023. I’d like to work on a monthly subscription basis according to your income and you having access to all classes each week to offer you flexibility in your timetable. But if this feels like too big a commitment (financially or socially), join me on a donations basis.
 
 Email to join us for:
 
