@@ -15,7 +15,7 @@ prices:
   - price: "45"
     description: Instruction price
 ---
-E﻿njoy a day in the Howgill fells learning basic navigation skills, making new friends and feeling a sense of empowerment.
+E﻿njoy a day in the Howgill fells learning basic navigation skills, making new friends and feeling a sense of empowerment. The focus will be on light-hearted learning and finding our way outwardly while feeling our confidence grow inwardly.
 
 T﻿hese lovely rolling hills east of the M6 (junction 37 or 38) are easily accessible and offer lots of opportunity to wander. 
 
