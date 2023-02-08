@@ -6,7 +6,7 @@ deposit: 200
 totalPlaces: 10
 remainingPlaces: 7
 dates:
-  - date: 16 - 29th November 2022
+  - date: 15 - 28th November 2023
     description: 13 nights stay
 prices:
   - description: This is for a single room with a fan only
