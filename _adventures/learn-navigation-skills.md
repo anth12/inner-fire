@@ -21,6 +21,6 @@ T﻿hese lovely rolling hills east of the M6 (junction 37 or 38) are easily acce
 
 P﻿rice includes instruction, maps and compasses. 
 
-Please bring your own lunch and snacks.  Come equipped for a day on the fells with sturdy boots, wet weather gear, warm clothes and poles if helpful.
+Please bring your own lunch and snacks.  Come equipped for a day on the fells with sturdy boots, wet weather gear, warm clothes and poles if helpful. A certain degree of fitness will make the day more enjoyable but we won't be moving fast. Allow for a day of @10km with an ascent of 500-700m.
 
 I﻿f the weather is inclement we will meet at a cafe or pub to begin and end the day so please bring some money for a brew or pint. Our exact meeting point may vary according to the weather but will be at, or close to, Tebay, Sedbergh or Ravenstonedale in Cumbria.
