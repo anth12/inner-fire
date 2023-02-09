@@ -38,6 +38,6 @@ I'll be there to offer 2 Yoga classes today. Mainly we'll be doing Asana on the 
 
 There will be opportunities to go to the local temples by Tuk Tuk or the nearby elephant sanctuary, plenty of shopping or browsing on Varkala cliff (15minute walk), or further afield there are historic sites or botanical gardens.
 
-[More photos here](https://www.dropbox.com/s/ncgezf3bmdqi2ae/Odayam%20Retreat%20Pictures.pdf?dl=0)
+[More photos here](https://www.dropbox.com/s/w342sza6kjxj6ch/Odayam%20Retreat%20Pictures.pdf?dl=0)
 
 [Retreat Terms and Conditions](https://www.dropbox.com/s/kc9mp6gzzxyct9w/Terms%20and%20Conditions%20for%20Retreats.pdf?dl=0)
