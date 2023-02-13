@@ -9,19 +9,17 @@ dates:
   - date: 15 - 28th November 2023
     description: 13 nights stay
 prices:
-  - description: This is for a single room with a fan only
+  - description: Single room with a fan only
     price: £1160
-  - description: This is for a single room with A/C
+  - description: Single room with A/C
     price: £1350
-  - description: This is for a double room with a fan based on 2 people sharing
-      (price is per person)
+  - description: Double room with a fan based on 2 people sharing (price is per person)n)
     price: £890
-  - description: This is for a double room with A/C based on 2 people sharing (price
-      is per person)
+  - description: Double room with A/C based on 2 people sharing (price is per person))
     price: £990
-  - description: This is for a twin room with a fan (price is per person)
+  - description: Twin room with a fan (price is per person)
     price: £890
-  - description: This is for a twin room with A/C (price is per person)
+  - description: Twin room with A/C (price is per person)
     price: £990
 ---
 This year, Doctor Innocent has built a new purpose-built Ayurveda centre at the beautiful beach of Odayam, 3km from the popular cliff resort and local town of Varkala in Kerala, Southern India. The sandy beach is 200m from the centre and accessible without steps. The sea and sunsets are stunning and swimming is possible although the waves can be big and currents strong (there are lifeguards on Varkala beach). You may prefer to look for dolphins from a cliff top restaurant!
