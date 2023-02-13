@@ -13,9 +13,9 @@ prices:
     price: £1160
   - description: Single room with A/C
     price: £1350
-  - description: Double room with a fan based on 2 people sharing (price is per person)n)
+  - description: Double room with a fan based on 2 people sharing (price is per person)
     price: £890
-  - description: Double room with A/C based on 2 people sharing (price is per person))
+  - description: Double room with A/C based on 2 people sharing (price is per person)
     price: £990
   - description: Twin room with a fan (price is per person)
     price: £890
