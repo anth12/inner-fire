@@ -22,7 +22,7 @@ prices:
   - description: Twin room with A/C (price is per person)
     price: £990
 ---
-This year, Doctor Innocent has built a new purpose-built Ayurveda centre at the beautiful beach of Odayam, 3km from the popular cliff resort and local town of Varkala in Kerala, Southern India. The sandy beach is 200m from the centre and accessible without steps. The sea and sunsets are stunning and swimming is possible although the waves can be big and currents strong (there are lifeguards on Varkala beach). You may prefer to look for dolphins from a cliff top restaurant!
+This year, Doctor Innocent has a new purpose-built Ayurveda centre at the beautiful beach of Odayam, 3km from the popular cliff resort and local town of Varkala in Kerala, Southern India. The sandy beach is 200m from the centre and accessible without steps. The sea and sunsets are stunning and swimming is possible although the waves can be big and currents strong (there are lifeguards on Varkala beach). You may prefer to look for dolphins from a cliff top restaurant!
 
 You can choose a private ensuite room with fan only or A/C, or share a twin (or double for couples) with another retreat participant.
 
