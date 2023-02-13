@@ -36,7 +36,7 @@ I'll be there to offer 2 Yoga classes today. Mainly we'll be doing Asana on the 
 
 There will be opportunities to go to the local temples by Tuk Tuk or the nearby elephant sanctuary, plenty of shopping or browsing on Varkala cliff (15minute walk), or further afield there are historic sites or botanical gardens.
 
-E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, 3 meals per day, use of swimming pool. You will need to organise your own flight (to Thiruvananthrapuram airport), Indian visa, insurance and vaccinations. We can arrange airport to resort transfer.
+E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, food, use of swimming pool. You will need to organise your own flight (to Thiruvananthrapuram airport), Indian visa, insurance and vaccinations. We can arrange airport to resort transfer.
 
 [More photos here](https://www.dropbox.com/s/w342sza6kjxj6ch/Odayam%20Retreat%20Pictures.pdf?dl=0)
 
