@@ -10,7 +10,7 @@ dates:
   - date: Sunday 4th June
     description: "Time: 09:30 - 16:00 BST"
   - date: Saturday 22nd April
-    description: Time 09>30 - 16:00 BST
+    description: Time 09:30 - 16:00 BST
 prices:
   - price: "45"
     description: Instruction price
