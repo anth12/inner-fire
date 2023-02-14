@@ -6,7 +6,7 @@ deposit: 50
 totalPlaces: 12
 remainingPlaces: 12
 dates:
-  - date: Friday 2nd - Sunday 3rd September 2023
+  - date: Friday 1st - Sunday 3rd September 2023
     description: Arrive from 14:00 on Friday and leave @16:00 on Sunday
 prices:
   - price: £160
