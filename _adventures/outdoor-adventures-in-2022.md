@@ -19,3 +19,9 @@ During this camping yoga retreat, you will learn about yoga as a way of being in
 C﻿ost includes camping fees, breakfast and dinner plus all instruction and guiding.
 
 Y﻿ou will need your own tent and camping gear, plus personal outdoor wear and boots, any extra snacks for lunch and general comfort.
+
+M﻿ore information and photos [here](https://www.dropbox.com/s/k5o1e4ywwy0bjsh/Asana%2C%20Adventure%20and%20more.pdf?dl=0)
+
+B﻿ooking Terms and Conditions for Retreats [here](https://www.dropbox.com/s/5povsu9ohdr6n95/Course%20Terms%20and%20Conditions%202022.pdf?dl=0)
+
+E﻿mail deyna@innerfire.org.uk for a booking form
