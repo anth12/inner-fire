@@ -7,8 +7,8 @@ menu:
     url: /adventures/
   - text: Coddiwomple Training
     url: /coddiwomple-training/
-  - text: Training
-    url: /training/
+  - text: Teacher Training
+    url: /teacher-training/
   - text: Zoom Classes
     url: /zoom-classes/
   - lowPriority: false
