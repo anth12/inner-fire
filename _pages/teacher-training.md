@@ -5,6 +5,8 @@ title: Teacher Training
 ---
 B﻿uild on Coddiwomple Training to become a teacher or guide to help others navigate life, health and well-being through yoga practices.
 
+O﻿ver 6 modules and various self-study options, you will cultivate your own self-awareness and learn ways and techniques to assist others in their progress.
+
 
 
 **Private Teacher Training in Yoga as a way to understand and manage biopsychorespiro health (mind, body and breath)**\
