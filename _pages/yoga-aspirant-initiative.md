@@ -4,7 +4,17 @@ permalink: /coddiwomple-training/
 title: Coddiwomple Training
 subtitle: A Pathway to Optimum Health
 ---
-Why call something the 'Orange Initiative'? 
+Coddiwomple: travel in a purposeful direction to a vague destination. Could this be you? Letting go of outcomes but being courageous and diligent in your actions, reactions and interactions?
+
+O﻿r could you:
+
+W﻿oddiwomple: travel in a purposeful direction to an aspiration (purposeful destination)? 
+
+O﻿r:
+
+W﻿oddicomple: travel in a vague direction to a purposeful destination?
+
+C﻿oddicomple: travel in a vague direction to a vague destination?
 
 I chose this as an orange came to my mind when thinking about this initiative: we all have our outer layer that we show as we move though life and this can be different for everyone. Peel it back and we find different segments of being; we find pith that may taste unpleasant and we may want to remove; underneath we find a juicy vibrant colour of flesh and deliciousness (unless you don't like oranges ;)!). 
 
