@@ -1,7 +1,7 @@
 ---
 img: /uploads/20201122_110558.jpg
-permalink: /orange-initiative/
-title: The Orange Initiative
+permalink: /coddiwomple-training/
+title: Coddiwomple Training
 subtitle: A Pathway to Optimum Health
 ---
 Why call something the 'Orange Initiative'? 
@@ -12,6 +12,6 @@ An orange seems a helpful metaphor to find our way to optimum health in all our 
 
 You can choose to undertake the Orange Initiative for optimum health through the philosophical paths of yoga; or as recognised aspects of well-being. 
 
-Find out about the Orange Initiative through yoga paths [here](https://www.dropbox.com/s/4wxuu7irdxls946/The%20Orange%20Initiative%20Information.pdf?dl=0)
+Find out about Coddiwomple Training through yoga paths [here](https://www.dropbox.com/s/4wxuu7irdxls946/The%20Orange%20Initiative%20Information.pdf?dl=0)
 
-Find out more about the Orange Initiative through aspects of well-being [here](https://www.dropbox.com/s/ct41ai1dbkebocn/The%20Orange%20Inititative.pdf?dl=0)
+Find out more about Coddiwomple Training through aspects of well-being [here](https://www.dropbox.com/s/ct41ai1dbkebocn/The%20Orange%20Inititative.pdf?dl=0)
