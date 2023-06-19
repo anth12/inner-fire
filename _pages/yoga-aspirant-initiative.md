@@ -16,11 +16,11 @@ W﻿oddicomple: travel in a vague direction to a purposeful destination?
 
 C﻿oddicomple: travel in a vague direction to a vague destination?
 
-I chose this as an orange came to my mind when thinking about this initiative: we all have our outer layer that we show as we move though life and this can be different for everyone. Peel it back and we find different segments of being; we find pith that may taste unpleasant and we may want to remove; underneath we find a juicy vibrant colour of flesh and deliciousness (unless you don't like oranges ;)!). 
+Of these, only coddiwomple is a recognised verb - the rest are created by questioning and curiousity of my own psyche and way of being. I invite you to come and do the same on your journey towards self-revelation and realisation, wherever you are and however you are in life.
 
-An orange seems a helpful metaphor to find our way to optimum health in all our segments of being. Initially it is a 1 year programme designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.
+Find your way to optimum health through consideration and fascination with all aspects, permutations and deviations of your own unique being. Initially it is a 1 year programme designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.  
 
-You can choose to undertake the Orange Initiative for optimum health through the philosophical paths of yoga; or as recognised aspects of well-being. 
+You can opt to undertake Coddiwomple Training for optimum health through the philosophical paths of yoga; or as recognised aspects of well-being. 
 
 Find out about Coddiwomple Training through yoga paths [here](https://www.dropbox.com/s/4wxuu7irdxls946/The%20Orange%20Initiative%20Information.pdf?dl=0)
 
