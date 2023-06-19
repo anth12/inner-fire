@@ -1,5 +1,5 @@
 ---
-img: /uploads/20201122_110558.jpg
+img: /uploads/aspiration.jpg
 permalink: /coddiwomple-training/
 title: Coddiwomple Training
 subtitle: A Pathway to Optimum Health
