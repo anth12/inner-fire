@@ -22,6 +22,6 @@ Find your way to optimum health through consideration and fascination with all a
 
 You can opt to undertake Coddiwomple Training for optimum health through the philosophical paths of yoga; or as recognised aspects of well-being. 
 
-Find out about Coddiwomple Training through yoga paths [here](https://www.dropbox.com/s/4wxuu7irdxls946/The%20Orange%20Initiative%20Information.pdf?dl=0)
+Find out about Coddiwomple Training through yoga paths [here](https://www.dropbox.com/s/yoj5rnz07vq8g7a/Yoga%20Coddiwomple%20Training%20Information.pdf?dl=0)
 
-Find out more about Coddiwomple Training through aspects of well-being [here](https://www.dropbox.com/s/ct41ai1dbkebocn/The%20Orange%20Inititative.pdf?dl=0)
+Find out more about Coddiwomple Training through aspects of well-being [here](https://www.dropbox.com/s/md8l2086ylk0o50/Coddiwomple%20Training%20Information.pdf?dl=0)
