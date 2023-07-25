@@ -16,7 +16,7 @@ W﻿oddicomple: travel in a vague direction to a purposeful destination?
 
 C﻿oddicomple: travel in a vague direction to a vague destination?
 
-Of these, only coddiwomple is a recognised verb - the rest are created by questioning and curiousity of my own psyche and way of being. I invite you to come and do the same on your journey towards self-revelation and realisation, wherever you are and however you are in life.
+Of these, only coddiwomple is a recognised word - the rest are created by questioning and curiousity of my own psyche and way of being. I invite you to come and do the same on your journey towards self-revelation and realisation, wherever you are and however you are in life.
 
 Find your way to optimum health through consideration and fascination with all aspects, permutations and deviations of your own unique being. Initially it is a 1 year programme designed to support well-being, purpose and commitment in a world that seems ongoingly chaotic and confused.  
 
