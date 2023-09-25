@@ -36,12 +36,8 @@ I'll be there to offer 2 Yoga classes today. Mainly we'll be doing Asana on the 
 
 There will be opportunities to go to the local temples by Tuk Tuk or the nearby elephant sanctuary, plenty of shopping or browsing on Varkala cliff (15minute walk), or further afield there are historic sites or botanical gardens.
 
-E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, local food (mainly vegan), use of swimming pool. You will need to organise your own flight (to Thiruvananthrapuram airport), Indian visa, insurance and vaccinations. We can arrange airport to resort transfer.
+E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, local food (mainly vegan), use of swimming pool. You will need to organise your own flight (to Thiruvananthrapuram airport), Indian visa, insurance and vaccinations. We can arrange airport to resort transfer. Email: deyna@innerfire.org.uk to book.
 
 [More photos here](https://www.dropbox.com/s/w342sza6kjxj6ch/Odayam%20Retreat%20Pictures.pdf?dl=0)
 
 [Retreat Terms and Conditions](https://www.dropbox.com/s/kc9mp6gzzxyct9w/Terms%20and%20Conditions%20for%20Retreats.pdf?dl=0)
-
-[B﻿ooking Form - Word Doc](https://www.dropbox.com/scl/fi/v101dkj0tlt7pxj4p7rdl/Odayam-Booking-Form-2023.docx?dl=0&rlkey=npc1blc8k43kjqir8cnchx9zw)
-
-[B﻿ooking Form PDF](https://www.dropbox.com/h?preview=Odayam+Booking+Form+2023.pdf)
