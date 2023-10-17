@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/peak-district.jpg
+img: /uploads/duddon-valley-lake-district.jpg
 title: Learn Navigation Skills
 subtitle: Empower yourself in the Outdoors
 deposit: 15
