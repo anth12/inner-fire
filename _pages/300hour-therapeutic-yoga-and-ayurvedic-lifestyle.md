@@ -1,5 +1,5 @@
 ---
-img: /uploads/20190210_071019.jpg
+img: /uploads/20201222_141006.jpg
 permalink: /training/
 title: Educative and Evolutionary Inner and Outer Adventures
 subtitle: ""
