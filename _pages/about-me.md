@@ -1,5 +1,5 @@
 ---
-img: /uploads/15.jpg
+img: /uploads/6.jpg
 permalink: /about/
 title: About me
 ---
