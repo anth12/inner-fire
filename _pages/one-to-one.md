@@ -1,5 +1,5 @@
 ---
-img: /uploads/img-20171204-wa0011.jpg
+img: /uploads/img-20211114-wa0002.jpg
 permalink: /one-to-one/
 title: Personalised Sessions
 subtitle: ""
