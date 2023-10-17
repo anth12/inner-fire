@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/wild-boar-fell-howgills.jpg
+img: /uploads/20210814_105142.jpg
 title: Camping and Yoga Practices in 2023
 deposit: 50
 totalPlaces: 12
