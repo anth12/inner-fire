@@ -14,6 +14,6 @@ Find your way to optimum health through consideration and fascination with all a
 
 You can opt to undertake the certificate through the philosophical paths of yoga; or as recognised aspects of well-being. 
 
-Find out about the Personal Evolution Certificate through yoga paths [here](https://www.dropbox.com/s/yoj5rnz07vq8g7a/Yoga%20Coddiwomple%20Training%20Information.pdf?dl=0)
+Find out about the Personal Evolution Certificate through yoga paths [here](https://www.dropbox.com/scl/fi/yxn4cvkmrm4chqw6iq4v1/Personal-Evolution-Certificate-Yoga.pdf?rlkey=5x8zy1zofxroxqw2g043t6iid&dl=0)
 
-Find out more about the Personal Evolution Certificate through aspects of well-being [here](https://www.dropbox.com/s/md8l2086ylk0o50/Coddiwomple%20Training%20Information.pdf?dl=0)
+Find out more about the Personal Evolution Certificate through aspects of well-being [here](https://www.dropbox.com/scl/fi/cw732hn99b34dpp6xzylq/Personal-Evolution-Certificate.pdf?rlkey=qw6w7kvggmumkcp0qck3dps12&dl=0)
