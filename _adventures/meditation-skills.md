@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/20181122_053827-2-.jpg
+img: /uploads/20220104_115608.jpg
 title: Meditation Skills
 subtitle: Mindful Living Anytime, Anywhere
 deposit: 35
