@@ -1,6 +1,6 @@
 ---
 layout: adventure
-img: /uploads/holidaybeach.jpg
+img: /uploads/4.jpg
 title: Odayam Yoga and Ayurveda De-tox and Revitalise
 deposit: 200
 totalPlaces: 10
