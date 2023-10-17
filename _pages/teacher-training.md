@@ -23,7 +23,9 @@ Summer residential:
 
 A﻿ugust 15 - 18th - venue to be decided
 
-A﻿ further 4 weekends or residentials will be decided between the group which we form. This may include adventures abroad or in the UK, depending on needs and development. If you wish to pursue a 500 hour training (recommended), you will be asked to undertake the Personal Evolution Certificate via the Yoga Pathway: Click [here](https://www.dropbox.com/scl/fi/yxn4cvkmrm4chqw6iq4v1/Personal-Evolution-Certificate-Yoga.pdf?rlkey=5x8zy1zofxroxqw2g043t6iid&dl=0) for details.
+A﻿ further 4 weekends or residentials will be decided between the group which we form, either in Autumn/Winter 2024 or Spring/Summer 2025
+
+This may include adventures abroad or in the UK, depending on needs and development. If you wish to pursue a 500 hour training (recommended), you will be asked to undertake the Personal Evolution Certificate via the Yoga Pathway: Click [here](https://www.dropbox.com/scl/fi/yxn4cvkmrm4chqw6iq4v1/Personal-Evolution-Certificate-Yoga.pdf?rlkey=5x8zy1zofxroxqw2g043t6iid&dl=0) for details.
 
 C﻿ost of instruction (including online tutorials/meetings), certification and accreditation: £1500. There will be additional residential costs, according to your preferences. 
 
