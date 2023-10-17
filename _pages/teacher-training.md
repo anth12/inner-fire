@@ -1,5 +1,5 @@
 ---
-img: /uploads/img_3318.jpg
+img: /uploads/3.jpg
 permalink: /teacher-training/
 title: Teacher Training
 ---
