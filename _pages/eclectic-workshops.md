@@ -13,10 +13,6 @@ Email me to join us on:
 
 Stretch and flex to open your physical body, promote Prana flow, calm your mind and release emotional holding inviting interoception and peace within.
 
-**Pre-class chat on yoga philosophical concepts 09:20-09:50 GMT**
-
-Join in or listen to ideas and wisdom from sages to science
-
 **Pranayama (Conscious breathing) from 09:30-10:30 GMT**
 
 Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world. This class is also recorded if you wish to access it at another time.
