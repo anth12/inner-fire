@@ -3,11 +3,9 @@ img: /uploads/img-20171204-wa0011.jpg
 permalink: /zoom-classes/
 title: Zoom Classes
 ---
-Regular Zoom classes continue in 2023. I’d like to work on a monthly subscription basis according to your income with you having access to classes each week to offer you flexibility in your timetable. But if this feels like too big a commitment (financially or socially), join me on a donations basis.
+Regular Zoom classes continue in 2023.  Join me on a donations basis by emailing me for the Zoom link (reminder of the link sent weekly): 
 
-Email me to join us on:
-
-**Thursdays:**
+**E﻿very Thursday:**
 
 **Slow Flow Asana from 07:30-08:30 GMT**
 
