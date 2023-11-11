@@ -40,4 +40,6 @@ E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, local food 
 
 [More photos here](https://www.dropbox.com/s/w342sza6kjxj6ch/Odayam%20Retreat%20Pictures.pdf?dl=0)
 
-[Retreat Terms and Conditions](https://www.dropbox.com/s/kc9mp6gzzxyct9w/Terms%20and%20Conditions%20for%20Retreats.pdf?dl=0)
+[O﻿dayam Booking Form](https://www.dropbox.com/scl/fi/tidz0dlch0y3uuk197fer/Odayam-Booking-Form-2023.pdf?rlkey=ugn8wnzm9msr1pged7n6nucdu&dl=0)
+
+[Terms and Conditions](https://www.dropbox.com/s/kc9mp6gzzxyct9w/Terms%20and%20Conditions%20for%20Retreats.pdf?dl=0)
