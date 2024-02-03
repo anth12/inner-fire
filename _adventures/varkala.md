@@ -39,3 +39,5 @@ There will be opportunities to go to the local temples by Tuk Tuk or the nearby 
 E﻿ach price includes the room, Yoga classes, Ayurvedic treatments, local food (mainly vegan), use of swimming pool. You will need to organise your own flight (to Thiruvananthrapuram airport), Indian visa, insurance and vaccinations. We can arrange airport to resort transfer. Email: deyna@innerfire.org.uk to book.
 
 [More photos here](https://www.dropbox.com/s/w342sza6kjxj6ch/Odayam%20Retreat%20Pictures.pdf?dl=0)
+
+[B﻿ooking Form here](https://www.dropbox.com/scl/fi/73eynpznjxj1oteqka9c5/Odayam-Booking-Form-2024.pdf?rlkey=tgfra7h1ddcc0uqzi9b4hh7eq&dl=0)
