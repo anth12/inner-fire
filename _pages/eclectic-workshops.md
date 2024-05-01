@@ -1,20 +1,18 @@
 ---
 img: /uploads/img-20171204-wa0011.jpg
 permalink: /zoom-classes/
-title: Zoom Classes
+title: Zoom or in person Therapy
 ---
-Regular Zoom classes continue in 2023.  Join me on a donations basis by emailing me for the Zoom link (reminder of the link sent weekly): 
 
-**E﻿very Thursday:**
 
-**Slow Flow Asana from 07:30-08:30 GMT**
+With mental and physical health services at their limit, it is time to take control yourself and improve your chance of remaining healthy.
 
-Stretch and flex to open your physical body, promote Prana flow, calm your mind and release emotional holding inviting interoception and peace within.
+ You can learn helpful stretches and movements, conscious breathing techniques, discuss diet and life experiences and adopt useful mindful awareness to take responsibility for your unique, individual, optimum health and well-being.
 
-**Pranayama (Conscious breathing) from 09:30-10:30 GMT**
+As a qualified yoga therapist and outdoor instructor with 30 years of practical experience, I can help you navigate life in many ways, suitable for you.
 
-Use breathing techniques to promote digestive, immune ,respiratory and cardio-vascular health plus cultivate a deeper awareness of our inner world. This class is also recorded if you wish to access it at another time.
+Call Deyna on: 01539 241174
 
-**Mantra Chanting from 10:45-11:15 GMT**
+Email: deyna@innerfire.org.uk
 
-Finish off the morning with deep cellular activation and illumination through mantra chanting (you can mute your mic!)
+Visit: innerfire.org.uk
