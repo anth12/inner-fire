@@ -1,7 +1,7 @@
 ---
 img: /uploads/20201222_141006.jpg
 permalink: /training/
-title: Educative and Evolutionary Inner and Outer Adventures
+title: Inner and Outer Adventures
 subtitle: ""
 ---
 **C﻿oming soon**
