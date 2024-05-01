@@ -16,6 +16,6 @@ I am qualified in therapeutic mind-body-breath techniques to help you manage or 
 
 **\*Kosha (aspects of being) Therapy**: together we will look at how you exercise and eat; how you breathe; any current emotional or mental pressure, and deeper ingrained habits or destructive self-talk. Over a few weeks (depending on how we progress) we will develop (or I will help you access) a physical practice or activity; awareness of conscious deep breathing; a healthy lifestyle routine and diet; and constructive self-talk, for you to follow. I recommend a follow-up as needed.
 
-Individual sessions are great for many mental and physical conditions including stress, anxiety, muscular pain, cancer, MS and depression. Ideally you will come to my home in Kendal and we'll work for an hour but if necessary I can come to you, or we can work over Zoom, or in the outdoors. My standard fee is £45/hour but I am sometimes able to offer discounts according to circumstances.
+Individual sessions are great for many mental and physical conditions including stress, anxiety, muscular pain, cancer, MS and depression. Ideally you will come to my home in Kendal and we'll work for an hour but if necessary I can come to you, or we can work over Zoom, or in the outdoors. My standard fee is £55/hour but I am sometimes able to offer discounts according to circumstances.
 
 Contact me to discuss your personal needs on 01539241174 (+447588428764 for WhatsApp) or email for an appointment: deyna@innerfire.org.uk
