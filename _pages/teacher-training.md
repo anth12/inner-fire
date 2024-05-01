@@ -1,35 +1,16 @@
 ---
-img: /uploads/3.jpg
+img: /uploads/20201122_110558.jpg
 permalink: /teacher-training/
-title: 200 - 500 hour Teacher Training
+title: Personal Involution Coaching
 ---
-B﻿uild on personal evolution to become a teacher or guide and help others navigate life, health and well-being through yoga practices. 
+A﻿re you money-rich but empty and lost within? Do you want to K﻿now and Realise your unique, amazing mind, body and breath as an atomic, elemental miracle which is your Life.
 
-S﻿tarting in 2024, and running over 6 modules (via a mix of weekends, online meetings and residentials) + various self-study options, you will cultivate your own self-awareness and learn ways and techniques to assist others in their progress. This is a research teacher training which will require you to study BEFORE each weekend so that you can contribute and consolidate your discoveries by sharing and experiencing with others. 
+I﻿ have trained, evolved and re-balanced with 30 years of yoga support from Indian and UK courses and people. 
 
-W﻿e will begin with 4 weekends, after which you can start teaching as a student: 
+S﻿hall we exchange?
 
-P﻿roposed dates:
+I﻿ have called my approach involution coaching as it is about addressing internal existential dis-harmony. I have studied ancient wisdom and how this manifests in us and is verified by contemporary biological and neuroscientific research. 
 
-F﻿ebruary 16-18th in Kendal, Cumbria
+Y﻿ou will need to have capacity to comprehend intellectual concepts of self and also be open to the experiential paradoxes we live on a daily basis. It is all eye-opening, ego-altering, mind-boggling information and you need to have the mental fortitude to cope with your own revelations, with my support. 
 
-M﻿arch 15 - 17th in Kendal, Cumbria
-
-A﻿pril 12- 14th: Camping or Bunk barn in Cumbria
-
-M﻿ay 17 - 19th: Camping or Bunk barn in Cumbria
-
-Summer residential:
-
-A﻿ugust 15 - 18th - venue to be decided
-
-A﻿ further 4 weekends or residentials will be decided between the group which we form, either in Autumn/Winter 2024 or Spring/Summer 2025
-
-This may include adventures abroad or in the UK, depending on needs and development. If you wish to pursue a 500 hour training (recommended), you will be asked to undertake the Personal Evolution Certificate via the Yoga Pathway: Click [here](https://www.dropbox.com/scl/fi/yxn4cvkmrm4chqw6iq4v1/Personal-Evolution-Certificate-Yoga.pdf?rlkey=5x8zy1zofxroxqw2g043t6iid&dl=0) for details. 
-
-Y﻿oga, by it's very nature, infers flexibility, curiosity and pursuit of understanding for self-realisation. Teacher training by research encourages fluidity, adaptability and mutability - if you are unsure of anything, please ask. If you have differing needs, please ask. If you are excited by this new paradigm of training, be in touch.
-
-C﻿ost of instruction (including online tutorials/meetings), certification and accreditation: £1500. There will be additional residential costs, according to your preferences. 
-
-**Private Teacher Training in Yoga as a way to understand and manage health (mind, body and breath)**\
-I am always open to running private teacher trainings for 1 - 4 people and we can negotiate hours that fit in around your lifestyle. Ring or email me to discuss.
+I﻿ charge £15000 for 200 hours of involution coaching over a time span, suitable for you: it can be one or two days a week, or a few hours per week. I'm happy to work with up to 3 people who share this expense and you can gain a certificate to share what you have learned with others (it will be accredited by Yoga Alliance International but this is an evolving approach so you will be a pioneer)
