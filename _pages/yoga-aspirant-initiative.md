@@ -1,7 +1,7 @@
 ---
 img: /uploads/aspiration.jpg
 permalink: /personal-evolution/
-title: Personal Evolution Certificate
+title: Personal Evolution Award
 subtitle: A Pathway to Optimum Health
 ---
 W﻿e are created from ever-moving, ever-changing atoms and as humans, being committed to personal evolution is is essential for our holistic growth.
