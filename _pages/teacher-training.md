@@ -1,6 +1,6 @@
 ---
 img: /uploads/20201122_110558.jpg
-permalink: /teacher-training/
+permalink: /training/
 title: Vedanta and Sanskrit Training
 ---
 <!--StartFragment-->
