@@ -7,8 +7,8 @@ menu:
     url: /adventures/
   - text: Personal Evolution
     url: /personal-evolution/
-  - text: Teacher Training
-    url: /teacher-training/
+  - text: Training
+    url: /training/
   - text: Zoom Classes
     url: /zoom-classes/
   - lowPriority: false
