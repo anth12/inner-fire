@@ -6,7 +6,7 @@ subtitle: A Pathway to Optimum Health
 ---
 W﻿e are created from ever-moving, ever-changing atoms and as humans, being committed to personal evolution is is essential for our holistic growth.
 
-The personal evolution certificate recognises that structured guidance along a path can be beneficial, whether we use the language of yoga, or think in terms of our well-being. 
+The personal evolution award recognises that structured guidance along a path can be beneficial, whether we use the language of yoga, or think in terms of our well-being.
 
 I invite you on a journey towards self-revelation and realisation, wherever you are and however you are in life.
 
