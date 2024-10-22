@@ -3,8 +3,6 @@ img: /uploads/20201122_110558.jpg
 permalink: /training/
 title: Vedanta and Sanskrit Training
 ---
-<!--StartFragment-->
-
 **Vedanta and Sanskrit Study** \
 What if I am comfortable with who I am and how I am, even if it isn't what is desired by my self or other people around me? \
 What if I accepted that my mental, physical, emotional and respiratory health is naturally and unavoidably prone to fluctuations and permutations: that I, and all of us, exist on a fluid spectrum of human beingness that I slide and dance along?\
@@ -18,5 +16,3 @@ You will automatically become an inaugural member of the Northern Vedanta Societ
 Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour certification (optional), study guide handouts. Travel, accommodation and additional study materials are not included.  \
 \
 Apply by emailing for a booking form to deyna@innerfire.org.uk, or if you would like to discuss the course further, please also email and we can arrange to chat.
-
-<!--EndFragment-->
