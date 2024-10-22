@@ -1,16 +1,22 @@
 ---
 img: /uploads/20201122_110558.jpg
 permalink: /teacher-training/
-title: Personal Involution Coaching
+title: Vedanta and Sanskrit Training
 ---
-A﻿re you money-rich but empty and lost within? Do you want to K﻿now and Realise your unique, amazing mind, body and breath as an atomic, elemental miracle which is your Life.
+<!--StartFragment-->
 
-I﻿ have trained, evolved and re-balanced with 30 years of yoga support from Indian and UK courses and people. 
+**Vedanta and Sanskrit Study** \
+What if I am comfortable with who I am and how I am, even if it isn't what is desired by my self or other people around me? \
+What if I accepted that my mental, physical, emotional and respiratory health is naturally and unavoidably prone to fluctuations and permutations: that I, and all of us, exist on a fluid spectrum of human beingness that I slide and dance along?\
+\
+\
+This will be an amazing exploration of our dual and non-dual self (as an egoic human and divine/transcendental being) using ancient knowledge and innate or universal wisdom that offers fundamental guidance for life, health and expression. Vedanta means the culmination of knowledge and answers essential questions of humanness through study and inquiry. It's based on the ancient Indian philosophy of the Upanishads and teaches a unique relationship within yourself and with the world around you. A working knowledge of the beautiful spiritual language of Sanskrit brings extra wealth and revelation to study that can be lost in translations.\
+It assumes a basic knowledge and understanding of yoga philosophy (and if you don't have this then no worries - you have all winter to access YouTube!) and there will be self-study, session preparation + the opportunity for Zoom check-ins or individual support throughout. \
+You can join us for your own evolution, or as yoga continuing professional development for which a 50 hour certification is available. If you are a qualified yoga teacher, it will enhance your ability to teach not primarily asana but also deep yoga wisdom that is just as relevant for health and well-being today. \
+We will have 8 meetings x @5 hours of initial training and study which will take place at venues in the north-west and be mainly gyana (knowledge-based) but may also include asana (stretching), pranayama (conscious breathing) and dharana (focussed awareness). Depending on number of participants (and the weather!), we may venture into the outdoors as an elemental guru (teacher), or use indoor halls to stay dry and invite discussion and .\
+You will automatically become an inaugural member of the Northern Vedanta Society UK that I am in the process of establishing. If you would like to be actively involved with this, please be in touch.\
+Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour certification (optional), study guide handouts. Travel, accommodation and additional study materials are not included.  \
+\
+Apply by emailing for a booking form to deyna@innerfire.org.uk, or if you would like to discuss the course further, please also email and we can arrange to chat.
 
-S﻿hall we exchange?
-
-I﻿ have called my approach involution coaching as it is about addressing internal existential dis-harmony. I have studied ancient wisdom and how this manifests in us and is verified by contemporary biological and neuroscientific research. 
-
-Y﻿ou will need to have capacity to comprehend intellectual concepts of self and also be open to the experiential paradoxes we live on a daily basis. It is all eye-opening, ego-altering, mind-boggling information and you need to have the mental fortitude to cope with your own revelations, with my support. 
-
-I﻿ charge £15000 for 200 hours of involution coaching over a time span, suitable for you: it can be one or two days a week, or a few hours per week. I'm happy to work with up to 3 people who share this expense and you can gain a certificate to share what you have learned with others (it will be accredited by Yoga Alliance International but this is an evolving approach so you will be a pioneer)
+<!--EndFragment-->
