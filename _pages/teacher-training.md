@@ -4,9 +4,10 @@ permalink: /training/
 title: Vedanta and Sanskrit Training
 ---
 **Vedanta and Sanskrit Study** \
-What if I am comfortable with who I am and how I am, even if it isn't what is desired by my self or other people around me? \
-What if I accepted that my mental, physical, emotional and respiratory health is naturally and unavoidably prone to fluctuations and permutations: that I, and all of us, exist on a fluid spectrum of human beingness that I slide and dance along?\
+What if I am comfortable with who I am and how I am, even if it isn't what is desired by my self or other people around me? 
+
 \
+What if I accepted that my mental, physical, emotional and respiratory health is naturally and unavoidably prone to fluctuations and permutations: that I, and all of us, exist on a fluid spectrum of human beingness that I slide and dance along?\
 \
 This will be an amazing exploration of our dual and non-dual self (as an egoic human and divine/transcendental being) using ancient knowledge and innate or universal wisdom that offers fundamental guidance for life, health and expression. Vedanta means the culmination of knowledge and answers essential questions of humanness through study and inquiry. It's based on the ancient Indian philosophy of the Upanishads and teaches a unique relationship within yourself and with the world around you. A working knowledge of the beautiful spiritual language of Sanskrit brings extra wealth and revelation to study that can be lost in translations.\
 It assumes a basic knowledge and understanding of yoga philosophy (and if you don't have this then no worries - you have all winter to access YouTube!) and there will be self-study, session preparation + the opportunity for Zoom check-ins or individual support throughout. \
