@@ -22,4 +22,14 @@ You will automatically become an inaugural member of the Northern Vedanta Societ
 \
 Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour certification (optional), study guide handouts. Travel, accommodation and additional study materials are not included.  
 
+**Suggested Dates**These are flexible depending on participants but I think it's good to look at diaries early and allocate time. The dates are all in 2025 but if need be we can move some to 2026!\
+1. Saturday 1st March\
+2. Saturday 29th March\
+3. Sunday 27th April\
+4. Sunday 1st June\
+5. Saturday 28th June\
+6. Saturday 26th July\
+7. Sunday 7th December\
+8. Sunday 5th October
+
 Apply by emailing for a booking form to deyna@innerfire.org.uk, or if you would like to discuss the course further, please also email and we can arrange to chat.
