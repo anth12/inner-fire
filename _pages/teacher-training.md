@@ -30,7 +30,7 @@ Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour c
 4. Sunday 1st June
 5. Saturday 28th June
 6. Saturday 26th July
-7. Sunday 7th December
+7. Sunday 7th September
 8. Sunday 5th October
 
 Apply by emailing for a booking form to deyna@innerfire.org.uk, or if you would like to discuss the course further, please also email and we can arrange to chat.
