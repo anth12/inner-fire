@@ -22,7 +22,7 @@ You will automatically become an inaugural member of the Northern Vedanta Societ
 \
 Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour certification (optional), study guide handouts. Travel, accommodation and additional study materials are not included.  
 
-**Suggested Dates:** These are flexible depending on participants but I think it's good to look at diaries early and allocate time. The dates are all in 2025 but if need be we can move some to 2026!
+**Suggested Dates:** These are flexible depending on participants but I think it's good to look at diaries early and allocate time. The dates are all in 2025 but if need be we can move some to 2026! Each day will run from 10am - 4:30pm
 
 1. Saturday 1st March
 2. Saturday 29th March
