@@ -1,7 +1,7 @@
 ---
 img: /uploads/20201122_110558.jpg
 permalink: /training/
-title: Vedanta with Sanskrit Training
+title: The Wisdom of Vedanta
 ---
 **Vedanta with Sanskrit Study** \
 What if I am comfortable with who I am and how I am, even if it isn't what is desired by my self or other people around me? What if I am interested in a world beyond self?
