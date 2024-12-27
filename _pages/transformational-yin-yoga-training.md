@@ -23,6 +23,8 @@ C﻿ost: Transformational Yin Yoga only - £595 for 8 days training
 
 Cost: Wisdom of Vedanta + Transformational Yin Yoga (with certification) - £1100 for 16 days training
 
+(﻿I've tried to cost this training so it is affordable as yoga was never meant to be a money-making venture: it is the need to pay bills and live myself that necessitates charging)
+
 P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you intend to teach Transformational Yin Yoga and want a CPD certificate, please come to both). These are not set in stone and may be moved, if necessary.
 
 1. Sunday 2nd March 
@@ -35,3 +37,5 @@ P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you
 8. S﻿aturday 4th October
 
 E﻿ach day will run 9:30am - 4pm and there will be pre-course experiential suggestions and ongoing research study of self and scriptures (not essential unless you are wanting a certificate to teach).
+
+P﻿lease email: deyna@innerfire.org.uk for a booking form, or to arrange an informal chat
