@@ -1,6 +1,6 @@
 ---
 img: /uploads/20201122_110558.jpg
-permalink: /training/
+permalink: /wisdom-of-vedanta/
 title: The Wisdom of Vedanta
 ---
 **Vedanta with Sanskrit Study** \
