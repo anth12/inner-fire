@@ -7,16 +7,16 @@ T﻿his course runs alongside 'The Wisdom of Vedanta' to create a weekend of yog
 
 I﻿t's an 8 day course running on either the preceding Saturday or following Sunday as a complement to 'The Wisdom of Vedanta'.
 
-I﻿ncluding:
-
-* Research illuminating philosophical ideas
-* Ancient wisdom meets contemporary knowledge
+* P﻿ersonal research of illuminating philosophical ideas
+* Ancient wisdom meeting contemporary knowledge
 * Invite Svadyaya (self-study and reflection)
 * Build relationship with Koshas and Chakras
 * Use Asana as a gateway to deeper knowing
-* Value ultimate surrender and liberation
-* Feel sharing yoga as an avocation with vocation
+* How to value ultimate surrender and liberation 
+* Feel that sharing yoga is an avocation 
 * Celebrate daftness and light-heartedness
+* R﻿educe attachment to our messy mind and external narrative
+* A﻿bility to observe our actions, reactions and interactions without judgement
 * Qualification to teach, if done with Wisdom of Vedanta course and you already have done a 200hour Yoga teacher training course (in any asana style, at any school)
 
 C﻿ost: Transformational Yin Yoga - £595 for 8 days training
