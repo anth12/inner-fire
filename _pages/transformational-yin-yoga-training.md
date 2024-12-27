@@ -1,6 +1,6 @@
 ---
 img: /uploads/izaak-on-beach.jpg
-permalink: /training/
+permalink: /yin-yoga/
 title: Transformational Yin Yoga Training
 ---
 T﻿his course runs alongside 'The Wisdom of Vedanta' to create a weekend of yoga submersion at a profound level.
