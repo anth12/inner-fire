@@ -19,11 +19,11 @@ I﻿t's an 8 day course running on either the preceding Saturday or following Su
 * A﻿bility to observe our actions, reactions and interactions without judgement
 * Qualification to teach, if done with Wisdom of Vedanta course and you already have done a 200hour Yoga teacher training course (in any asana style, at any school)
 
-C﻿ost: Transformational Yin Yoga - £595 for 8 days training
+C﻿ost: Transformational Yin Yoga only - £595 for 8 days training
 
-Cost: Wisdom of Vedanta + Transformational Yin Yoga (with certification)  - £1100 for 16 days training
+Cost: Wisdom of Vedanta + Transformational Yin Yoga (with certification) - £1100 for 16 days training
 
-P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you intend to teach Transformational Yin Yoga and want a CPD certificate, please come to both):
+P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you intend to teach Transformational Yin Yoga and want a CPD certificate, please come to both). These are not set in stone and may be moved, if necessary.
 
 1. Sunday 2nd March 
 2. S﻿unday 30th March
