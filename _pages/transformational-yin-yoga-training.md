@@ -9,20 +9,29 @@ I﻿t's an 8 day course running on either the preceding Saturday or following Su
 
 I﻿ncluding:
 
-Research illuminating philosophical ideas
+* Research illuminating philosophical ideas
+* Ancient wisdom meets contemporary knowledge
+* Invite Svadyaya (self-study and reflection)
+* Build relationship with Koshas and Chakras
+* Use Asana as a gateway to deeper knowing
+* Value ultimate surrender and liberation
+* Feel sharing yoga as an avocation with vocation
+* Celebrate daftness and light-heartedness
+* Qualification to teach, if done with Wisdom of Vedanta course and you already have done a 200hour Yoga teacher training course (in any asana style, at any school)
 
-Ancient wisdom meets contemporary knowledge
+C﻿ost: Transformational Yin Yoga - £595 for 8 days training
 
-Invite Svadyaya (self-study and reflection)
+Cost: Wisdom of Vedanta + Transformational Yin Yoga (with certification)  - £1100 for 16 days training
 
-Build relationship with Koshas and Chakras
+P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you intend to teach Transformational Yin Yoga and want a CPD certificate, please come to both):
 
-Use Asana as a gateway to deeper knowing
+1. Sunday 2nd March 
+2. S﻿unday 30th March
+3. S﻿aturday 26th April
+4. S﻿aturday 30th May
+5. S﻿unday 29th June
+6. S﻿unday 27th July
+7. S﻿aturday 6th September
+8. S﻿aturday 4th October
 
-Value ultimate surrender and liberation
-
-Feel sharing yoga as an avocation with vocation
-
-Celebrate daftness and light-heartedness
-
-Qualification to teach, if desired
+E﻿ach day will run 9:30am - 4pm and there will be pre-course experiential suggestions and ongoing research study of self and scriptures (not essential unless you are wanting a certificate to teach).
