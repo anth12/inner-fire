@@ -29,12 +29,12 @@ P﻿roposed dates are to complement your attendance at Wisdom of Vedanta (if you
 
 1. Sunday 2nd March 
 2. S﻿unday 30th March
-3. S﻿aturday 26th April
-4. S﻿aturday 30th May
-5. S﻿unday 29th June
-6. S﻿unday 27th July
-7. S﻿aturday 6th September
-8. S﻿aturday 4th October
+3. S﻿aturday 31st May
+4. S﻿unday 6h July
+5. S﻿unday 27th July
+6. S﻿aturday 6th September
+7. S﻿aturday 4th October
+8. S﻿unday 26th October
 
 E﻿ach day will run 9:30am - 4pm and there will be pre-course experiential suggestions and ongoing research study of self and scriptures (not essential unless you are wanting a certificate to teach).
 
