@@ -24,13 +24,13 @@ Fee: £575 for 8 sessions, to include: registration, co-ordination and 50 hour c
 
 **Suggested Dates:** These are flexible depending on participants but I think it's good to look at diaries early and allocate time. The dates are all in 2025 but if need be we can move some to 2026! Each day will run from 10am - 4:30pm with some flexibility in timings.
 
-1. Saturday 1st March
+1. S﻿aturday 1st March
 2. Saturday 29th March
 3. Sunday 1st June
 4. Saturday 5th July
 5. Saturday 26th July
 6. Sunday 7th September
 7. Sunday 5th October
-8﻿. Saturday 25th October
+8. S﻿aturday 25th October
 
 Apply by emailing for a booking form to deyna@innerfire.org.uk, or if you would like to discuss the course further, please also email and we can arrange to chat.
