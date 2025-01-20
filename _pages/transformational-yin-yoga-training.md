@@ -14,7 +14,7 @@ B﻿espoke Transformational Yin Yoga Training to facilitate your health, self-re
 * Share yoga as an avocation 
 * Celebrate daftness and light-heartedness
 * R﻿educe attachment to our messy mind and external narrative
-* A﻿bility to observe our actions, reactions and interactions without judgement
+* Enable your a﻿bility to observe actions, reactions and interactions without judgement
 * Qualification to teach, if you have already done a 200hour Yoga teacher training course (in any asana style, at any school)
 
 C﻿ost: Transformational Yin Yoga: £1250 for 50 hours training which can be shared by up to 6 people with hours to suit your schedule (where possible).
