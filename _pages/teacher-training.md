@@ -3,7 +3,7 @@ img: /uploads/20201122_110558.jpg
 permalink: /wisdom-of-vedanta/
 title: The Wisdom of Vedanta
 ---
-The Wisdom of Vedanta
+**The Wisdom of Vedanta**
 
 A﻿re you feeling pressured with life and the hamster wheel of capitalist acquisition?
 
