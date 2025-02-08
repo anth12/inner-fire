@@ -23,7 +23,7 @@ It assumes a basic knowledge and understanding of yoga philosophy (and if you do
 
 You can study for your own evolution, or as yoga continuing professional development for which a 50 hour certification is available. If you are a qualified yoga teacher, it will enhance your ability to teach not primarily asana but also deep yoga wisdom that is just as relevant for health and well-being today. 
 
-W﻿orking at your own pace, and to suit your own schedule (and mine) I offer 50 hours of tuition, with full support and guidance as necessary.
+W﻿ork at your own pace with full support and guidance as necessary.
 
 You will automatically become an inaugural member of the Northern Vedanta Society UK that I am in the process of establishing. If you would like to be actively involved with this, please be in touch.
 
