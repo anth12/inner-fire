@@ -9,7 +9,7 @@ With mental and physical health services at their limit, it is time to take cont
 
 As a qualified yoga therapist and outdoor instructor with 30 years of practical experience, I can help you navigate life in many ways, suitable for you. We can connect over Zoom, in nature, in your own home (local to Kendal), or at my house in Kendal.
 
-C﻿ost: £55 per hour
+C﻿ost: £45 per hour
 
 Call Deyna on: 07588428764
 
