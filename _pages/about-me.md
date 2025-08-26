@@ -35,4 +35,10 @@ Mental Health First Aid
 
 Outdoor First Aid
 
+M﻿ountain Leader
+
+C﻿ounselling Skills
+
+S﻿afeguarding
+
 All my certification is supported by years of personal experience and study. Be in touch for a consultation and I can promise you a programme that empowers you to manage and evolve in ways that you may not even have begun to imagine!
